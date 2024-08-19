@@ -1,0 +1,3163 @@
+compound1,compound2,hydrogen_donor,hydrogen_acceptor,Drug1,molecular_weight (in g/mol) / DA
+acetic acid,salicylic acid,1,2,Aspirin,180.16
+4-aminophenol,acetic anhydride,1,1,Acetaminophen,151.16
+p-hydroxyphenyl glycine methyl ester,aminopenicillanic acid,0,2,Amoxicillin,365.4
+erythromycin,methyl-nitrogen,0,2,Azithromycin,748.98
+Isobutylbenzene,Acyl chloride,4,7,Ibuprofen,206.28
+Dimethylbiguanide,Cyanamide,2,3,Metformin,129.16
+Cyclohexanone,Amino acids,2,3,Gabapentin,171.24
+Amoxicillin,Clavulanic Acid,0,2,Augmentin,365
+Hydrocodone,Acetaminophen,1,1,Vicodin,291
+Lisinopril,Hydrochlorothiazide,2,3,Zestoretic,447
+Amlodipine,Benazepril,3,3,Lotrel,408
+Fluticasone,Salmeterol,2,2,Advair,500.57
+Ipratropium,Albuterol,2,2,Combivent,332.38
+Losartan,Hydrochlorothiazide,1,2,Hyzaar,422.91
+Metformin,Sitagliptin,1,3,Janumet,523.32
+Glyburide,Metformin,0,2,Glucovance,493.99
+Vildagliptin,Metformin,0,2,Galvus Met,129.96
+Perindopril,Indapamide,0,2,Preterax,365.84
+Bisoprolol,Hydrochlorothiazide,3,4,Ziac,325.45
+Lamivudine,Zidovudine,1,3,Combivir,229.26
+Carbidopa,Levodopa,3,4,Sinemet,244.24
+Pioglitazone,Metformin,2,3,Actoplus Met,356.44
+Telmisartan,Hydrochlorothiazide,2,5,Micardis HCT,514.63
+Valsartan,Hydrochlorothiazide,2,1,Diovan HCT,433.52
+Lopinavir,Ritonavir,1,1,Kaletra,345.76
+Aliskiren,Hydrochlorothiazide,1,2,Tekturna HCT,609.83
+Amlodipine,Olmesartan,2,2,Azor,408.88
+Amlodipine,Valsartan,2,2,Exforge,408.88
+Amlodipine,Atorvastatin,2,7,Caduet,266.37
+Atenolol,Chlorthalidone,2,4,Tenoretic,505.45
+ 4-chloroaniline,Hexamethylenetetramin,2,2,Chlorhexidine,299.37
+Thebaine ,Hydrogenation Reagents,2,4,Hydrocodone,585.53
+Minocycline ,Glycine,4,4,Tigecycline,424.5
+Benazepril,Hydrochlorothiazide,0,3,Lotensin HCT,408.87
+D-Glucose derivative, Benzyl bromide derivative,0,6,Dapagliflozin ,493.99
+4-chlorobenzenesulfonamide, 5-chloro-2-methoxybenzoic acid,1,1,Glyburide,440.47
+Candesartan,Hydrochlorothiazide,4,6,Atacand HCT,217.29
+Captopril,Hydrochlorothiazide,2,3,Capozide,274.78
+Chlorpheniramine,Hydrocodone,3,4,Tussionex,274.78
+Chlorpheniramine,Phenylephrine,1,3,Chlor-Trimeton,297.23
+Chlorpheniramine,Pseudoephedrine,2,6,Chlor-Trimeton D,274.78
+Ciprofloxacin,Dexamethasone,2,6,Ciprodex,331.34
+Clindamycin,Tretinoin,2,4,Ziana,425.98
+Clotrimazole,Betamethasone,1,3,Lotrisone,344.84
+Codeine,Guaifenesin,0,4,Robitussin AC,198.22
+Codeine,Promethazine,0,3,Phenergan with Codeine,284.41
+Dapagliflozin,Metformin,1,4,Xigduo XR,408.87
+Diclofenac,Misoprostol,3,4,Arthrotec,296.15
+Dorzolamide,Timolol,1,7,Cosopt,324.48
+Ezetimibe,Simvastatin,2,4,Vytorin,409.39
+Fenofibrate,Simvastatin,4,12,Cholib,360.83
+Formoterol,Budesonide,2,3,Symbicort,430.54
+Glyburide,Rosiglitazone,3,10,Avandaryl,357.43
+Ibuprofen,Famotidine,2,7,Duexis,206.28
+Indapamide,Perindopril,0,2,Preterax,368.42
+Lopinavir,Ritonavir,0,2,Kaletra,628.81
+Methyldopa,Hydrochlorothiazide,2,1,Aldoril,211.21
+Metoprolo,Olmesartan,2,9,Azor,408.88
+Pioglitazone,Glimepiride,0,5,Duetact,356.44
+Amlodipine,Perindopril,2,3,Prestalia,777.6
+Amphetamine,Dextroamphetamine,3,6,Adderal,270.4
+Aspirin,Dipyridamole,1,5,Aggrenox,684.7
+Budesonide,Formoterol,0,6,Symbicort,774.9
+Buprenorphine,Naloxone,2,5,Suboxone,795
+Chlorpheniramine,Phenylpropanolamine,0,7,Ornade,426
+Chlorpheniramine,Methscopolamine,2,6,Deconamine SR,759.4
+Chlorpheniramine,Phenylpropanolamine,1,5,Teldrin,426
+Codeine,Acetaminophen,1,7,Tylenol with Codeine,450.6
+Diclofenac,Omeprazole,2,8,Arthrotec,641.6
+Drospirenone,Ethinyl Estradiol,1,5,Yasmin,662.9
+Emtricitabine,Tenofovir,2,4,Truvada,534.5
+Esomeprazole,Naproxen,3,3,Vimovo,575.7
+Ezetimibe,Atorvastatin,3,6,Liptruzet,1618.8
+Fexofenadine,Pseudoephedrine,2,3,Allegra-D,666.9
+Fluticasone,Vilanterol,3,7,Breo Ellipta,948.1
+Glyburide,Metformin,4,2,Glucovance,623.2
+Insulin Degludec,Liraglutide,3,5,Xultophy,9861.2
+Insulin Glargine,Lixisenatide,1,6,Soliqua,10921
+Ipratropium,Albuterol,4,4,Combivent,571.7
+Levodopa,Carbidopa/Entacapone,1,5,Stalevo,728.8
+Liraglutide,Insulin Degludec,1,6,Xultophy,9861.2
+Metformin,Glyburide,1,1,Glucovance,623.2
+Metformin,Saxagliptin,1,4,Kombiglyze XR,444.6
+Metformin,Vildagliptin,0,5,Eucreas,432.6
+Nebivolol,Valsartan,2,3,Byvalson,877.4
+Oxycodone,Acetaminophen,1,4,Percocet,466.6
+Sitagliptin,Metformin,2,5,Janumet,536.5
+Tamsulosin,Dutasteride,0,5,Jalyn,551
+Triamterene,Hydrochlorothiazide,0,2,"Dyazide, Maxzide",550.1
+Atorvastatin,Ezetimibe,2,4,Liptruzet,1618.8
+Amlodipine,Benazepril,3,5,Lotrel,833.6
+Clopidogrel,Aspirin,1,6,Clopidogrel/Aspirin,501.4
+Lisinopril,Hydrochlorothiazide,1,1,Zestoretic,471.5
+Propranolol,Hydrochlorothiazide,1,3,Inderide,557
+Valsartan,Hydrochlorothiazide,3,4,Diovan HCT,433.52
+Telmisartan,Amlodipine,1,5,Twynsta,579.9
+Perindopril,Amlodipine,2,4,Prestalia,777.6
+Spironolactone,Hydrochlorothiazide,1,4,Aldactazide,632.8
+Loratadine,Pseudoephedrine,0,5,Claritin-D,425.98
+Rosuvastatin,Ezetimibe,0,4,Roszet,684.6
+Ezetimibe,Simvastatin,1,4,Vytorin,597.7
+Olmesartan,Amlodipine,2,4,Azor,408.88
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Hydrocodone,Acetaminophen,0,5,Vicodin,291
+Oxycodone,Ibuprofen,1,7,Combunox,586.6
+Ibuprofen,Famotidine,3,1,Duexis,586.6
+Esomeprazole,Naproxen,2,6,Vimovo,575.7
+Sitagliptin,Metformin,1,4,Janumet,536.5
+Glyburide,Metformin,1,3,Glucovance,623.2
+Amlodipine,Olmesartan,0,5,Azor,408.88
+Losartan,Hydrochlorothiazide,1,7,Hyzaar,435.4
+Chlorthalidone,Hydrochlorothiazide,2,5,Clorpres,394.9
+Metformin,Sitagliptin,2,6,Janumet,536.5
+Empagliflozin,Metformin,2,4,Synjardy,587.7
+Rivaroxaban,Aspirin,3,4,Xarelto with Aspirin,638.2
+Sacubitril,Valsartan,4,4,Entresto,603.8
+Ceftazidime,Avibactam,0,5,Avycaz,907.2
+Ampicillin,Sulbactam,1,3,Unasyn,597.6
+Glycopyrrolate,Formoterol,1,5,Bevespi Aerosphere,545.7
+Amlodipine,Perindopril,2,6,Prestalia,777.6
+Bisoprolol,Hydrochlorothiazide,0,5,Ziac,291.1
+Valsartan,Amlodipine,2,4,Exforge,579.9
+Perindopril,Amlodipine,0,5,Prestalia,777.6
+Trandolapril,Verapamil,1,6,Tarka,661.9
+Telmisartan,Hydrochlorothiazide,1,7,Micardis HCT,833.6
+Clopidogrel,Aspirin,1,5,Clopidogrel with Aspirin,481.9
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,478.5
+Olmesartan,Hydrochlorothiazide,1,5,Benicar HCT,636.4
+Propranolol,Hydrochlorothiazide,2,6,Inderide,557
+Atorvastatin,Ezetimibe,1,4,Liptruzet,1618.8
+Fosinopril,Hydrochlorothiazide,4,5,Monopril HCT,502.6
+Methyldopa,Hydrochlorothiazide,2,4,Aldoril,377.8
+Amiloride,Hydrochlorothiazide,1,5,Moduretic,491.5
+Aspirin,Dipyridamole,0,4,Aggrenox,684.7
+Niacin,Simvastatin,0,5,Simcor,797
+Naltrexone,Bupropion,1,4,Contrave,596.7
+Bupropion,Naltrexone,2,5,Contrave,596.7
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Empagliflozin,Metformin,2,5,Synjardy,587.7
+Ergotamine,Caffeine,0,4,Cafergot,264.3
+Paracetamol,Codeine,0,5,Co-Codamol,378.4
+Butalbital,Aspirin,1,2,Fiorinal,394.4
+Buprenorphine,Naloxone,1,4,Suboxone,795
+Fentanyl,Droperidol,1,5,Innovar,417.5
+Carisoprodol,Aspirin,4,4,Soma Compound,542.5
+Hydroxychloroquine,Sulfapyridine,4,3,Plaquenil,433.3
+Sulfamethoxazole,Trimethoprim,0,5,Bactrim,249.3
+Trimethoprim,Sulfamethoxazole,3,3,Septra,249.3
+Ciprofloxacin,Dexamethasone,2,5,CiproDex,421.3
+Phenylalanine,Aspartic acid,0,3,Aspartame,294.29
+Dopamine,Tyrosine,1,4,Norepinephrine,169.18
+Paracetamol,Phenylephrine,3,3,Percogesic,448.55
+Codeine,Acetaminophen,2,4,Tylenol with Codeine,500
+Amoxicillin,Clavulanic Acid,1,4,Augmentin,601.51
+Levodopa,Carbidopa,1,7,Sinemet,430.33
+Glimepiride,Metformin Hydrochloride,0,4,Amaryl M,614.76
+Glipizide,Metformin Hydrochloride,1,12,Metaglip,614.76
+Tolmetin Sodium,Magnesium Stearate,2,3,Tolmetin,276.28
+Rosiglitazone,Metformin Hydrochloride,2,10,Avandamet,569.69
+Pioglitazone,Metformin Hydrochloride,2,7,Actoplus Met,551.48
+Sitagliptin,Metformin Hydrochloride,3,2,Janumet,551.48
+Saxagliptin,Metformin,4,2,Kombiglyze XR,551.48
+Linagliptin,Metformin,0,1,Jentadueto,551.48
+Alogliptin,Metformin,1,9,Kazano,572.48
+Alendronate,Cholecalciferol,1,5,Fosamax Plus D,550.51
+Risedronate,Calcium carbonate,2,3,Actonel with Calcium,831.55
+Zoledronic acid,Alendronic acid,0,6,Reclast,355.18
+Ibandronate,Cholecalciferol,2,5,Boniva,270.22
+Atazanavir,Cobicistat,0,6,Evotaz,1182.42
+Darunavir,Ritonavir,1,5,Prezista,527.71
+Efavirenz,Tenofovir,1,7,Atripla,751.85
+Nevirapine,Emtricitabine,1,6,Viramune,266.25
+Etravirine,Tenofovir,1,5,Intelence,553.24
+Rilpivirine,Tenofovir,1,7,Edurant,540.69
+Elvitegravir,Cobicistat,2,8,Stribild,1049.36
+Dolutegravir,Abacavir,1,5,Triumeq,772.73
+Raltegravir,Emtricitabine,4,4,Isentress,472.43
+Emtricitabine,Tenofovir,2,3,Truvada,487.48
+Tenofovir,Tenofovir,1,6,Descovy,554.55
+Lamivudine,Emtricitabine,0,3,Epivir,229.21
+Stavudine,Lamivudine,0,7,Zerit,227.23
+Zidovudine,Lamivudine,1,2,Retrovir,227.23
+Abacavir,Lamivudine,2,5,Ziagen,285.28
+Didanosine,Lamivudine,0,6,Videx,268.23
+Enalapril,Hydrochlorothiazide,2,4,Vaseretic,613.76
+Lisinopril,Hydrochlorothiazide,0,5,Zestoretic,613.76
+Quinapril,Hydrochlorothiazide,0,6,Accuretic,613.76
+Perindopril,Hydrochlorothiazide,1,1,Prestalia,613.76
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,613.76
+Telmisartan,Amlodipine,1,5,Twynsta,613.76
+Eprosartan,Hydrochlorothiazide,4,3,Teveten HCT,613.76
+Irbesartan,Hydrochlorothiazide,4,4,Avalide,613.76
+Candesartan,Hydrochlorothiazide,0,5,Atacand HCT,277.73
+Valsartan,Hydrochlorothiazide,3,5,Diovan HCT,317.37
+Olmesartan,Hydrochlorothiazide,2,2,Benicar HCT,222.71
+Clonidine,Chlorthalidone,0,4,Clorpres,344.94
+Methyldopa,Hydrochlorothiazide,1,5,Aldoril,
+Guanfacine,Hydrochlorothiazide,3,6,Tenex,
+Hydralazine,Hydrochlorothiazide,2,1,Apresoline HCT,
+Ethinyl estradiol,Norethindrone,1,3,Ortho-Novum,345.39
+Levonorgestrel,Ethinyl estradiol,1,4,Alesse,295.39
+Drospirenone,Ethinyl estradiol,0,5,Yasmin,335.43
+Norgestimate,Ethinyl estradiol,1,4,Ortho Tri-Cyclen,529.5
+Desogestrel,Ethinyl estradiol,2,4,Mircette,367.44
+Medroxyprogesterone,Ethinyl estradiol,2,5,Depo-Provera,447.51
+Estradiol,Norethindrone,2,4,Estrace,272.38
+Progesterone,Norethindrone,3,4,Prometrium,316.43
+Testosterone,Estradiol,4,4,AndroGel,286.42
+Finasteride,Dutasteride,0,4,Propecia,489.7
+Dutasteride,Finasteride,1,5,Avodart,528.5
+Sildenafil,Tadalafil,1,7,sildenafil ,474.55
+Tadalafil,Sildenafil,2,1,Cialis,389.34
+Vardenafil,Sildenafil,0,6,Levitra,474.55
+Avanafil,Sildenafil,2,4,Stendra,389.37
+Rivaroxaban,Apixaban,0,3,Xarelto,430.9
+Apixaban,Rivaroxaban,1,5,Eliquis,459.38
+Edoxaban,Rivaroxaban,1,7,Savaysa,501.56
+Betrixaban,Rivaroxaban,1,5,Bevyxxa,472.57
+Dabigatran,Rivaroxaban,1,6,Pradaxa,427.37
+Warfarin,Enoxaparin,1,4,Coumadin,308.31
+Enoxaparin,Warfarin,2,4,Lovenox,1750
+Dalteparin,Warfarin,1,4,Fragmin,5500
+Fondaparinux,Warfarin,4,5,Arixtra,2000
+Anastrozole,Tamoxifen,2,3,Arimidex,262.28
+Letrozole,Tamoxifen,1,5,Femara,297.31
+Exemestane,Tamoxifen,0,6,Aromasin,293.31
+Tamoxifen,Letrozole,0,5,Nolvadex,263.27
+Raloxifene,Letrozole,1,4,Evista,473.58
+Fulvestrant,Letrozole,2,5,Faslodex,1027.29
+Ibandronate,Zoledronic acid,0,6,Boniva,270.22
+Zoledronic acid,Ibandronate,2,7,Reclast,355.18
+Alendronic acid,Risedronate,0,5,Fosamax,550.51
+Risedronate,Alendronic acid,0,4,Actonel,831.55
+Teriparatide,Abaloparatide,1,5,Forteo,3271.72
+Abaloparatide,Teriparatide,1,6,Tymlos,2475.66
+Denosumab,Teriparatide,1,4,Prolia,1480.72
+Romosozumab,Denosumab,4,5,Evenity,1346.82
+Calcitonin,Denosumab,4,4,Miacalcin,1740.19
+Strontium ranelate,Denosumab,0,5,Protelos,2078.27
+Insulin glargine,Insulin aspart,3,4,Lantus,6061.12
+Insulin detemir,Insulin glargine,2,5,Levemir,6075.37
+Insulin aspart,Insulin glulisine,0,4,NovoLog,1156.62
+Insulin lispro,Insulin lispro,1,5,Humalog,730.83
+Insulin glulisine,Insulin aspart,3,4,Apidra,670.75
+Insulin degludec,Insulin glargine,2,5,Tresiba,5517.5
+Exenatide,Liraglutide,1,4,Byetta,4182.56
+Liraglutide,Exenatide,1,5,Victoza,3750.45
+Dulaglutide,Exenatide,0,2,Trulicity,2882.54
+Semaglutide,Exenatide,1,4,Ozempic,1742.93
+Albiglutide,Exenatide,2,5,Tanzeum,67000
+Pramlintide,Liraglutide,2,4,Symlin,3949.4
+Acarbose,Miglitol,2,3,Precose,645.6
+Miglitol,Acarbose,3,5,Glyset,207.2
+Saxagliptin,Sitagliptin,4,3,Onglyza,315.4
+Sitagliptin,Saxagliptin,0,5,Januvia,407.32
+Linagliptin,Saxagliptin,1,3,Tradjenta,472.54
+Alogliptin,Saxagliptin,1,4,Nesina,339.39
+Canagliflozin,Dapagliflozin,2,3,Invokana,444.52
+Dapagliflozin,Canagliflozin,0,4,Farxiga,408.87
+Empagliflozin,Canagliflozin,2,4,Jardiance,450.91
+Ertugliflozin,Canagliflozin,0,7,Steglatro,436.54
+Colesevelam,Ezetimibe,1,4,Welchol,400
+Ezetimibe,Colesevelam,1,12,Zetia,409.36
+Alirocumab,Colesevelam,1,3,Praluent,146000
+Evolocumab,Colesevelam,1,10,Repatha,143000
+Inclisiran,Colesevelam,1,7,Leqvio,145.18
+Lomitapide,Colesevelam,2,2,Juxtapid,693.9
+Mipomersen,Colesevelam,1,2,Kynamro,7596.91
+Bezafibrate,Fenofibrate,4,1,Bezalip,361.83
+Fenofibrate,Gemfibrozil,2,9,TriCor,360.83
+Gemfibrozil,Fenofibrate,1,5,Lopid,250.34
+Bempedoic acid,Fenofibrate,0,3,Nexletol,344.24
+Omega-3-acid ethyl esters,Fenofibrate,0,6,Lovaza,200
+Niacin,Fenofibrate,1,5,Niaspan,123.11
+Acetylcysteine,Guaifenesin,2,6,Mucomyst,163.19
+Carbocysteine,Guaifenesin,0,5,Mucodyne,179.22
+Guaifenesin,Dextromethorphan,2,7,Mucinex,198.22
+Dextromethorphan,Guaifenesin,0,6,Delsym,271.4
+Benzonatate,Guaifenesin,0,5,Tessalon Perles,603.7
+Phenylephrine,Guaifenesin,1,7,Sudafed,165.23
+Pseudoephedrine,Guaifenesin,1,8,Sudafed PE,167.21
+Oxymetazoline,Guaifenesin,1,5,Afrin,305.35
+Xylometazoline,Guaifenesin,4,4,Otrivin,264.4
+Ipratropium,Albuterol,4,3,Atrovent,332.46
+Tiotropium,Albuterol,0,6,Spiriva,472.56
+Glycopyrrolate,Albuterol,3,3,Seebri,398.46
+Aclidinium,Albuterol,0,7,Tudorza,484.98
+Umeclidinium,Albuterol,1,2,Incruse,428.98
+Indacaterol,Tiotropium,3,5,Arcapta,392.5
+Olodaterol,Tiotropium,2,6,Striverdi,386.48
+Vilanterol,Tiotropium,1,4,Anoro Ellipta,902.58
+Formoterol,Tiotropium,1,5,Symbicort,774.94
+Salmeterol,Tiotropium,0,6,Advair,916.1
+Fluticasone,Salmeterol,1,1,Flovent,500.6
+Budesonide,Salmeterol,2,4,Pulmicort,430.54
+Mometasone,Salmeterol,2,5,Asmanex,521.44
+Ciclesonide,Salmeterol,2,3,Alvesco,540.69
+Beclometasone,Salmeterol,3,4,Qvar,408.9
+Triamcinolone,Propylene Glycol,4,5,Azmacort,434.5
+Rivaroxaban,Microcrystalline Cellulose,0,5,Rivaroxaban,435.89
+"Dabigatran Etexilate Mesylate
+",Tartaric Acid,1,2,Dabigatran,627.75
+Edoxaban Tosylate Monohydrate,Mannitol,1,4,Edoxaban,548.06
+"Betrixaban
+","
+Hydroxypropyl Methylcellulose
+",2,5,Betrixaban,456.38
+Albiglutide,Sodium Phosphate,0,6,Albiglutide,67000
+Ertugliflozin,Magnesium Stearate,2,1,Ertugliflozin,436.54
+Semaglutide,Sodium Chloride,0,3,Semaglutide,4113.58
+Liraglutide,"
+Disodium Phosphate Dihydrate",1,4,Liraglutide,3751.2
+Empagliflozin,Colloidal Silicon Dioxide,1,5,Empagliflozin,450.91
+Dulaglutide,Citric Acid Monohydrate,1,4,Dulaglutide,59000
+Ticagrelor,Mannitol,1,4,Ticagrelor,522.57
+Vorapaxar Sulfate,Microcrystalline Cellulose,1,5,Vorapaxar,492.63
+Cangrelor,Sodium Chloride,2,4,Cangrelor,774.73
+Sacubitril,Valsartan,1,4,Sacubitril/valsartan,908.04
+Ivabradine Hydrochloride,Colloidal Silicon Dioxide,4,4,Ivabradine,468.6
+Secukinumab,Sucrose,2,4,Secukinumab,147000
+Ustekinumab,L-Histidine,1,5,Ustekinumab,148000
+Ixekizumab,Polysorbate 80,0,7,Ixekizumab,146000
+Guselkumab,L-Histidine Monohydrochloride,0,1,Guselkumab,149000
+Brodalumab,Acetate,1,6,Brodalumab,150000
+Evolocumab,Proline,2,4,Evolocumab,143000
+Alirocumab,Sucrose,0,3,Alirocumab,146000
+Bempedoic Acid,Microcrystalline Cellulose,2,5,Bempedoic acid,344.24
+Inclisiran,Sodium Chloride,0,7,Inclisiran,145.18
+Lomitapide,Microsomal Triglyceride Transfer Protein Inhibitor,0,5,Lomitapide,693.9
+Mipomersen,Antisense Oligonucleotide,1,6,Mipomersen,7596.91
+Belatacept,Fusion Protein,1,4,Belatacept,82000
+Belimumab,Monoclonal Antibody,1,4,Belimumab,147000
+Dupilumab,Monoclonal Antibody,4,4,Dupilumab,147000
+Omalizumab,Monoclonal Antibody,4,5,Omalizumab,149000
+Mepolizumab,Monoclonal Antibody,0,3,Mepolizumab,149000
+Reslizumab,Monoclonal Antibody,3,5,Reslizumab,144000
+Benralizumab,Monoclonal Antibody,2,6,Benralizumab,149000
+Tezepelumab,Monoclonal Antibody,0,5,Tezepelumab,149000
+Aflibercept,Recombinant Protein,1,4,Aflibercept,115000
+Ranibizumab,Recombinant Protein,3,5,Ranibizumab,48000
+Brolucizumab,Recombinant Protein,2,6,Brolucizumab,26000
+Faricimab,Recombinant Protein,1,7,Faricimab,144000
+Conbercept,Recombinant Protein,1,5,Conbercept,50000
+Apremilast,Phosphodiesterase 4 Inhibitor,0,4,Apremilast,460.51
+Tofacitinib,Janus Kinase Inhibitor,1,5,Tofacitinib,312.37
+Baricitinib,Janus Kinase Inhibitor,2,6,Baricitinib,371.43
+Upadacitinib,Janus Kinase Inhibitor,2,4,Upadacitinib,440.51
+Filgotinib,Janus Kinase Inhibitor,2,5,Filgotinib,300.34
+Leflunomide,Disease-Modifying Antirheumatic Drug,3,4,Leflunomide,270.2
+Tozinameran,mRNA Vaccine,4,5,Tozinameran,100000
+Elasomeran,mRNA Vaccine,0,4,Elasomeran,100000
+ChAdOx1 nCoV-19,Viral Vector Vaccine,1,5,ChAdOx1 nCoV-19,100000
+Ad26.COV2.S,Antiviral Combination,1,4,Ad26.COV2.S,100000
+Nirmatrelvir,Antiviral Combination,2,5,Paxlovid,921.9
+N-hydroxycytidine,Molnupiravir,0,4,Molnupiravir,329.3
+Triphosphate,Remdesivir,2,5,Remdesivir,602.6
+Pyrazinecarboxamide,Favipiravir,0,4,Favipiravir,157.1
+Monoclonal Antibody,Recombinant Antibody,1,5,Sotrovimab,149000
+Monoclonal Antibody,Recombinant Antibody,1,2,Casirivimab/imdevimab,292000
+Monoclonal Antibody,Recombinant Antibody,1,4,Bamlanivimab/etesevimab,292000
+Janus Kinase Inhibitor,Baricitinib,1,5,Baricitinib,371.43
+Interleukin-6 Inhibitor,Tocilizumab,1,4,Tocilizumab,148000
+Interleukin-1 Inhibitor,Anakinra,2,3,Anakinra,17300
+Interleukin-6 Inhibitor,Sarilumab,1,5,Sarilumab,150000
+CCR5 Antagonist,Leronlimab,4,3,Leronlimab,149000
+Antiviral Agent,Ivermectin,2,5,Ivermectin,875.1
+Antimalarial Agent,Hydroxychloroquine,1,3,Hydroxychloroquine,335.87
+Antimalarial Agent,Chloroquine,0,4,Chloroquine,319.87
+Antimalarial Agent,Nitazoxanide,0,3,Nitazoxanide,307.28
+Nucleoside Analog,Azvudine,1,4,Azvudine,267.27
+Antibiotic,Lefamulin,2,4,Lefamulin,586.7
+Antibiotic,Omadacycline,0,7,Omadacycline,713.85
+Antibiotic,Eravacycline,2,4,Eravacycline,492.55
+Antibiotic,Plazomicin,0,12,Plazomicin,908
+Antibiotic,Cefiderocol,0,3,Cefiderocol,749.72
+Antibiotic,Delafloxacin,1,10,Delafloxacin,440.85
+Antibiotic,Solithromycin,1,7,Solithromycin,845.05
+Antibiotic,Finafloxacin,1,2,Finafloxacin,370.79
+Antibiotic,Zoliflodacin,4,2,Zoliflodacin,438.4
+Beta-lactamase Inhibitor,Avibactam,4,1,Ceftazidime/avibactam,986
+Beta-lactam Antibiotic,Vaborbactam,0,9,Meropenem/vaborbactam,680.76
+Beta-lactam Antibiotic,Relebactam,3,5,Imipenem/relebactam,848.95
+Beta-lactam Antibiotic,Zidebactam,2,3,Cefepime/zidebactam,790.78
+Beta-lactam Antibiotic,Taniborbactam,0,6,Cefepime/taniborbactam,790.78
+Oxazolidinone Antibiotic,Tedizolid,1,5,Tedizolid,450.5
+Glycopeptide Antibiotic,Oritavancin,3,6,Oritavancin,1793.64
+Glycopeptide Antibiotic,Dalbavancin,2,5,Dalbavancin,1816.71
+Glycopeptide Antibiotic,Telavancin,1,7,Telavancin,1755.63
+Diarylquinoline Antibiotic,lefamulin,1,6,Lefamulin,586.7
+Diarylquinoline Antibiotic,pretomanid,0,5,Pretomanid,359.27
+Diarylquinoline Antibiotic,bedaquiline,1,7,Bedaquiline,555.5
+Diarylquinoline Antibiotic,Delamanid,2,8,Delamanid,534.5
+Oxazolidinone Antibiotic,Sutezolid,2,5,Sutezolid,453.5
+Triazole Antifungal,Linezolid,2,4,Linezolid,337.35
+Triazole Antifungal,Posaconazole,3,3,Tedizolid,450.5
+Triazole Antifungal,Isavuconazonium sulfate,4,6,Posaconazole,700.8
+Echinocandin Antifungal,Voriconazole,0,3,Isavuconazonium sulfate,814.79
+Azole Antifungal,Echinocandins,1,7,Voriconazole,349.31
+Oxaborole Antifungal,Luliconazole,1,2,Echinocandins,50000
+Azole Antifungal,Tavaborole,2,5,Luliconazole,354.27
+Monoclonal Antibody,Efinaconazole,0,6,Tavaborole,201.05
+Monoclonal Antibody,Omalizumab,2,4,Efinaconazole,348.3
+Monoclonal Antibody,Dupilumab,0,5,Omalizumab,149000
+Monoclonal Antibody,dupilumab,1,6,Dupilumab,147000
+Tylenol,Paracetamol,1,1,Acetaminophen,151.16
+Zovirax,Acyclovir,1,4,Acyclovir,225.21
+"Ventolin, Proventil",Albuterol,1,5,Albuterol,239.31
+Zyloprim,Allopurinol,1,3,Allopurinol,136.11
+Xanax,Alprazolam,2,4,Alprazolam,308.77
+Amikin,Amikacin,1,5,Amikacin,585.6
+"Cordarone, Pacerone",Amiodarone,4,5,Amiodarone,645.32
+Elavil,Amitriptyline,2,2,Amitriptyline,277.4
+Norvasc,Amlodipine,1,4,Amlodipine,408.87
+Amoxil,Amoxicillin,0,5,Amoxicillin,365.41
+Fungizone,Amphotericin B,0,6,Amphotericin B,924.1
+Omnipen,Ampicillin,1,1,Ampicillin,349.41
+Kineret,Anakinra,2,3,Anakinra,17300
+Tenormin,Atenolol,0,4,Atenolol,266.34
+Strattera,Atomoxetine,2,5,Atomoxetine,255.36
+Lipitor,Atorvastatin,0,4,Atorvastatin,558.64
+Zithromax,Azithromycin,0,4,Azithromycin,748.98
+Lioresal,Baclofen,1,5,Baclofen,213.66
+Qvar,Beclometasone,1,4,Beclometasone,408.91
+Lotensin,Benazepril,1,4,Benazepril,424.5
+Casodex,Bicalutamide,4,4,Bicalutamide,430.37
+Zebeta,Bisoprolol,4,4,Bisoprolol,325.44
+"Pulmicort, Entocort",Budesonide,0,5,Budesonide,430.54
+"Wellbutrin, Zyban",Bupropion,3,7,Bupropion,239.74
+Myleran,Busulfan,2,1,Busulfan,246.31
+Capoten,Captopril,0,6,Captopril,217.29
+Tegretol,Carbamazepine,1,4,Carbamazepine,236.27
+Coreg,Carvedilol,3,3,Carvedilol,406.48
+Ceclor,Cefaclor,2,5,Cefaclor,367.81
+Duricef,Cefadroxil,1,7,Cefadroxil,381.37
+Ancef,Cefazolin,1,5,Cefazolin,454.5
+Omnicef,Cefdinir,0,6,Cefdinir,395.41
+Maxipime,Cefepime,1,4,Cefepime,480.5
+Suprax,Cefixime,2,4,Cefixime,453.45
+Claforan,Cefotaxime,2,4,Cefotaxime,455.5
+Cefotan,Cefotetan,2,5,Cefotetan,575.61
+Mefoxin,Cefoxitin,3,3,Cefoxitin,427.45
+Fortaz,Ceftazidime,4,5,Ceftazidime,636.6
+Rocephin,Ceftriaxone,0,6,Ceftriaxone,554.58
+Ceftin,Cefuroxime,1,5,Cefuroxime,424.38
+Celebrex,Celecoxib,1,4,Celecoxib,381.37
+Keflex,Cephalexin,2,5,Cephalexin,347.39
+Leukeran,Chlorambucil,0,6,Chlorambucil,304.24
+Aralen,Chloroquine,2,7,Chloroquine,319.87
+Thorazine,Chlorpromazine,0,5,Chlorpromazine,355.33
+Cipro,Ciprofloxacin,1,4,Ciprofloxacin,331.34
+Celexa,Citalopram,1,5,Citalopram,324.39
+Cleocin,Clindamycin,1,6,Clindamycin,424.98
+Anafranil,Clomipramine,1,4,Clomipramine,314.84
+Klonopin,Clonazepam,1,5,Clonazepam,315.72
+Plavix,Clopidogrel,2,4,Clopidogrel,321.82
+Clozaril,Clozapine,1,5,Clozapine,326.83
+Flexeril,Cyclobenzaprine,4,4,Cyclobenzaprine,311.87
+"Neoral, Sandimmune",Cyclosporine,2,5,Cyclosporine,1202.61
+Pradaxa,Dabigatran,1,4,Dabigatran,627.75
+Aczone,Dapsone,0,5,Dapsone,248.3
+Norpramin,Desipramine,0,4,Desipramine,266.39
+Dexilant,Dexlansoprazole,1,5,Dexlansoprazole,369.4
+Dexedrine,Dextroamphetamine,2,4,Dextroamphetamine,135.21
+Valium,Diazepam,0,5,Diazepam,284.74
+Voltaren,Diclofenac,2,2,Diclofenac,296.15
+Bentyl,Dicyclomine,0,4,Dicyclomine,309.46
+Lanoxin,Digoxin,0,5,Digoxin,780.94
+Cardizem,Diltiazem,1,4,Diltiazem,414.53
+Benadryl,Diphenhydramine,1,3,Diphenhydramine,255.34
+Depakote,Divalproex,1,5,Divalproex,310.4
+Dobutrex,Dobutamine,4,3,Dobutamine,301.38
+Intropin,Dopamine,4,5,Dopamine,153.18
+Cardura,Doxazosin,0,3,Doxazosin,451.48
+Vibramycin,Doxycycline,3,4,Doxycycline,444.43
+Cymbalta,Duloxetine,2,3,Duloxetine,297.41
+Vasotec,Enalapril,0,4,Enalapril,376.45
+Lovenox,Enoxaparin,1,4,Enoxaparin,~4500
+Erythrocin,Erythromycin,3,7,Erythromycin,733.94
+Lexapro,Escitalopram,2,4,Escitalopram,324.39
+Nexium,Esomeprazole,1,12,Esomeprazole,345.42
+Estrace,Estradiol,1,3,Estradiol,272.39
+"Various (e.g., Premarin)",Estrogen,0,10,Estrogen,~272.38
+Lunesta,Eszopiclone,1,7,Eszopiclone,388.91
+Myambutol,Ethambutol,2,2,Ethambutol,204.31
+"Various (e.g., in birth control pills)",Ethinyl estradiol,2,2,Ethinyl estradiol,296.4
+Lodine,Etodolac,2,1,Etodolac,287.36
+Zetia,Ezetimibe,3,9,Ezetimibe,409.41
+Pepcid,Pepcid AC,4,5,Famotidine,337.42
+Plendil,Felodipine ER,0,3,Felodipine,384.26
+Sublimaze,Actiq,1,6,Fentanyl,336.47
+Allegra,Allegra Allergy,1,5,Fexofenadine,501.66
+Diflucan,Fluconazole Oral,2,6,Fluconazole,306.27
+Ancobon,Flucytosine Injection,0,5,Flucytosine,119.1
+Prozac,Prozac Weekly,2,7,Fluoxetine,309.33
+Flonase,Flovent,0,6,Fluticasone,500.56
+Lasix,Furosemide Oral,1,5,Furosemide,330.74
+Neurontin,Gralise,1,7,Gabapentin,171.24
+Lopid,Gemfibrozil Oral,1,8,Gemfibrozil,250.35
+Garamycin,Gentamicin Injection,1,5,Gentamicin,477.6
+Glucotrol,Glucotrol XL,1,4,Glipizide,445.55
+DiaBeta,Glyburide Oral,2,3,Glyburide,493.99
+Gris-PEG,Griseofulvin Oral,1,6,Griseofulvin,352.77
+Haldol,Haloperidol Injection,4,3,Haloperidol,375.86
+Hydrodiuril,HCTZ,2,7,Hydrochlorothiazide,297.74
+Plaquenil,Hydroxychloroquine Sulfate,1,2,Hydroxychloroquine,335.87
+Hydrea,Hydroxyurea Capsules,0,5,Hydroxyurea,76.05
+Advil,Motrin,0,6,Ibuprofen,206.28
+Gleevec,Imatinib Mesylate,1,4,Imatinib,493.6
+Primaxin,Imipenem/Cilastatin,2,5,Imipenem,299.34
+Indocin,Indomethacin Extended Release,0,6,Indomethacin,357.79
+Remicade,Infliximab Injection,2,1,Infliximab,144190
+INH,Isoniazid Oral,0,4,Isoniazid,137.14
+Imdur,Isosorbide Mononitrate Extended,0,5,Isosorbide mononitrate,191.14
+Accutane,Claravis,1,3,Isotretinoin,300.44
+Sporanox,Itraconazole Oral,1,4,Itraconazole,705.64
+Nizoral,Ketoconazole Cream,1,5,Ketoconazole,531.44
+Toradol,Ketorolac Injection,4,5,Ketorolac,376.41
+Lamictal,Lamictal XR,4,2,Lamotrigine,256.09
+Prevacid,Prevacid 24HR,0,4,Lansoprazole,369.36
+Lupron,Eligard,3,5,Leuprolide,1209.41
+Xopenex,Levalbuterol Inhalation Solution,2,6,Levalbuterol,275.37
+Keppra,Keppra XR,0,1,Levetiracetam,170.21
+Levaquin,Levofloxacin Oral,1,3,Levofloxacin,361.37
+Plan B,Mirena,3,4,Levonorgestrel,312.45
+Synthroid,Levoxyl,2,5,Levothyroxine,776.87
+Xylocaine,Lidoderm,1,4,Lidocaine,234.34
+Zyvox,Linezolid Oral,1,4,Linezolid,337.35
+Prinivil,Zestril,0,5,Lisinopril,405.49
+Lithobid,Lithonate,1,4,Lithium,6.94
+Claritin,Loratadine Oral,2,4,Loratadine,382.87
+Ativan,Lorazepam Oral,2,4,Lorazepam,321.16
+Cozaar,Losartan Potassium,2,4,Losartan,422.91
+Mevacor,Altoprev,3,5,Lovastatin,422.56
+Opsumit,Macitentan Oral,4,7,Macitentan,588.65
+Antivert,Meclizine Oral,0,1,Meclizine,429.94
+Depo-Provera,Provera,1,6,Medroxyprogesterone,386.47
+Mobic,Meloxicam Oral,1,4,Meloxicam,354.4
+Namenda,Memantine Oral,2,3,Memantine,179.23
+Demerol,Meperidine Injection,0,5,Meperidine,247.35
+Asacol,Lialda,2,7,Mesalamine,153.13
+Glucophage,Glucophage XR,0,5,Metformin,309.45
+Dolophine,Methadose,1,6,Methadone,114.17
+Tapazole,Methimazole Oral,1,4,Methimazole,454.44
+Rheumatrex,Trexall,1,4,Methotrexate,374.48
+Medrol,Depo-Medrol,1,4,Methylprednisolone,168.5
+Reglan,Metoclopramide Oral,1,5,Metoclopramide,267.37
+Lopressor,Toprol XL,2,3,Metoprolol,344.41
+Flagyl,Metrogel,1,5,Metronidazole,457.48
+Minocin,Solodyn,4,6,Minocycline,264.4
+Remeron,Mirtazapine Oral,2,5,Mirtazapine,368.5
+Cytotec,Misoprostol Oral,1,4,Misoprostol,444.43
+Novantrone,Mitoxantrone Injection,0,5,Mitoxantrone,342.4
+Provigil,Modafinil Oral,0,6,Modafinil,517.47
+Singulair,Montelukast Oral,1,7,Montelukast,273.35
+MS Contin,Kadian,2,5,Morphine,770.88
+Avelox,Moxifloxacin Oral,0,4,Moxifloxacin,260.3
+CellCept,Mycophenolate Mofetil,2,5,Mycophenolate,367.37
+Relafen,Nabumetone Oral,0,6,Nabumetone,228.28
+Corgard,Nadolol Oral,0,4,Nadolol,230.31
+Aleve,Naprosyn,1,5,Naproxen,185.22
+Bystolic,Nebivolol Oral,1,4,Nebivolol,606.84
+Viracept,Nelfinavir Oral,1,5,Nelfinavir,614.64
+Neo-Fradin,Neomycin Oral,4,4,Neomycin,308.75
+Viramune,Nevirapine Oral,4,5,Nevirapine,346.27
+Adalat,Procardia,0,4,Nifedipine,302.27
+Macrobid,Nitrofurantoin Oral,3,5,Nitrofurantoin,255.23
+Nitrostat,Nitroglycerin Oral,2,4,Nitroglycerin,238.31
+Noroxin,Norfloxacin Oral,0,5,Norfloxacin,303.4
+Pamelor,Nortriptyline Oral,1,4,Nortriptyline,215.24
+Mycostatin,Nystatin Oral,3,5,Nystatin,923.05
+Floxin,Ofloxacin Oral,2,2,Ofloxacin,281.35
+Zyprexa,Olanzapine Oral,1,4,Olanzapine,383.36
+Benicar,Olmesartan Oral,1,5,Olmesartan,329.82
+Prilosec,Omeprazole Oral,0,4,Omeprazole,410.37
+Zofran,Ondansetron Oral,1,3,Ondansetron,312.4
+Tamiflu,Oseltamivir Oral,2,5,Oseltamivir,285.33
+Bactocill,Oxacillin Oral,2,3,Oxacillin,403.45
+Ditropan XL,Oxybutynin Oral,2,5,Oxybutynin,372.41
+OxyContin,Roxicodone,3,3,Oxycodone,511.56
+Opana,Oxymorphone Oral,4,4,Oxymorphone,336.43
+Taxol,Paclitaxel Injection,0,3,Paclitaxel,232.27
+Invega,Paliperidone Oral,1,4,Paliperidone,502.07
+Protonix,Pantoprazole Oral,1,4,Pantoprazole,492.55
+Paxil,Paroxetine Oral,2,7,Paroxetine,218.27
+Pegasys,Peginterferon Alfa,0,4,Peginterferon,183.18
+Penicillin V,Penicillin Oral,2,12,Penicillin,100.12
+Trental,Pentoxifylline Oral,0,3,Pentoxifylline,250.33
+Coversyl,Perindopril Oral,1,10,Perindopril,197.22
+Nix,Permethrin Cream,1,7,Permethrin,356.43
+Luminal,Phenobarbital Oral,1,2,Phenobarbital,331.35
+Dilantin,Phenytoin Oral,1,2,Phenytoin,274.36
+Actos,Pioglitazone Oral,1,1,Pioglitazone,298.4
+Feldene,Piroxicam Oral,2,9,Piroxicam,586.59
+Selexid,Pivmecillinam Oral,1,5,Pivmecillinam,258.31
+Pravachol,Pravastatin Oral,4,3,Pravastatin,228.28
+Orapred,Prednisolone Oral,2,6,Prednisolone,159.23
+Deltasone,Prednisone Oral,1,5,Prednisone,339.44
+Lyrica,Pregabalin Oral,0,6,Pregabalin,228.3
+Mysoline,Primidone Oral,0,5,Primidone,314.44
+Benemid,Probenecid Oral,1,7,Probenecid,244.3
+Compazine,Prochlorperazine Oral,2,6,Prochlorperazine,252.3
+Prometrium,Progesterone Oral,0,5,Progesterone,474.58
+Phenergan,Promethazine Oral,2,7,Promethazine,84.4
+Rythmol,Propafenone Hydrochloride,0,8,Propafenone,341.43
+Inderal,Propranolol Hydrochloride,0,5,Propranolol,259.34
+Sudafed,Pseudoephedrine HCl,1,4,Pseudoephedrine,165.24
+PZA,Pyrazinamide Oral,1,3,Pyrazinamide,123.11
+Mestinon,Pyridostigmine Bromide,1,6,Pyridostigmine,181.21
+Seroquel,Quetiapine Fumarate,4,3,Quetiapine,383.49
+Accupril,Quinapril Hydrochloride,4,7,Quinapril,438.53
+Qualaquin,Quinine Sulfate,0,2,Quinine,324.43
+Isentress,Raltegravir Oral,3,5,Raltegravir,444.34
+Altace,Ramipril Oral,2,6,Ramipril,416.51
+Zantac,Ranitidine Hydrochloride,0,4,Ranitidine,314.41
+Azilect,Rasagiline Mesylate,1,5,Rasagiline,171.24
+Mycobutin,Rifabutin Capsules,3,6,Rifabutin,847.03
+Rifadin,Rifampin Oral,2,1,Rifampin,822.94
+Rilutek,Riluzole Oral,1,4,Riluzole,234.27
+Actonel,Risedronate Sodium,1,5,Risedronate,283.1
+Risperdal,Risperidone Oral,0,3,Risperidone,410.49
+Norvir,Ritonavir Oral,1,4,Ritonavir,720.94
+Exelon,Rivastigmine Oral,2,5,Rivastigmine,250.34
+Maxalt,Rizatriptan Oral,2,5,Rizatriptan,269.37
+Daliresp,Roflumilast Oral,2,2,Roflumilast,403.37
+Requip,Ropinirole Oral,3,4,Ropinirole,260.37
+Avandia,Rosiglitazone Oral,4,5,Rosiglitazone,357.43
+Crestor,Rosuvastatin Calcium,0,6,Rosuvastatin,481.54
+Neupro,Rotigotine Transdermal Patch,1,1,Rotigotine,315.47
+Rulid,Roxithromycin Oral,1,3,Roxithromycin,837.05
+Serevent,Salmeterol Xinafoate,2,4,Salmeterol,415.56
+Onglyza,Saxagliptin Oral,0,5,Saxagliptin,315.37
+Cosentyx,Secukinumab Injection,2,4,Secukinumab,149.21
+Eldepryl,Selegiline Hydrochloride,0,4,Selegiline,187.24
+Viagra,Sildenafil Citrate,1,5,Sildenafil,474.58
+Zocor,Simvastatin Oral,1,4,Simvastatin,418.57
+Januvia,Sitagliptin Oral,1,4,Sitagliptin,407.32
+Baking soda,Sodium Bicarbonate Oral,1,4,Sodium bicarbonate,84.01
+Saline,Sodium Chloride Injection,1,4,Sodium chloride,58.44
+Citras,Sodium Citrate Oral,2,5,Sodium citrate,258.06
+Monobasic Sodium Phosphate,Sodium Phosphate Injection,1,7,Sodium phosphate,119.98
+Vesicare,Solifenacin Succinate,4,1,Solifenacin,480.56
+Betapace,Sotalol Oral,2,6,Sotalol,272.33
+Aldactone,Spironolactone Oral,1,4,Spironolactone,416.58
+Zerit,Stavudine Oral,0,3,Stavudine,224.23
+Streptomycin Sulfate,Streptomycin Injection,0,5,Streptomycin,581.57
+Carafate,Sucralfate Oral,1,7,Sucralfate,398.39
+Azulfidine,Sulfasalazine Oral,2,5,Sulfasalazine,253.28
+Bactrim,Sulfamethoxazole Oral,0,6,Sulfamethoxazole,250.29
+Sulfadiazine,Sulfadiazine Oral,2,4,Sulfadiazine,267.32
+Gantrisin,Sulfisoxazole Oral,0,4,Sulfisoxazole,295.4
+Imitrex,Sumatriptan Oral,0,4,Sumatriptan,804.02
+Prograf,Tacrolimus Oral,1,5,Tacrolimus,389.41
+Cialis,Tadalafil Oral,1,3,Tadalafil,372.39
+Nolvadex,Tamoxifen Citrate,1,5,Tamoxifen,563.64
+Flomax,Tamsulosin Hydrochloride,4,6,Tamsulosin,408.47
+Tazocin,Tazobactam Injection,4,5,Tazobactam,300.41
+Micardis,Telmisartan Oral,0,4,Telmisartan,300.36
+Restoril,Temazepam Oral,3,5,Temazepam,286.4
+Viread,Tenofovir Disoproxil Fumarate,2,6,Tenofovir,438.54
+Lamisil,Terbinafine Oral,0,7,Terbinafine,402.45
+Brethine,Terbutaline Sulfate,1,5,Terbutaline,222.31
+Forteo,Teriparatide Injection,3,4,Teriparatide,411.49
+Sumycin,Tetracycline Oral,2,5,Tetracycline,261.36
+Thalomid,Thalidomide Oral,1,6,Thalidomide,298.34
+Theo-Dur,Theophylline Oral,1,4,Theophylline,240.23
+Tabloid,Thioguanine Oral,0,5,Thioguanine,272.29
+Thiotepa Injection,Thiotepa Capsules,1,4,Thiotepa,358.36
+Pentothal,Thiopental Sodium,2,5,Thiopental,250.3
+Gabitril,Tiagabine Oral,2,4,Tiagabine,444.39
+Brilinta,Ticagrelor Oral,2,5,Ticagrelor,327.29
+Ticarcillin Disodium,Ticarcillin Injection,3,4,Ticarcillin,190.28
+Tygacil,Tigecycline Injection,4,5,Tigecycline,284.31
+Timoptic,Timolol Ophthalmic Solution,0,4,Timolol,220.28
+Spiriva,Tiotropium Bromide,1,5,Tiotropium,242.25
+Zanaflex,Tizanidine Hydrochloride,1,4,Tizanidine,535.67
+Nebcin,Tobramycin Injection,2,5,Tobramycin,352.47
+Detrol,Tolterodine Extended Release,0,2,Tolterodine,291.33
+Topamax,Topiramate Extended Release,2,4,Topiramate,387.36
+Ultram,Tramadol Hydrochloride,0,5,Tramadol,316.27
+Cyklokapron,Tranexamic Acid Oral,1,4,Tranexamic acid,253.31
+Parnate,Tranylcypromine Sulfate,1,3,Tranylcypromine,370.49
+Desyrel,Trazodone Hydrochloride,1,5,Trazodone,259.24
+Kenalog,Triamcinolone Acetonide,1,3,Triamcinolone,522.58
+Dyrenium,Triamterene Hydrochloride,1,5,Triamterene,501.96
+Viroptic,Trifluridine Ophthalmic Solution,2,3,Trifluridine,116.12
+TMP,Trimethoprim-Sulfamethoxazole,1,4,Trimethoprim,296.41
+Surmontil,Trimipramine Oral,4,3,Trimipramine,387.54
+Sanctura,Trospium Chloride,2,4,Trospium,168.19
+Valtrex,Valacyclovir Oral,1,4,Valacyclovir,278.39
+Valcyte,Valganciclovir Oral,0,7,Valganciclovir,253.31
+Depakene,Valproic Acid Oral,0,4,Valproic acid,408.5
+Vancocin,Vancomycin Injection,1,12,Vancomycin,105.09
+Levitra,Vardenafil Oral,2,3,Vardenafil,290.39
+Chantix,Varenicline Oral,0,10,Varenicline,106.12
+Zelboraf,Vemurafenib Oral,2,7,Vemurafenib,146.19
+Calan,Verapamil SR,0,2,Verapamil,524.56
+Viibryd,Vilazodone Oral,0,2,Vilazodone,391.4
+Velban,Vinblastine Sulfate,1,1,Vinblastine,228.3
+Oncovin,Vincristine Sulfate,1,9,Vincristine,313.87
+Navelbine,Vinorelbine Injection,1,5,Vinorelbine,225.32
+Vfend,Voriconazole Oral,4,3,Voriconazole,447.5
+Coumadin,Warfarin Sodium,4,6,Warfarin,1449.25
+Sonata,Zaleplon Oral,0,5,Zaleplon,118.09
+Ambien,Zolpidem Tartrate,3,6,Zolpidem,301.39
+Zonegran,Zonisamide Oral,2,5,Zonisamide,244.23
+Imovane,Zopiclone Oral,0,7,Zopiclone,212.2
+Zytiga,Abiraterone Acetate,1,6,Abiraterone,306.8
+Campral,Acamprosate Calcium,3,5,Acamprosate,336.4
+Zovirax,Acyclovir Sodium,2,7,Acyclovir,226.2
+Humira,Adalimumab Injection,1,8,Adalimumab,225.2
+Fosamax,Alendronate Sodium,1,5,Alendronate,"1,48,000"
+Tekturna,Aliskiren Oral,0,4,Aliskiren,291.1
+Xanax,Alprazolam Extended Release,1,3,Alprazolam,295.4
+Symmetrel,Amantadine Oral,2,6,Amantadine,308.2
+Cordarone,Amiodarone Oral,2,3,Amiodarone,125.2
+Elavil,Amitriptyline Hydrochloride,2,7,Amitriptyline,645
+Norvasc,Amlodipine Besylate,3,2,Amlodipine,277.4
+Amoxil,Amoxicillin Trihydrate,4,5,Amoxicillin,408.9
+Omnipen,Ampicillin Oral,0,6,Ampicillin,365.4
+Arimidex,Anastrozole Oral,1,4,Anastrozole,371.4
+Eliquis,Apixaban Oral,1,5,Apixaban,297.3
+Abilify,Aripiprazole Oral,2,6,Aripiprazole,459.4
+Tenormin,Atenolol Oral,0,1,Atenolol,448.4
+Strattera,Atomoxetine Hydrochloride,2,4,Atomoxetine,266.3
+Lipitor,Atorvastatin Calcium,0,5,Atorvastatin,291.4
+Imuran,Azathioprine Oral,1,3,Azathioprine,558.6
+Zithromax,Azithromycin Oral,1,4,Azithromycin,277.2
+Lioresal,Baclofen Oral,1,5,Baclofen,749
+Qvar,Beclomethasone Dipropionate,1,5,Beclomethasone,213.1
+Lotensin,Benazepril Hydrochloride,1,2,Benazepril,521
+Treanda,Bendamustine Injection,2,4,Bendamustine,336.4
+Casodex,Bicalutamide Oral,1,5,Bicalutamide,314.1
+Zebeta,Bisoprolol Fumarate,4,6,Bisoprolol,433.5
+Parlodel,Bromocriptine Mesylate,2,1,Bromocriptine,325.4
+Pulmicort,Budesonide Oral,1,3,Budesonide,414.3
+Bumex,Bumetanide Oral,0,4,Bumetanide,430.5
+Wellbutrin,Bupropion Hydrochloride,0,5,Bupropion,366.4
+Buspar,Buspirone Oral,1,4,Buspirone,239.7
+Myleran,Busulfan Injection,2,4,Busulfan,372.5
+Miacalcin,Calcitonin Injection,0,5,Calcitonin,222.1
+Rocaltrol,Calcitriol Oral,2,4,Calcitriol,"3,500"
+Atacand,Candesartan Cilexetil,0,4,Candesartan,416.7
+Xeloda,Capecitabine Oral,0,4,Capecitabine,420.5
+Capoten,Captopril Oral,1,4,Captopril,359.3
+Tegretol,Carbamazepine Extended Release,1,5,Carbamazepine,217.3
+Coreg,Carvedilol Extended Release,1,7,Carvedilol,236.2
+Ceclor,Cefaclor Oral,4,1,Cefaclor,406.5
+Duricef,Cefadroxil Oral,4,6,Cefadroxil,359.2
+Ancef,Cefazolin Injection,0,4,Cefazolin,357.4
+Omnicef,Cefdinir Oral,3,3,Cefdinir,454.4
+Maxipime,Cefepime Injection,2,5,Cefepime,365.4
+Suprax,Cefixime Oral,0,7,Cefixime,507.5
+Claforan,Cefotaxime Injection,1,5,Cefotaxime,453.4
+Cefotan,Cefotetan Injection,3,6,Cefotetan,453.4
+Cefotan,Cefoxitin Injection,2,4,Cefoxitin,460.5
+Fortaz,Ceftazidime Injection,1,4,Ceftazidime,374.3
+Rocephin,Ceftriaxone Injection,1,4,Ceftriaxone,636.6
+Ceftin,Cefuroxime Oral,0,5,Cefuroxime,661.6
+Celebrex,Celecoxib Oral,1,3,Celecoxib,414.4
+Keflex,Cephalexin Oral,2,5,Cephalexin,822.9
+Aralen,Chloroquine Phosphate,2,6,Chloroquine,320.8
+Thorazine,Chlorpromazine Oral,2,5,Chlorpromazine,318.9
+Tagamet,Cimetidine Oral,3,4,Cimetidine,252.3
+Cipro,Ciprofloxacin Oral,4,5,Ciprofloxacin,331.3
+Celexa,Citalopram Oral,0,6,Citalopram,314.8
+Biaxin,Clarithromycin Oral,1,7,Clarithromycin,748
+Cleocin,Clindamycin Oral,1,5,Clindamycin,424.9
+Temovate,Clobetasol Propionate,2,4,Clobetasol,521
+Clomid,Clomiphene Citrate,0,5,Clomiphene,405.5
+Klonopin,Clonazepam Oral,2,6,Clonazepam,315.2
+Catapres,Clonidine Hydrochloride,0,4,Clonidine,230.7
+Plavix,Clopidogrel Bisulfate,1,5,Clopidogrel,321.8
+Lotrimin,Clotrimazole Cream,1,4,Clotrimazole,344.2
+Clozaril,Clozapine Oral,1,5,Clozapine,326.8
+Colcrys,Colchicine Oral,1,4,Colchicine,399.4
+Welchol,Colesevelam Hydrochloride,1,5,Colesevelam,1500
+Premarin,Conjugated Estrogens Oral,2,4,Colchicine,2000
+Flexeril,Cyclobenzaprine Oral,1,5,Conjugated estrogens,276.8
+Neoral,Cyclosporine Oral,4,4,Cyclobenzaprine,"1,203.60"
+Pradaxa,Dabigatran Oral,2,5,Cyclosporine,627.6
+Avlosulfon,Dapsone Oral,1,4,Dabigatran,248.3
+Enablex,Darifenacin Oral,0,5,Dapsone,320.2
+Norpramin,Desipramine Oral,0,2,Darifenacin,270.4
+Clarinex,Desloratadine Oral,1,4,Desipramine,310.8
+Dexilant,Dexlansoprazole Extended Release,2,5,Desloratadine,369.3
+Focalin,Dexmethylphenidate Extended Release,0,4,Dexlansoprazole,268.2
+Dexedrine,Dextroamphetamine Sulfate,2,3,Dexmethylphenidate,271.4
+Delsym,Dextromethorphan HBr,0,5,Dextroamphetamine,284.7
+Valium,Diazepam Oral,0,3,Dextromethorphan,296.1
+Voltaren,Diclofenac Sodium,1,5,Diazepam,288.4
+Bentyl,Dicyclomine Hydrochloride,1,3,Diclofenac,780.4
+Lanoxin,Digoxin Oral,1,4,Dicyclomine,414.9
+Cardizem,Diltiazem Extended Release,4,3,Digoxin,255.4
+Benadryl,Diphenhydramine HCl,4,4,Diltiazem,206.3
+Depakote,Divalproex Sodium,0,4,Diphenhydramine,219.3
+Dobutrex,Dobutamine Injection,3,7,Divalproex,153.2
+Intropin,Dopamine Injection,2,4,Dobutamine,412.4
+Cardura,Doxazosin Extended Release,0,12,Dopamine,309.4
+Silenor,Doxepin Oral,1,3,Doxazosin,444.4
+Vibramycin,Doxycycline Hyclate,3,10,Doxepin,297.3
+Cymbalta,Duloxetine Oral,2,7,Doxycycline,315.3
+Sustiva,Efavirenz Oral,1,2,Duloxetine,359.2
+Vasotec,Enalapril Maleate,1,2,Efavirenz,357.4
+Enalaprilat (active metabolite),Ethyl ester (prodrug form),0,1,Enalapril,454.4
+Low Molecular Weight Heparin (LMWH),Ethyl ester (prodrug form),1,9,Enoxaparin,365.4
+Recombinant Human Erythropoietin,Sialic Acid (glycosylation modifications),2,5,Epoetin alfa,507.5
+Desosamine (sugar moiety),Cladinose (sugar moiety),2,3,Erythromycin,453.4
+(S)-Citalopram (enantiomer),Cyclohexane Ring,2,6,Escitalopram,453.4
+(S)-Omeprazole (enantiomer),Sulfoxide Group,3,5,Esomeprazole,460.5
+Phenolic A-ring,Cyclohexane Ring,4,6,Estradiol,374.3
+Estrone (estrogenic steroid),Equilin (estrogenic steroid),0,5,"Estrogens, conjugated",636.6
+Cyclopropyl (part of the structure),Chloride Group (part of the structure),1,7,Eszopiclone,661.6
+Ethylene Diamine (amine group),Butanol (hydroxyl group),1,6,Ethambutol,414.4
+Ethinyl Group (acetylene group),Estradiol (estrogenic steroid),2,5,Ethinyl estradiol,822.9
+Pyrrole (part of the structure),Carboxylic Acid (part of the structure),0,7,Etodolac,320.8
+Triazole Ring (part of the structure),Diphenyl Group (part of the structure),2,8,Etravirine,318.9
+Phenyl Ring,Azetidinone Ring,0,5,Ezetimibe,252.3
+Furan Ring,Thiazole Ring,1,4,Famotidine,331.3
+Dihydropyridine Ring,Ester Group,1,3,Felodipine,314.8
+Phenyl Group,Isobutyric Acid,1,6,Fenofibrate,748
+N-Phenethyl Group,Anilide Group,1,3,Fentanyl,424.9
+Iron (Fe),Sulfate (SO4),1,7,Ferrous sulfate,521
+Diphenyl Ether,Carboxyl Group,2,2,Fexofenadine,405.5
+Triazole Ring,Fluorophenyl Group,1,5,Fluconazole,315.2
+Pyrimidine Ring,Fluorine Atom,4,6,Flucytosine,230.7
+Phenyl Ring,Trifluoromethyl Group,2,4,Fluoxetine,321.8
+Corticosteroid Backbone,Fluorinated Side Chains,1,5,Fluticasone,344.2
+Sulfonamide Group,Furoic Acid,0,6,Furosemide,326.8
+Cyclohexane Ring,Amino Acid,0,1,Gabapentin,399.4
+Phenoxyisobutyric Acid,Aromatic Ring,1,4,Gemfibrozil,1500
+Aminoglycoside Structure,Sugar Moieties,2,5,Gentamicin,2000
+Sulfonylurea Group,Piperidine Ring,0,3,Glimepiride,276.8
+Sulfonylurea Group,Piperazine Ring,2,4,Glipizide,"1,203.60"
+Sulfonylurea Group,Pyrimidine Ring,0,5,Glyburide,627.6
+Benzofurans,Cyclic Dipeptide,0,5,Griseofulvin,248.3
+Piperidine Ring,Butyrophenone Group,1,2,Haloperidol,320.2
+4o mini,Thiazide Ring,1,4,Hydrochlorothiazide,270.4
+Quinoline Ring,Hydroxyl Group,1,5,Hydroxychloroquine,310.8
+Urea Group,Hydroxyl Group,4,6,Hydroxyurea,369.3
+Pyrimidine Ring,Aniline Group,4,1,Imatinib,268.2
+Beta-Lactam Ring,Thiazolidine Ring,0,3,Imipenem,271.4
+Indole Ring,Acetic Acid Group,3,4,Indomethacin,284.7
+Monoclonal Antibody,TNF-alpha Binding Region,2,5,Infliximab,296.1
+Tropane Ring,Quaternary Ammonium Group,0,4,Ipratropium,288.4
+Pyridine Ring,Hydrazide Group,3,4,Isoniazid,780.4
+Nitrate Ester,Isosorbide Group,2,5,Isosorbide dinitrate,414.9
+Retinoid Structure,Isopropyl Group,0,4,Isotretinoin,255.4
+Triazole Ring,Cyclohexane Ring,1,4,Itraconazole,206.3
+Imidazole Ring,Ketone Group,3,4,Ketoconazole,219.3
+Pyrrole Ring,Carboxylic Acid,2,4,Ketorolac,153.2
+Cytosine Analogue,Hydroxymethyl Group,1,5,Lamivudine,412.4
+Phenyltriazine Ring,Amino Group,1,7,Lamotrigine,309.4
+Benzimidazole Ring,Pyridine Ring,0,1,Lansoprazole,444.4
+Prostaglandin Analog,Phenyl Group,1,6,Latanoprost,297.3
+Luteinizing Hormone Analogue,Peptide Structure,2,4,Leuprolide,315.3
+Phenyl Ethylamine,Hydroxybutyl Group,2,3,Levalbuterol,359.2
+Pyrrolidone Ring,Ethyl Group,2,5,Levetiracetam,357.4
+Fluoroquinolone Structure,Carboxyl Group,3,7,Levofloxacin,454.4
+Thyroxine Structure,Iodine Atom,4,5,Levothyroxine,365.4
+Anilide Group,Ethyl Group,0,6,Lidocaine,507.5
+Oxazolidinone Ring,Phenyl Group,1,4,Linezolid,453.4
+Dipeptide Structure,Carboxyl Group,1,4,Lisinopril,453.4
+Lithium Ion,Carboxyl Group,2,4,Lithium,460.5
+Piperidine Ring,Chlorinated Aromatic Ring,0,5,Loratadine,374.3
+Benzodiazepine Ring,Chlorinated Phenyl Ring,2,3,Lorazepam,636.6
+Tetrazole Ring,Biphenyl Group,0,5,Losartan,661.6
+Hydroxyacid,Octahydroindole Ring,1,6,Lovastatin,414.4
+Endothelin Receptor Antagonist,Pyrimidine Ring,1,5,Macitentan,822.9
+Piperazine Ring,Phenyl Ring,1,4,Meclizine,320.8
+Progesterone Derivative,Methyl Group,1,5,Medroxyprogesterone,318.9
+Oxicam Ring,Methyl Group,1,6,Meloxicam,252.3
+Aminoadamantane Ring,Cyclohexane Group,2,7,Memantine,331.3
+Piperidine Ring,Anilide Group,1,5,Meperidine,314.8
+Aminosalicylic Acid,Phenyl Group,4,4,Mesalamine,748
+Biguanide Structure,Dimethyl Group,2,5,Metformin,424.9
+Diphenylpropylamine,Methadone Group,1,6,Methadone,521
+Imidazole Ring,Sulfur Atom,0,4,Methimazole,405.5
+Folate Analog,Amino Group,0,5,Methotrexate,315.2
+Corticosteroid Backbone,Methyl Group,1,4,Methylprednisolone,230.7
+Benzamide Ring,Dimethylamino Group,2,5,Metoclopramide,321.8
+Beta-Adrenergic Blocker,Ethanolamine Group,0,4,Metoprolol,344.2
+Nitroimidazole Ring,Methoxy Group,2,5,Metronidazole,326.8
+Tetracycline Ring,Dimethylamino Group,0,4,Minocycline,399.4
+Tetracyclic Antidepressant,Phenyl Ring,0,5,Mirtazapine,1500
+Prostaglandin Analog,Methyl Ester,1,4,Misoprostol,2000
+Anthracenedione Ring,Dimethylamino Group,1,5,Mitoxantrone,276.8
+Benzhydryl Group,Sulfinyl Group,1,4,Modafinil,"1,203.60"
+Leukotriene Receptor Antagonist,Benzothiazole Ring,4,5,Montelukast,627.6
+Phenanthrene Ring,Hydroxyl Group,4,2,Morphine,248.3
+Fluoroquinolone Structure,Carboxyl Group,0,4,Moxifloxacin,320.2
+Phenyl Group,Cyclic Compound,3,5,Mycophenolate,270.4
+Ketone Group,Aromatic Ring,2,4,Nabumetone,310.8
+Non-selective Beta-Blocker,Carboxyl Group,0,3,Nadolol,369.3
+Napthylpropionic Acid,Carboxyl Group,3,5,Naproxen,268.2
+Beta-Blocker,Phenyl Group,2,3,Nebivolol,271.4
+Pyrimidine Ring,Phenyl Group,0,5,Nelfinavir,284.7
+Aminoglycoside Structure,Sugar Moieties,1,0,Neomycin,296.1
+Non-Nucleoside Reverse Transcriptase Inhibitor,Pyridine Ring,3,3,Nevirapine,288.4
+Dihydropyridine Ring,Ester Group,2,2,Nifedipine,780.4
+Furan Ring,Nitro Group,1,0,Nitrofurantoin,414.9
+Nitrate Ester,Ethanolamine Group,1,1,Nitroglycerin,255.4
+Fluoroquinolone Structure,Carboxyl Group,0,3,Norfloxacin,206.3
+Tricyclic Antidepressant,Phenyl Group,1,2,Nortriptyline,219.3
+Polypeptide Structure,Polyene Ring,2,1,Nystatin,153.2
+Fluoroquinolone Structure,Piperazine Ring,2,1,Ofloxacin,412.4
+Dibenzodiazepine Ring,Phenyl Ring,2,0,Olanzapine,309.4
+Tetrazole Ring,Benzyl Group,3,1,Olmesartan,444.4
+Benzimidazole Ring,Pyridine Ring,4,2,Omeprazole,297.3
+Benzimidazole Ring,Pyrimidine Ring,0,2,Ondansetron,315.3
+Carboxylic Acid,Ethers Group,1,2,Oseltamivir,359.2
+Benzylpenicillin,Thiazolidine Ring,1,3,Oxacillin,357.4
+Methylxanthine,Amide Group,2,4,Oxybutynin,454.4
+Angiotensin II Receptor Antagonist,Biphenyl Group,0,0,Oxycodone,365.4
+Imidazole Ring,Methoxyphenyl Group,2,1,Oxymorphone,507.5
+Piperazine Ring,Piperidine Ring,0,1,Paliperidone,453.4
+Phenylthiazole Ring,Morpholine Group,1,2,Pantoprazole,453.4
+Phenylbutazone,Pyridine Ring,1,0,Paroxetine,460.5
+Penicillin Ring,Beta-Lactam Ring,1,2,Peginterferon,374.3
+Steroid Backbone,Carbonyl Group,1,0,Penicillin,636.6
+Steroid Backbone,Carbonyl Group,1,1,Pentoxifylline,661.6
+Pregnanes,Cyclohexane Ring,2,1,Perindopril,414.4
+Phenylbutylamide,Benzene Ring,1,1,Permethrin,822.9
+Benzodiazepine Ring,Phenyl Group,4,1,Phenobarbital,320.8
+Cyclic Ether,Benzyl Group,2,1,Phenytoin,318.9
+Alkylamine Group,Phenyl Ring,1,2,Pioglitazone,252.3
+Phenyl Group,Piperidine Ring,0,1,Piroxicam,331.3
+Beta-Lactam Ring,Phenyl Group,0,4,Pivmecillinam,314.8
+Aromatic Ring,Piperidine Ring,1,2,Pravastatin,748
+Triazole Ring,Cyclohexane Ring,2,1,Prednisolone,424.9
+N-Phenylpiperazine,Phenyl Group,0,0,Prednisone,521
+Piperidine Ring,Benzyl Group,2,0,Pregabalin,405.5
+Piperidine Ring,Benzyl Group,0,1,Primidone,315.2
+Benzylisoquinoline,Phenyl Ring,0,2,Probenecid,230.7
+Fluoroquinolone Structure,Carboxyl Group,1,0,Prochlorperazine,321.8
+Phenothiazine Ring,Benzyl Group,1,2,Progesterone,344.2
+Piperazine Ring,Phenyl Ring,1,0,Promethazine,326.8
+Alpha-Adrenergic Antagonist,Phenyl Group,4,0,Propafenone,399.4
+Phenyl Group,Carboxyl Group,4,1,Propranolol,1500
+Benzofuran Ring,Phenyl Group,0,1,Pseudoephedrine,2000
+Benzoxazole Ring,Phenyl Group,3,1,Pyrazinamide,276.8
+Imidazole Ring,Pyridine Ring,2,4,Pyridostigmine,"1,203.60"
+Beta-Lactam Ring,Carboxyl Group,0,4,Quetiapine,627.6
+Dibenzothiazepine Ring,Phenyl Ring,3,0,Quinapril,248.3
+Angiotensin II Receptor Antagonist,Piperidine Ring,2,3,Quinine,320.2
+Quinine Ring,Quinolone Group,0,2,Raltegravir,270.4
+Integrase Inhibitor,Pyrimidine Ring,1,0,Ramipril,310.8
+Angiotensin Converting Enzyme Inhibitor,Pyrrolidine Ring,3,3,Ranitidine,369.3
+Imidazole Ring,Dimethylamino Group,2,2,Rasagiline,268.2
+"1-Amino-2,3-dihydro-1H-indole",Phenyl Ring,1,0,Rifabutin,271.4
+Rifamycin Ring,Phenyl Group,1,1,Rifampin,284.7
+Rifamycin Ring,Amino Group,0,3,Riluzole,296.1
+Oxadiazole Ring,Benzyl Group,1,2,Risedronate,288.4
+Hydroxypyrrolidine Ring,Aniline Group,2,1,Risperidone,780.4
+Beta-Adrenergic Agonist,Propyl Group,2,1,Ritonavir,414.9
+Thiazolidinedione Group,Phenyl Group,2,0,Rivastigmine,255.4
+Aromatic Ring,Hydroxyl Group,3,1,Rizatriptan,206.3
+Phenothiazine Ring,Piperidine Ring,4,2,Roflumilast,219.3
+Macrolide Antibiotic,Erythromycin Backbone,0,2,Ropinirole,153.2
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Rosiglitazone,412.4
+Dipeptide Inhibitor,Glucagon-like Peptide,1,3,Rosuvastatin,309.4
+Pyrrolidine Ring,Phenyl Group,2,4,Rotigotine,444.4
+Monoclonal Antibody,Interleukin-17A Binding Region,0,0,Roxithromycin,297.3
+Monoamine Oxidase Inhibitor,Benzyl Group,2,1,Salmeterol,315.3
+Phosphodiesterase-4 Inhibitor,Piperazine Ring,0,1,Saxagliptin,359.2
+Dihydroergotamine Derivative,Benzyl Group,1,2,Secukinumab,357.4
+Imidazole Ring,Phenyl Ring,1,0,Selegiline,454.4
+Dipeptide Analog,Carboxyl Group,1,2,Sildenafil,365.4
+Sodium Salt,Carboxyl Group,1,0,Simvastatin,507.5
+Sodium Salt,Carboxyl Group,1,1,Sitagliptin,453.4
+Sodium Salt,Carboxyl Group,2,1,Sodium bicarbonate,453.4
+Sodium Salt,Carboxyl Group,1,1,Sodium chloride,460.5
+Tertiary Amine Group,Aromatic Ring,4,1,Sodium citrate,374.3
+Aromatic Ring,Aliphatic Group,2,1,Sodium phosphate,636.6
+Aldosterone Antagonist,Steroid Backbone,1,2,Solifenacin,661.6
+Nucleoside Reverse Transcriptase Inhibitor,Thymidine Analog,0,1,Sotalol,414.4
+Aminoglycoside Structure,Sugar Moieties,0,4,Spironolactone,822.9
+Sucralfate Complex,Sulfated Polysaccharide,1,2,Stavudine,320.8
+Sulfapyridine Derivative,Amino Group,2,1,Streptomycin,318.9
+Sulfonamide,Carboxyl Group,0,0,Sucralfate,252.3
+Sulfonamide,Aromatic Ring,2,0,Sulfasalazine,331.3
+Sumatriptan Structure,Indole Group,0,1,Sulfamethoxazole,314.8
+Macrolide Ring,Erythromycin Backbone,0,2,Sulfadiazine,748
+Phosphodiesterase-5 Inhibitor,Pyrazolopyrimidine Group,1,0,Sulfisoxazole,424.9
+Antagonist of Adrenergic Receptors,Benzodiazepine Ring,1,2,Sumatriptan,521
+Angiotensin II Receptor Antagonist,Hydroxyl Group,1,0,Tacrolimus,405.5
+Calcium Channel Blocker,Quinazoline Group,4,0,Tadalafil,315.2
+Antagonist of α1-Adrenergic Receptors,Piperazine Ring,4,1,Tamoxifen,230.7
+Macrolide Antibiotic,Phenyl Group,0,1,Tamsulosin,321.8
+Prostaglandin Analog,Aminoethylpiperidine,3,1,Tazobactam,344.2
+Vasodilator,Aromatic Group,2,4,Telmisartan,326.8
+Thiazide Diuretic,Sulfonamide Group,0,4,Temazepam,399.4
+Vasopressin Receptor Antagonist,Phenyl Ring,3,0,Tenofovir,1500
+Inhibitor of Angiotensin Converting Enzyme,Pyrrolidine Ring,2,3,Terbinafine,2000
+Beta-Blocker,Phenyl Group,0,2,Terbutaline,276.8
+Antifungal,Phenyl Group,1,0,Teriparatide,"1,203.60"
+Acetylcholinesterase Inhibitor,Pyrrolidine Ring,3,3,Tetracycline,627.6
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,2,2,Thalidomide,248.3
+Beta-Blocker,Aromatic Ring,1,0,Theophylline,320.2
+Anticancer Agent,Alkylating Agent,1,1,Thioguanine,270.4
+Antiviral Agent,Pyrimidine Ring,0,3,Thiotepa,310.8
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Thiopental,369.3
+Non-Steroidal Anti-Inflammatory Drug,Phenyl Ring,2,1,Tiagabine,268.2
+Calcium Channel Blocker,Phenyl Group,2,1,Ticagrelor,271.4
+Aminoglycoside,Sugar Moieties,2,0,Ticarcillin,284.7
+Sulfonamide,Phenyl Group,3,1,Tigecycline,296.1
+Sulfonamide,Phenyl Ring,4,2,Timolol,288.4
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,0,2,Tiotropium,780.4
+Immunosuppressant,Macrolide Ring,1,2,Tizanidine,414.9
+Phosphodiesterase-5 Inhibitor,Phenyl Ring,1,3,Tobramycin,255.4
+Phenylthiazine Ring,Piperidine Ring,2,4,Tolterodine,206.3
+Benzodiazepine Ring,Aromatic Ring,0,0,Topiramate,219.3
+Piperazine Ring,Carboxyl Group,2,1,Tramadol,153.2
+Amino Acid Derivative,Carboxylic Acid,0,1,Tranexamic acid,412.4
+Piperidine Ring,Phenyl Ring,1,2,Tranylcypromine,309.4
+Phenylpiperazine Ring,Tetrahydrofuran Ring,1,0,Trazodone,444.4
+Steroid Backbone,Hydroxyl Group,1,2,Triamcinolone,297.3
+Pyrimidine Ring,Diaminopyrimidine Ring,1,0,Triamterene,315.3
+Pyrimidine Ring,Fluoro Group,1,1,Trifluridine,359.2
+Trimethoxybenzene Ring,Dimethylamino Group,2,1,Trimethoprim,357.4
+Piperidine Ring,Phenyl Ring,1,1,Trimipramine,454.4
+Cyclohexane Ring,Benzyl Group,4,1,Trospium,365.4
+Ester Group,Guanine Derivative,2,1,Valacyclovir,507.5
+Guanine Derivative,Ester Group,1,2,Valganciclovir,453.4
+Carboxylic Acid,Amino Group,0,1,Valproic acid,453.4
+Glycopeptide Antibiotic,Amino Sugar Group,0,4,Vancomycin,460.5
+Piperazine Ring,Phenyl Group,1,2,Vardenafil,374.3
+Nicotinamide Ring,Pyrazole Ring,2,1,Varenicline,636.6
+N-Arylpiperazine Ring,Phenyl Ring,0,0,Vemurafenib,661.6
+Piperazine Ring,Morpholine Group,2,0,Verapamil,414.4
+Macrolide Antibiotic,Erythromycin Backbone,0,1,Vilazodone,822.9
+Cyclic Peptide,Argon Group,0,2,Vinblastine,320.8
+Glucagon-like Peptide,Carbonyl Group,1,0,Vincristine,318.9
+Antibody to PCSK9,Human Monoclonal Antibody,1,2,Vinorelbine,252.3
+Monoclonal Antibody,PCSK9 Binding Region,1,0,Voriconazole,331.3
+Proprotein Convertase Subtype 9 Inhibitor,Monoclonal Antibody,4,0,Warfarin,314.8
+Dipeptide Analog,Phenyl Ring,4,1,Zaleplon,748
+Peptide Analog,Aromatic Ring,0,1,Zolpidem,424.9
+Dipeptide Analog,Phenyl Group,3,1,Zonisamide,521
+Glucagon-like Peptide,Carbonyl Group,2,4,Zopiclone,405.5
+Sodium Salt,phenyl ring,0,4,Sacubitril/valsartan,315.2
+Sodium Salt,amino acid,3,0,Alirocumab,230.7
+Sodium Salt,Amide Group,2,3,Evolocumab,321.8
+Sodium Salt,phenyl group,0,2,Inclisiran,344.2
+Insulin Analogue,Glargine Structure,1,0,Ertugliflozin,326.8
+Dipeptide Analog,Carboxyl Group,3,3,Liraglutide,399.4
+Dipeptide Analog,Phenyl Group,2,2,Semaglutide,1500
+Dipeptide Analog,Amino Group,1,0,Dulaglutide,2000
+Dipeptide Analog,Phenyl Ring,1,1,Sitagliptin/metformin,276.8
+Dipeptide Analog,Aromatic Ring,0,3,Linagliptin,"1,203.60"
+Dipeptide Analog,Phenyl Group,1,2,Albiglutide,627.6
+Dipeptide Analog,Phenyl Group,2,1,Canagliflozin,248.3
+Dipeptide Analog,Glucagon-like Peptide,2,1,Dapagliflozin,320.2
+Dipeptide Analog,Carbonyl Group,2,0,Empagliflozin,270.4
+Dipeptide Analog,Carboxyl Group,3,1,Insulin glargine,310.8
+acetic acid,salicyclic acid,1,2,Aspirin,180.16
+4-aminophenol,acetic anhydride,1,1,Acetaminophen,151.16
+p-hydroxyphenyl glycine methyl ester,aminopenicillanic acid,0,2,Amoxicillin,365.4
+erythromycin,methyl-nitrogen,0,2,Azithromycin,748.98
+Isobutylbenzene,Acyl chloride,4,7,Ibuprofen,206.28
+Dimethylbiguanide,Cyanamide,2,3,Metformin,129.16
+Cyclohexanone,Amino acids,2,3,Gabapentin,171.24
+Amoxicillin,Clavulanic Acid,0,2,Augmentin,365
+Hydrocodone,Acetaminophen,1,1,Vicodin,291
+Lisinopril,Hydrochlorothiazide,2,3,Zestoretic,447
+Amlodipine,Benazepril,3,3,Lotrel,408
+Fluticasone,Salmeterol,2,2,Advair,500.57
+Ipratropium,Albuterol,2,2,Combivent,332.38
+Losartan,Hydrochlorothiazide,1,2,Hyzaar,422.91
+Metformin,Sitagliptin,1,3,Janumet,523.32
+Glyburide,Metformin,0,2,Glucovance,493.99
+Vildagliptin,Metformin,0,2,Galvus Met,129.96
+Perindopril,Indapamide,0,2,Preterax,365.84
+Bisoprolol,Hydrochlorothiazide,3,4,Ziac,325.45
+Lamivudine,Zidovudine,1,3,Combivir,229.26
+Carbidopa,Levodopa,3,4,Sinemet,244.24
+Pioglitazone,Metformin,2,3,Actoplus Met,356.44
+Telmisartan,Hydrochlorothiazide,2,5,Micardis HCT,514.63
+Valsartan,Hydrochlorothiazide,2,1,Diovan HCT,433.52
+Lopinavir,Ritonavir,1,1,Kaletra,345.76
+Aliskiren,Hydrochlorothiazide,1,2,Tekturna HCT,609.83
+Amlodipine,Olmesartan,2,2,Azor,408.88
+Amlodipine,Valsartan,2,2,Exforge,408.88
+Amlodipine,Atorvastatin,2,7,Caduet,266.37
+Atenolol,Chlorthalidone,2,4,Tenoretic,505.45
+ 4-chloroaniline,Hexamethylenetetramin,2,2,Chlorhexidine,299.37
+Thebaine ,Hydrogenation Reagents,2,4,Hydrocodone,585.53
+Minocycline ,Glycine,4,4,Tigecycline,424.5
+Benazepril,Hydrochlorothiazide,0,3,Lotensin HCT,408.87
+D-Glucose derivative, Benzyl bromide derivative,0,6,Dapagliflozin ,493.99
+4-chlorobenzenesulfonamide, 5-chloro-2-methoxybenzoic acid,1,1,Glyburide,440.47
+Candesartan,Hydrochlorothiazide,4,6,Atacand HCT,217.29
+Captopril,Hydrochlorothiazide,2,3,Capozide,274.78
+Chlorpheniramine,Hydrocodone,3,4,Tussionex,274.78
+Chlorpheniramine,Phenylephrine,1,3,Chlor-Trimeton,297.23
+Chlorpheniramine,Pseudoephedrine,2,6,Chlor-Trimeton D,274.78
+Ciprofloxacin,Dexamethasone,2,6,Ciprodex,331.34
+Clindamycin,Tretinoin,2,4,Ziana,425.98
+Clotrimazole,Betamethasone,1,3,Lotrisone,344.84
+Codeine,Guaifenesin,0,4,Robitussin AC,198.22
+Codeine,Promethazine,0,3,Phenergan with Codeine,284.41
+Dapagliflozin,Metformin,1,4,Xigduo XR,408.87
+Diclofenac,Misoprostol,3,4,Arthrotec,296.15
+Dorzolamide,Timolol,1,7,Cosopt,324.48
+Ezetimibe,Simvastatin,2,4,Vytorin,409.39
+Fenofibrate,Simvastatin,4,12,Cholib,360.83
+Formoterol,Budesonide,2,3,Symbicort,430.54
+Glyburide,Rosiglitazone,3,10,Avandaryl,357.43
+Ibuprofen,Famotidine,2,7,Duexis,206.28
+Indapamide,Perindopril,0,2,Preterax,368.42
+Lopinavir,Ritonavir,0,2,Kaletra,628.81
+Methyldopa,Hydrochlorothiazide,2,1,Aldoril,211.21
+Metoprolo,Olmesartan,2,9,Azor,408.88
+Pioglitazone,Glimepiride,0,5,Duetact,356.44
+Amlodipine,Perindopril,2,3,Prestalia,777.6
+Amphetamine,Dextroamphetamine,3,6,Adderal,270.4
+Aspirin,Dipyridamole,1,5,Aggrenox,684.7
+Budesonide,Formoterol,0,6,Symbicort,774.9
+Buprenorphine,Naloxone,2,5,Suboxone,795
+Chlorpheniramine,Phenylpropanolamine,0,7,Ornade,426
+Chlorpheniramine,Methscopolamine,2,6,Deconamine SR,759.4
+Chlorpheniramine,Phenylpropanolamine,1,5,Teldrin,426
+Codeine,Acetaminophen,1,7,Tylenol with Codeine,450.6
+Diclofenac,Omeprazole,2,8,Arthrotec,641.6
+Drospirenone,Ethinyl Estradiol,1,5,Yasmin,662.9
+Emtricitabine,Tenofovir,2,4,Truvada,534.5
+Esomeprazole,Naproxen,3,3,Vimovo,575.7
+Ezetimibe,Atorvastatin,3,6,Liptruzet,1618.8
+Fexofenadine,Pseudoephedrine,2,3,Allegra-D,666.9
+Fluticasone,Vilanterol,3,7,Breo Ellipta,948.1
+Glyburide,Metformin,4,2,Glucovance,623.2
+Insulin Degludec,Liraglutide,3,5,Xultophy,9861.2
+Insulin Glargine,Lixisenatide,1,6,Soliqua,10921
+Ipratropium,Albuterol,4,4,Combivent,571.7
+Levodopa,Carbidopa/Entacapone,1,5,Stalevo,728.8
+Liraglutide,Insulin Degludec,1,6,Xultophy,9861.2
+Metformin,Glyburide,1,1,Glucovance,623.2
+Metformin,Saxagliptin,1,4,Kombiglyze XR,444.6
+Metformin,Vildagliptin,0,5,Eucreas,432.6
+Nebivolol,Valsartan,2,3,Byvalson,877.4
+Oxycodone,Acetaminophen,1,4,Percocet,466.6
+Sitagliptin,Metformin,2,5,Janumet,536.5
+Tamsulosin,Dutasteride,0,5,Jalyn,551
+Triamterene,Hydrochlorothiazide,0,2,"Dyazide, Maxzide",550.1
+Atorvastatin,Ezetimibe,2,4,Liptruzet,1618.8
+Amlodipine,Benazepril,3,5,Lotrel,833.6
+Clopidogrel,Aspirin,1,6,Clopidogrel/Aspirin,501.4
+Lisinopril,Hydrochlorothiazide,1,1,Zestoretic,471.5
+Propranolol,Hydrochlorothiazide,1,3,Inderide,557
+Valsartan,Hydrochlorothiazide,3,4,Diovan HCT,433.52
+Telmisartan,Amlodipine,1,5,Twynsta,579.9
+Perindopril,Amlodipine,2,4,Prestalia,777.6
+Spironolactone,Hydrochlorothiazide,1,4,Aldactazide,632.8
+Loratadine,Pseudoephedrine,0,5,Claritin-D,425.98
+Rosuvastatin,Ezetimibe,0,4,Roszet,684.6
+Ezetimibe,Simvastatin,1,4,Vytorin,597.7
+Olmesartan,Amlodipine,2,4,Azor,408.88
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Hydrocodone,Acetaminophen,0,5,Vicodin,291
+Oxycodone,Ibuprofen,1,7,Combunox,586.6
+Ibuprofen,Famotidine,3,1,Duexis,586.6
+Esomeprazole,Naproxen,2,6,Vimovo,575.7
+Sitagliptin,Metformin,1,4,Janumet,536.5
+Glyburide,Metformin,1,3,Glucovance,623.2
+Amlodipine,Olmesartan,0,5,Azor,408.88
+Losartan,Hydrochlorothiazide,1,7,Hyzaar,435.4
+Chlorthalidone,Hydrochlorothiazide,2,5,Clorpres,394.9
+Metformin,Sitagliptin,2,6,Janumet,536.5
+Empagliflozin,Metformin,2,4,Synjardy,587.7
+Rivaroxaban,Aspirin,3,4,Xarelto with Aspirin,638.2
+Sacubitril,Valsartan,4,4,Entresto,603.8
+Ceftazidime,Avibactam,0,5,Avycaz,907.2
+Ampicillin,Sulbactam,1,3,Unasyn,597.6
+Glycopyrrolate,Formoterol,1,5,Bevespi Aerosphere,545.7
+Amlodipine,Perindopril,2,6,Prestalia,777.6
+Bisoprolol,Hydrochlorothiazide,0,5,Ziac,291.1
+Valsartan,Amlodipine,2,4,Exforge,579.9
+Perindopril,Amlodipine,0,5,Prestalia,777.6
+Trandolapril,Verapamil,1,6,Tarka,661.9
+Telmisartan,Hydrochlorothiazide,1,7,Micardis HCT,833.6
+Clopidogrel,Aspirin,1,5,Clopidogrel with Aspirin,481.9
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,478.5
+Olmesartan,Hydrochlorothiazide,1,5,Benicar HCT,636.4
+Propranolol,Hydrochlorothiazide,2,6,Inderide,557
+Atorvastatin,Ezetimibe,1,4,Liptruzet,1618.8
+Fosinopril,Hydrochlorothiazide,4,5,Monopril HCT,502.6
+Methyldopa,Hydrochlorothiazide,2,4,Aldoril,377.8
+Amiloride,Hydrochlorothiazide,1,5,Moduretic,491.5
+Aspirin,Dipyridamole,0,4,Aggrenox,684.7
+Niacin,Simvastatin,0,5,Simcor,797
+Naltrexone,Bupropion,1,4,Contrave,596.7
+Bupropion,Naltrexone,2,5,Contrave,596.7
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Empagliflozin,Metformin,2,5,Synjardy,587.7
+Ergotamine,Caffeine,0,4,Cafergot,264.3
+Paracetamol,Codeine,0,5,Co-Codamol,378.4
+Butalbital,Aspirin,1,2,Fiorinal,394.4
+Buprenorphine,Naloxone,1,4,Suboxone,795
+Fentanyl,Droperidol,1,5,Innovar,417.5
+Carisoprodol,Aspirin,4,4,Soma Compound,542.5
+Hydroxychloroquine,Sulfapyridine,4,3,Plaquenil,433.3
+Sulfamethoxazole,Trimethoprim,0,5,Bactrim,249.3
+Trimethoprim,Sulfamethoxazole,3,3,Septra,249.3
+Ciprofloxacin,Dexamethasone,2,5,CiproDex,421.3
+Phenylalanine,Aspartic acid,0,3,Aspartame,294.29
+Dopamine,Tyrosine,1,4,Norepinephrine,169.18
+Paracetamol,Phenylephrine,3,3,Percogesic,448.55
+Codeine,Acetaminophen,2,4,Tylenol with Codeine,500
+Amoxicillin,Clavulanic Acid,1,4,Augmentin,601.51
+Levodopa,Carbidopa,1,7,Sinemet,430.33
+Glimepiride,Metformin Hydrochloride,0,4,Amaryl M,614.76
+Glipizide,Metformin Hydrochloride,1,12,Metaglip,614.76
+Tolmetin Sodium,Magnesium Stearate,2,3,Tolmetin,276.28
+Rosiglitazone,Metformin Hydrochloride,2,10,Avandamet,569.69
+Pioglitazone,Metformin Hydrochloride,2,7,Actoplus Met,551.48
+Sitagliptin,Metformin Hydrochloride,3,2,Janumet,551.48
+Saxagliptin,Metformin,4,2,Kombiglyze XR,551.48
+Linagliptin,Metformin,0,1,Jentadueto,551.48
+Alogliptin,Metformin,1,9,Kazano,572.48
+Alendronate,Cholecalciferol,1,5,Fosamax Plus D,550.51
+Risedronate,Calcium carbonate,2,3,Actonel with Calcium,831.55
+Zoledronic acid,Alendronic acid,0,6,Reclast,355.18
+Ibandronate,Cholecalciferol,2,5,Boniva,270.22
+Atazanavir,Cobicistat,0,6,Evotaz,1182.42
+Darunavir,Ritonavir,1,5,Prezista,527.71
+Efavirenz,Tenofovir,1,7,Atripla,751.85
+Nevirapine,Emtricitabine,1,6,Viramune,266.25
+Etravirine,Tenofovir,1,5,Intelence,553.24
+Rilpivirine,Tenofovir,1,7,Edurant,540.69
+Elvitegravir,Cobicistat,2,8,Stribild,1049.36
+Dolutegravir,Abacavir,1,5,Triumeq,772.73
+Raltegravir,Emtricitabine,4,4,Isentress,472.43
+Emtricitabine,Tenofovir,2,3,Truvada,487.48
+Tenofovir,Tenofovir,1,6,Descovy,554.55
+Lamivudine,Emtricitabine,0,3,Epivir,229.21
+Stavudine,Lamivudine,0,7,Zerit,227.23
+Zidovudine,Lamivudine,1,2,Retrovir,227.23
+Abacavir,Lamivudine,2,5,Ziagen,285.28
+Didanosine,Lamivudine,0,6,Videx,268.23
+Enalapril,Hydrochlorothiazide,2,4,Vaseretic,613.76
+Lisinopril,Hydrochlorothiazide,0,5,Zestoretic,613.76
+Quinapril,Hydrochlorothiazide,0,6,Accuretic,613.76
+Perindopril,Hydrochlorothiazide,1,1,Prestalia,613.76
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,613.76
+Telmisartan,Amlodipine,1,5,Twynsta,613.76
+Eprosartan,Hydrochlorothiazide,4,3,Teveten HCT,613.76
+Irbesartan,Hydrochlorothiazide,4,4,Avalide,613.76
+Candesartan,Hydrochlorothiazide,0,5,Atacand HCT,277.73
+Valsartan,Hydrochlorothiazide,3,5,Diovan HCT,317.37
+Olmesartan,Hydrochlorothiazide,2,2,Benicar HCT,222.71
+Clonidine,Chlorthalidone,0,4,Clorpres,344.94
+Methyldopa,Hydrochlorothiazide,1,5,Aldoril,
+Guanfacine,Hydrochlorothiazide,3,6,Tenex,
+Hydralazine,Hydrochlorothiazide,2,1,Apresoline HCT,
+Ethinyl estradiol,Norethindrone,1,3,Ortho-Novum,345.39
+Levonorgestrel,Ethinyl estradiol,1,4,Alesse,295.39
+Drospirenone,Ethinyl estradiol,0,5,Yasmin,335.43
+Norgestimate,Ethinyl estradiol,1,4,Ortho Tri-Cyclen,529.5
+Desogestrel,Ethinyl estradiol,2,4,Mircette,367.44
+Medroxyprogesterone,Ethinyl estradiol,2,5,Depo-Provera,447.51
+Estradiol,Norethindrone,2,4,Estrace,272.38
+Progesterone,Norethindrone,3,4,Prometrium,316.43
+Testosterone,Estradiol,4,4,AndroGel,286.42
+Finasteride,Dutasteride,0,4,Propecia,489.7
+Dutasteride,Finasteride,1,5,Avodart,528.5
+Sildenafil,Tadalafil,1,7,sildenafil ,474.55
+Tadalafil,Sildenafil,2,1,Cialis,389.34
+Vardenafil,Sildenafil,0,6,Levitra,474.55
+Avanafil,Sildenafil,2,4,Stendra,389.37
+Rivaroxaban,Apixaban,0,3,Xarelto,430.9
+Apixaban,Rivaroxaban,1,5,Eliquis,459.38
+Edoxaban,Rivaroxaban,1,7,Savaysa,501.56
+Betrixaban,Rivaroxaban,1,5,Bevyxxa,472.57
+Dabigatran,Rivaroxaban,1,6,Pradaxa,427.37
+Warfarin,Enoxaparin,1,4,Coumadin,308.31
+Enoxaparin,Warfarin,2,4,Lovenox,1750
+Dalteparin,Warfarin,1,4,Fragmin,5500
+Fondaparinux,Warfarin,4,5,Arixtra,2000
+Anastrozole,Tamoxifen,2,3,Arimidex,262.28
+Letrozole,Tamoxifen,1,5,Femara,297.31
+Exemestane,Tamoxifen,0,6,Aromasin,293.31
+Tamoxifen,Letrozole,0,5,Nolvadex,263.27
+Raloxifene,Letrozole,1,4,Evista,473.58
+Fulvestrant,Letrozole,2,5,Faslodex,1027.29
+Ibandronate,Zoledronic acid,0,6,Boniva,270.22
+Zoledronic acid,Ibandronate,2,7,Reclast,355.18
+Alendronic acid,Risedronate,0,5,Fosamax,550.51
+Risedronate,Alendronic acid,0,4,Actonel,831.55
+Teriparatide,Abaloparatide,1,5,Forteo,3271.72
+Abaloparatide,Teriparatide,1,6,Tymlos,2475.66
+Denosumab,Teriparatide,1,4,Prolia,1480.72
+Romosozumab,Denosumab,4,5,Evenity,1346.82
+Calcitonin,Denosumab,4,4,Miacalcin,1740.19
+Strontium ranelate,Denosumab,0,5,Protelos,2078.27
+Insulin glargine,Insulin aspart,3,4,Lantus,6061.12
+Insulin detemir,Insulin glargine,2,5,Levemir,6075.37
+Insulin aspart,Insulin glulisine,0,4,NovoLog,1156.62
+Insulin lispro,Insulin lispro,1,5,Humalog,730.83
+Insulin glulisine,Insulin aspart,3,4,Apidra,670.75
+Insulin degludec,Insulin glargine,2,5,Tresiba,5517.5
+Exenatide,Liraglutide,1,4,Byetta,4182.56
+Liraglutide,Exenatide,1,5,Victoza,3750.45
+Dulaglutide,Exenatide,0,2,Trulicity,2882.54
+Semaglutide,Exenatide,1,4,Ozempic,1742.93
+Albiglutide,Exenatide,2,5,Tanzeum,67000
+Pramlintide,Liraglutide,2,4,Symlin,3949.4
+Acarbose,Miglitol,2,3,Precose,645.6
+Miglitol,Acarbose,3,5,Glyset,207.2
+Saxagliptin,Sitagliptin,4,3,Onglyza,315.4
+Sitagliptin,Saxagliptin,0,5,Januvia,407.32
+Linagliptin,Saxagliptin,1,3,Tradjenta,472.54
+Alogliptin,Saxagliptin,1,4,Nesina,339.39
+Canagliflozin,Dapagliflozin,2,3,Invokana,444.52
+Dapagliflozin,Canagliflozin,0,4,Farxiga,408.87
+Empagliflozin,Canagliflozin,2,4,Jardiance,450.91
+Ertugliflozin,Canagliflozin,0,7,Steglatro,436.54
+Colesevelam,Ezetimibe,1,4,Welchol,400
+Ezetimibe,Colesevelam,1,12,Zetia,409.36
+Alirocumab,Colesevelam,1,3,Praluent,146000
+Evolocumab,Colesevelam,1,10,Repatha,143000
+Inclisiran,Colesevelam,1,7,Leqvio,145.18
+Lomitapide,Colesevelam,2,2,Juxtapid,693.9
+Mipomersen,Colesevelam,1,2,Kynamro,7596.91
+Bezafibrate,Fenofibrate,4,1,Bezalip,361.83
+Fenofibrate,Gemfibrozil,2,9,TriCor,360.83
+Gemfibrozil,Fenofibrate,1,5,Lopid,250.34
+Bempedoic acid,Fenofibrate,0,3,Nexletol,344.24
+Omega-3-acid ethyl esters,Fenofibrate,0,6,Lovaza,200
+Niacin,Fenofibrate,1,5,Niaspan,123.11
+Acetylcysteine,Guaifenesin,2,6,Mucomyst,163.19
+Carbocysteine,Guaifenesin,0,5,Mucodyne,179.22
+Guaifenesin,Dextromethorphan,2,7,Mucinex,198.22
+Dextromethorphan,Guaifenesin,0,6,Delsym,271.4
+Benzonatate,Guaifenesin,0,5,Tessalon Perles,603.7
+Phenylephrine,Guaifenesin,1,7,Sudafed,165.23
+Pseudoephedrine,Guaifenesin,1,8,Sudafed PE,167.21
+Oxymetazoline,Guaifenesin,1,5,Afrin,305.35
+Xylometazoline,Guaifenesin,4,4,Otrivin,264.4
+Ipratropium,Albuterol,4,3,Atrovent,332.46
+Tiotropium,Albuterol,0,6,Spiriva,472.56
+Glycopyrrolate,Albuterol,3,3,Seebri,398.46
+Aclidinium,Albuterol,0,7,Tudorza,484.98
+Umeclidinium,Albuterol,1,2,Incruse,428.98
+Indacaterol,Tiotropium,3,5,Arcapta,392.5
+Olodaterol,Tiotropium,2,6,Striverdi,386.48
+Vilanterol,Tiotropium,1,4,Anoro Ellipta,902.58
+Formoterol,Tiotropium,1,5,Symbicort,774.94
+Salmeterol,Tiotropium,0,6,Advair,916.1
+Fluticasone,Salmeterol,1,1,Flovent,500.6
+Budesonide,Salmeterol,2,4,Pulmicort,430.54
+Mometasone,Salmeterol,2,5,Asmanex,521.44
+Ciclesonide,Salmeterol,2,3,Alvesco,540.69
+Beclometasone,Salmeterol,3,4,Qvar,408.9
+Triamcinolone,Propylene Glycol,4,5,Azmacort,434.5
+Rivaroxaban,Microcrystalline Cellulose,0,5,Rivaroxaban,435.89
+"Dabigatran Etexilate Mesylate
+",Tartaric Acid,1,2,Dabigatran,627.75
+Edoxaban Tosylate Monohydrate,Mannitol,1,4,Edoxaban,548.06
+"Betrixaban
+","
+Hydroxypropyl Methylcellulose
+",2,5,Betrixaban,456.38
+Albiglutide,Sodium Phosphate,0,6,Albiglutide,67000
+Ertugliflozin,Magnesium Stearate,2,1,Ertugliflozin,436.54
+Semaglutide,Sodium Chloride,0,3,Semaglutide,4113.58
+Liraglutide,"
+Disodium Phosphate Dihydrate",1,4,Liraglutide,3751.2
+Empagliflozin,Colloidal Silicon Dioxide,1,5,Empagliflozin,450.91
+Dulaglutide,Citric Acid Monohydrate,1,4,Dulaglutide,59000
+Ticagrelor,Mannitol,1,4,Ticagrelor,522.57
+Vorapaxar Sulfate,Microcrystalline Cellulose,1,5,Vorapaxar,492.63
+Cangrelor,Sodium Chloride,2,4,Cangrelor,774.73
+Sacubitril,Valsartan,1,4,Sacubitril/valsartan,908.04
+Ivabradine Hydrochloride,Colloidal Silicon Dioxide,4,4,Ivabradine,468.6
+Secukinumab,Sucrose,2,4,Secukinumab,147000
+Ustekinumab,L-Histidine,1,5,Ustekinumab,148000
+Ixekizumab,Polysorbate 80,0,7,Ixekizumab,146000
+Guselkumab,L-Histidine Monohydrochloride,0,1,Guselkumab,149000
+Brodalumab,Acetate,1,6,Brodalumab,150000
+Evolocumab,Proline,2,4,Evolocumab,143000
+Alirocumab,Sucrose,0,3,Alirocumab,146000
+Bempedoic Acid,Microcrystalline Cellulose,2,5,Bempedoic acid,344.24
+Inclisiran,Sodium Chloride,0,7,Inclisiran,145.18
+Lomitapide,Microsomal Triglyceride Transfer Protein Inhibitor,0,5,Lomitapide,693.9
+Mipomersen,Antisense Oligonucleotide,1,6,Mipomersen,7596.91
+Belatacept,Fusion Protein,1,4,Belatacept,82000
+Belimumab,Monoclonal Antibody,1,4,Belimumab,147000
+Dupilumab,Monoclonal Antibody,4,4,Dupilumab,147000
+Omalizumab,Monoclonal Antibody,4,5,Omalizumab,149000
+Mepolizumab,Monoclonal Antibody,0,3,Mepolizumab,149000
+Reslizumab,Monoclonal Antibody,3,5,Reslizumab,144000
+Benralizumab,Monoclonal Antibody,2,6,Benralizumab,149000
+Tezepelumab,Monoclonal Antibody,0,5,Tezepelumab,149000
+Aflibercept,Recombinant Protein,1,4,Aflibercept,115000
+Ranibizumab,Recombinant Protein,3,5,Ranibizumab,48000
+Brolucizumab,Recombinant Protein,2,6,Brolucizumab,26000
+Faricimab,Recombinant Protein,1,7,Faricimab,144000
+Conbercept,Recombinant Protein,1,5,Conbercept,50000
+Apremilast,Phosphodiesterase 4 Inhibitor,0,4,Apremilast,460.51
+Tofacitinib,Janus Kinase Inhibitor,1,5,Tofacitinib,312.37
+Baricitinib,Janus Kinase Inhibitor,2,6,Baricitinib,371.43
+Upadacitinib,Janus Kinase Inhibitor,2,4,Upadacitinib,440.51
+Filgotinib,Janus Kinase Inhibitor,2,5,Filgotinib,300.34
+Leflunomide,Disease-Modifying Antirheumatic Drug,3,4,Leflunomide,270.2
+Tozinameran,mRNA Vaccine,4,5,Tozinameran,100000
+Elasomeran,mRNA Vaccine,0,4,Elasomeran,100000
+ChAdOx1 nCoV-19,Viral Vector Vaccine,1,5,ChAdOx1 nCoV-19,100000
+Ad26.COV2.S,Antiviral Combination,1,4,Ad26.COV2.S,100000
+Nirmatrelvir,Antiviral Combination,2,5,Paxlovid,921.9
+N-hydroxycytidine,Molnupiravir,0,4,Molnupiravir,329.3
+Triphosphate,Remdesivir,2,5,Remdesivir,602.6
+Pyrazinecarboxamide,Favipiravir,0,4,Favipiravir,157.1
+Monoclonal Antibody,Recombinant Antibody,1,5,Sotrovimab,149000
+Monoclonal Antibody,Recombinant Antibody,1,2,Casirivimab/imdevimab,292000
+Monoclonal Antibody,Recombinant Antibody,1,4,Bamlanivimab/etesevimab,292000
+Janus Kinase Inhibitor,Baricitinib,1,5,Baricitinib,371.43
+Interleukin-6 Inhibitor,Tocilizumab,1,4,Tocilizumab,148000
+Interleukin-1 Inhibitor,Anakinra,2,3,Anakinra,17300
+Interleukin-6 Inhibitor,Sarilumab,1,5,Sarilumab,150000
+CCR5 Antagonist,Leronlimab,4,3,Leronlimab,149000
+Antiviral Agent,Ivermectin,2,5,Ivermectin,875.1
+Antimalarial Agent,Hydroxychloroquine,1,3,Hydroxychloroquine,335.87
+Antimalarial Agent,Chloroquine,0,4,Chloroquine,319.87
+Antimalarial Agent,Nitazoxanide,0,3,Nitazoxanide,307.28
+Nucleoside Analog,Azvudine,1,4,Azvudine,267.27
+Antibiotic,Lefamulin,2,4,Lefamulin,586.7
+Antibiotic,Omadacycline,0,7,Omadacycline,713.85
+Antibiotic,Eravacycline,2,4,Eravacycline,492.55
+Antibiotic,Plazomicin,0,12,Plazomicin,908
+Antibiotic,Cefiderocol,0,3,Cefiderocol,749.72
+Antibiotic,Delafloxacin,1,10,Delafloxacin,440.85
+Antibiotic,Solithromycin,1,7,Solithromycin,845.05
+Antibiotic,Finafloxacin,1,2,Finafloxacin,370.79
+Antibiotic,Zoliflodacin,4,2,Zoliflodacin,438.4
+Beta-lactamase Inhibitor,Avibactam,4,1,Ceftazidime/avibactam,986
+Beta-lactam Antibiotic,Vaborbactam,0,9,Meropenem/vaborbactam,680.76
+Beta-lactam Antibiotic,Relebactam,3,5,Imipenem/relebactam,848.95
+Beta-lactam Antibiotic,Zidebactam,2,3,Cefepime/zidebactam,790.78
+Beta-lactam Antibiotic,Taniborbactam,0,6,Cefepime/taniborbactam,790.78
+Oxazolidinone Antibiotic,Tedizolid,1,5,Tedizolid,450.5
+Glycopeptide Antibiotic,Oritavancin,3,6,Oritavancin,1793.64
+Glycopeptide Antibiotic,Dalbavancin,2,5,Dalbavancin,1816.71
+Glycopeptide Antibiotic,Telavancin,1,7,Telavancin,1755.63
+Diarylquinoline Antibiotic,lefamulin,1,6,Lefamulin,586.7
+Diarylquinoline Antibiotic,pretomanid,0,5,Pretomanid,359.27
+Diarylquinoline Antibiotic,bedaquiline,1,7,Bedaquiline,555.5
+Diarylquinoline Antibiotic,Delamanid,2,8,Delamanid,534.5
+Oxazolidinone Antibiotic,Sutezolid,2,5,Sutezolid,453.5
+Triazole Antifungal,Linezolid,2,4,Linezolid,337.35
+Triazole Antifungal,Posaconazole,3,3,Tedizolid,450.5
+Triazole Antifungal,Isavuconazonium sulfate,4,6,Posaconazole,700.8
+Echinocandin Antifungal,Voriconazole,0,3,Isavuconazonium sulfate,814.79
+Azole Antifungal,Echinocandins,1,7,Voriconazole,349.31
+Oxaborole Antifungal,Luliconazole,1,2,Echinocandins,50000
+Azole Antifungal,Tavaborole,2,5,Luliconazole,354.27
+Monoclonal Antibody,Efinaconazole,0,6,Tavaborole,201.05
+Monoclonal Antibody,Omalizumab,2,4,Efinaconazole,348.3
+Monoclonal Antibody,Dupilumab,0,5,Omalizumab,149000
+Monoclonal Antibody,dupilumab,1,6,Dupilumab,147000
+Tylenol,Paracetamol,1,1,Acetaminophen,151.16
+Zovirax,Acyclovir,1,4,Acyclovir,225.21
+"Ventolin, Proventil",Albuterol,1,5,Albuterol,239.31
+Zyloprim,Allopurinol,1,3,Allopurinol,136.11
+Xanax,Alprazolam,2,4,Alprazolam,308.77
+Amikin,Amikacin,1,5,Amikacin,585.6
+"Cordarone, Pacerone",Amiodarone,4,5,Amiodarone,645.32
+Elavil,Amitriptyline,2,2,Amitriptyline,277.4
+Norvasc,Amlodipine,1,4,Amlodipine,408.87
+Amoxil,Amoxicillin,0,5,Amoxicillin,365.41
+Fungizone,Amphotericin B,0,6,Amphotericin B,924.1
+Omnipen,Ampicillin,1,1,Ampicillin,349.41
+Kineret,Anakinra,2,3,Anakinra,17300
+Tenormin,Atenolol,0,4,Atenolol,266.34
+Strattera,Atomoxetine,2,5,Atomoxetine,255.36
+Lipitor,Atorvastatin,0,4,Atorvastatin,558.64
+Zithromax,Azithromycin,0,4,Azithromycin,748.98
+Lioresal,Baclofen,1,5,Baclofen,213.66
+Qvar,Beclometasone,1,4,Beclometasone,408.91
+Lotensin,Benazepril,1,4,Benazepril,424.5
+Casodex,Bicalutamide,4,4,Bicalutamide,430.37
+Zebeta,Bisoprolol,4,4,Bisoprolol,325.44
+"Pulmicort, Entocort",Budesonide,0,5,Budesonide,430.54
+"Wellbutrin, Zyban",Bupropion,3,7,Bupropion,239.74
+Myleran,Busulfan,2,1,Busulfan,246.31
+Capoten,Captopril,0,6,Captopril,217.29
+Tegretol,Carbamazepine,1,4,Carbamazepine,236.27
+Coreg,Carvedilol,3,3,Carvedilol,406.48
+Ceclor,Cefaclor,2,5,Cefaclor,367.81
+Duricef,Cefadroxil,1,7,Cefadroxil,381.37
+Ancef,Cefazolin,1,5,Cefazolin,454.5
+Omnicef,Cefdinir,0,6,Cefdinir,395.41
+Maxipime,Cefepime,1,4,Cefepime,480.5
+Suprax,Cefixime,2,4,Cefixime,453.45
+Claforan,Cefotaxime,2,4,Cefotaxime,455.5
+Cefotan,Cefotetan,2,5,Cefotetan,575.61
+Mefoxin,Cefoxitin,3,3,Cefoxitin,427.45
+Fortaz,Ceftazidime,4,5,Ceftazidime,636.6
+Rocephin,Ceftriaxone,0,6,Ceftriaxone,554.58
+Ceftin,Cefuroxime,1,5,Cefuroxime,424.38
+Celebrex,Celecoxib,1,4,Celecoxib,381.37
+Keflex,Cephalexin,2,5,Cephalexin,347.39
+Leukeran,Chlorambucil,0,6,Chlorambucil,304.24
+Aralen,Chloroquine,2,7,Chloroquine,319.87
+Thorazine,Chlorpromazine,0,5,Chlorpromazine,355.33
+Cipro,Ciprofloxacin,1,4,Ciprofloxacin,331.34
+Celexa,Citalopram,1,5,Citalopram,324.39
+Cleocin,Clindamycin,1,6,Clindamycin,424.98
+Anafranil,Clomipramine,1,4,Clomipramine,314.84
+Klonopin,Clonazepam,1,5,Clonazepam,315.72
+Plavix,Clopidogrel,2,4,Clopidogrel,321.82
+Clozaril,Clozapine,1,5,Clozapine,326.83
+Flexeril,Cyclobenzaprine,4,4,Cyclobenzaprine,311.87
+"Neoral, Sandimmune",Cyclosporine,2,5,Cyclosporine,1202.61
+Pradaxa,Dabigatran,1,4,Dabigatran,627.75
+Aczone,Dapsone,0,5,Dapsone,248.3
+Norpramin,Desipramine,0,4,Desipramine,266.39
+Dexilant,Dexlansoprazole,1,5,Dexlansoprazole,369.4
+Dexedrine,Dextroamphetamine,2,4,Dextroamphetamine,135.21
+Valium,Diazepam,0,5,Diazepam,284.74
+Voltaren,Diclofenac,2,2,Diclofenac,296.15
+Bentyl,Dicyclomine,0,4,Dicyclomine,309.46
+Lanoxin,Digoxin,0,5,Digoxin,780.94
+Cardizem,Diltiazem,1,4,Diltiazem,414.53
+Benadryl,Diphenhydramine,1,3,Diphenhydramine,255.34
+Depakote,Divalproex,1,5,Divalproex,310.4
+Dobutrex,Dobutamine,4,3,Dobutamine,301.38
+Intropin,Dopamine,4,5,Dopamine,153.18
+Cardura,Doxazosin,0,3,Doxazosin,451.48
+Vibramycin,Doxycycline,3,4,Doxycycline,444.43
+Cymbalta,Duloxetine,2,3,Duloxetine,297.41
+Vasotec,Enalapril,0,4,Enalapril,376.45
+Lovenox,Enoxaparin,1,4,Enoxaparin,~4500
+Erythrocin,Erythromycin,3,7,Erythromycin,733.94
+Lexapro,Escitalopram,2,4,Escitalopram,324.39
+Nexium,Esomeprazole,1,12,Esomeprazole,345.42
+Estrace,Estradiol,1,3,Estradiol,272.39
+"Various (e.g., Premarin)",Estrogen,0,10,Estrogen,~272.38
+Lunesta,Eszopiclone,1,7,Eszopiclone,388.91
+Myambutol,Ethambutol,2,2,Ethambutol,204.31
+"Various (e.g., in birth control pills)",Ethinyl estradiol,2,2,Ethinyl estradiol,296.4
+Lodine,Etodolac,2,1,Etodolac,287.36
+Zetia,Ezetimibe,3,9,Ezetimibe,409.41
+Pepcid,Pepcid AC,4,5,Famotidine,337.42
+Plendil,Felodipine ER,0,3,Felodipine,384.26
+Sublimaze,Actiq,1,6,Fentanyl,336.47
+Allegra,Allegra Allergy,1,5,Fexofenadine,501.66
+Diflucan,Fluconazole Oral,2,6,Fluconazole,306.27
+Ancobon,Flucytosine Injection,0,5,Flucytosine,119.1
+Prozac,Prozac Weekly,2,7,Fluoxetine,309.33
+Flonase,Flovent,0,6,Fluticasone,500.56
+Lasix,Furosemide Oral,1,5,Furosemide,330.74
+Neurontin,Gralise,1,7,Gabapentin,171.24
+Lopid,Gemfibrozil Oral,1,8,Gemfibrozil,250.35
+Garamycin,Gentamicin Injection,1,5,Gentamicin,477.6
+Glucotrol,Glucotrol XL,1,4,Glipizide,445.55
+DiaBeta,Glyburide Oral,2,3,Glyburide,493.99
+Gris-PEG,Griseofulvin Oral,1,6,Griseofulvin,352.77
+Haldol,Haloperidol Injection,4,3,Haloperidol,375.86
+Hydrodiuril,HCTZ,2,7,Hydrochlorothiazide,297.74
+Plaquenil,Hydroxychloroquine Sulfate,1,2,Hydroxychloroquine,335.87
+Hydrea,Hydroxyurea Capsules,0,5,Hydroxyurea,76.05
+Advil,Motrin,0,6,Ibuprofen,206.28
+Gleevec,Imatinib Mesylate,1,4,Imatinib,493.6
+Primaxin,Imipenem/Cilastatin,2,5,Imipenem,299.34
+Indocin,Indomethacin Extended Release,0,6,Indomethacin,357.79
+Remicade,Infliximab Injection,2,1,Infliximab,144190
+INH,Isoniazid Oral,0,4,Isoniazid,137.14
+Imdur,Isosorbide Mononitrate Extended,0,5,Isosorbide mononitrate,191.14
+Accutane,Claravis,1,3,Isotretinoin,300.44
+Sporanox,Itraconazole Oral,1,4,Itraconazole,705.64
+Nizoral,Ketoconazole Cream,1,5,Ketoconazole,531.44
+Toradol,Ketorolac Injection,4,5,Ketorolac,376.41
+Lamictal,Lamictal XR,4,2,Lamotrigine,256.09
+Prevacid,Prevacid 24HR,0,4,Lansoprazole,369.36
+Lupron,Eligard,3,5,Leuprolide,1209.41
+Xopenex,Levalbuterol Inhalation Solution,2,6,Levalbuterol,275.37
+Keppra,Keppra XR,0,1,Levetiracetam,170.21
+Levaquin,Levofloxacin Oral,1,3,Levofloxacin,361.37
+Plan B,Mirena,3,4,Levonorgestrel,312.45
+Synthroid,Levoxyl,2,5,Levothyroxine,776.87
+Xylocaine,Lidoderm,1,4,Lidocaine,234.34
+Zyvox,Linezolid Oral,1,4,Linezolid,337.35
+Prinivil,Zestril,0,5,Lisinopril,405.49
+Lithobid,Lithonate,1,4,Lithium,6.94
+Claritin,Loratadine Oral,2,4,Loratadine,382.87
+Ativan,Lorazepam Oral,2,4,Lorazepam,321.16
+Cozaar,Losartan Potassium,2,4,Losartan,422.91
+Mevacor,Altoprev,3,5,Lovastatin,422.56
+Opsumit,Macitentan Oral,4,7,Macitentan,588.65
+Antivert,Meclizine Oral,0,1,Meclizine,429.94
+Depo-Provera,Provera,1,6,Medroxyprogesterone,386.47
+Mobic,Meloxicam Oral,1,4,Meloxicam,354.4
+Namenda,Memantine Oral,2,3,Memantine,179.23
+Demerol,Meperidine Injection,0,5,Meperidine,247.35
+Asacol,Lialda,2,7,Mesalamine,153.13
+Glucophage,Glucophage XR,0,5,Metformin,309.45
+Dolophine,Methadose,1,6,Methadone,114.17
+Tapazole,Methimazole Oral,1,4,Methimazole,454.44
+Rheumatrex,Trexall,1,4,Methotrexate,374.48
+Medrol,Depo-Medrol,1,4,Methylprednisolone,168.5
+Reglan,Metoclopramide Oral,1,5,Metoclopramide,267.37
+Lopressor,Toprol XL,2,3,Metoprolol,344.41
+Flagyl,Metrogel,1,5,Metronidazole,457.48
+Minocin,Solodyn,4,6,Minocycline,264.4
+Remeron,Mirtazapine Oral,2,5,Mirtazapine,368.5
+Cytotec,Misoprostol Oral,1,4,Misoprostol,444.43
+Novantrone,Mitoxantrone Injection,0,5,Mitoxantrone,342.4
+Provigil,Modafinil Oral,0,6,Modafinil,517.47
+Singulair,Montelukast Oral,1,7,Montelukast,273.35
+MS Contin,Kadian,2,5,Morphine,770.88
+Avelox,Moxifloxacin Oral,0,4,Moxifloxacin,260.3
+CellCept,Mycophenolate Mofetil,2,5,Mycophenolate,367.37
+Relafen,Nabumetone Oral,0,6,Nabumetone,228.28
+Corgard,Nadolol Oral,0,4,Nadolol,230.31
+Aleve,Naprosyn,1,5,Naproxen,185.22
+Bystolic,Nebivolol Oral,1,4,Nebivolol,606.84
+Viracept,Nelfinavir Oral,1,5,Nelfinavir,614.64
+Neo-Fradin,Neomycin Oral,4,4,Neomycin,308.75
+Viramune,Nevirapine Oral,4,5,Nevirapine,346.27
+Adalat,Procardia,0,4,Nifedipine,302.27
+Macrobid,Nitrofurantoin Oral,3,5,Nitrofurantoin,255.23
+Nitrostat,Nitroglycerin Oral,2,4,Nitroglycerin,238.31
+Noroxin,Norfloxacin Oral,0,5,Norfloxacin,303.4
+Pamelor,Nortriptyline Oral,1,4,Nortriptyline,215.24
+Mycostatin,Nystatin Oral,3,5,Nystatin,923.05
+Floxin,Ofloxacin Oral,2,2,Ofloxacin,281.35
+Zyprexa,Olanzapine Oral,1,4,Olanzapine,383.36
+Benicar,Olmesartan Oral,1,5,Olmesartan,329.82
+Prilosec,Omeprazole Oral,0,4,Omeprazole,410.37
+Zofran,Ondansetron Oral,1,3,Ondansetron,312.4
+Tamiflu,Oseltamivir Oral,2,5,Oseltamivir,285.33
+Bactocill,Oxacillin Oral,2,3,Oxacillin,403.45
+Ditropan XL,Oxybutynin Oral,2,5,Oxybutynin,372.41
+OxyContin,Roxicodone,3,3,Oxycodone,511.56
+Opana,Oxymorphone Oral,4,4,Oxymorphone,336.43
+Taxol,Paclitaxel Injection,0,3,Paclitaxel,232.27
+Invega,Paliperidone Oral,1,4,Paliperidone,502.07
+Protonix,Pantoprazole Oral,1,4,Pantoprazole,492.55
+Paxil,Paroxetine Oral,2,7,Paroxetine,218.27
+Pegasys,Peginterferon Alfa,0,4,Peginterferon,183.18
+Penicillin V,Penicillin Oral,2,12,Penicillin,100.12
+Trental,Pentoxifylline Oral,0,3,Pentoxifylline,250.33
+Coversyl,Perindopril Oral,1,10,Perindopril,197.22
+Nix,Permethrin Cream,1,7,Permethrin,356.43
+Luminal,Phenobarbital Oral,1,2,Phenobarbital,331.35
+Dilantin,Phenytoin Oral,1,2,Phenytoin,274.36
+Actos,Pioglitazone Oral,1,1,Pioglitazone,298.4
+Feldene,Piroxicam Oral,2,9,Piroxicam,586.59
+Selexid,Pivmecillinam Oral,1,5,Pivmecillinam,258.31
+Pravachol,Pravastatin Oral,4,3,Pravastatin,228.28
+Orapred,Prednisolone Oral,2,6,Prednisolone,159.23
+Deltasone,Prednisone Oral,1,5,Prednisone,339.44
+Lyrica,Pregabalin Oral,0,6,Pregabalin,228.3
+Mysoline,Primidone Oral,0,5,Primidone,314.44
+Benemid,Probenecid Oral,1,7,Probenecid,244.3
+Compazine,Prochlorperazine Oral,2,6,Prochlorperazine,252.3
+Prometrium,Progesterone Oral,0,5,Progesterone,474.58
+Phenergan,Promethazine Oral,2,7,Promethazine,84.4
+Rythmol,Propafenone Hydrochloride,0,8,Propafenone,341.43
+Inderal,Propranolol Hydrochloride,0,5,Propranolol,259.34
+Sudafed,Pseudoephedrine HCl,1,4,Pseudoephedrine,165.24
+PZA,Pyrazinamide Oral,1,3,Pyrazinamide,123.11
+Mestinon,Pyridostigmine Bromide,1,6,Pyridostigmine,181.21
+Seroquel,Quetiapine Fumarate,4,3,Quetiapine,383.49
+Accupril,Quinapril Hydrochloride,4,7,Quinapril,438.53
+Qualaquin,Quinine Sulfate,0,2,Quinine,324.43
+Isentress,Raltegravir Oral,3,5,Raltegravir,444.34
+Altace,Ramipril Oral,2,6,Ramipril,416.51
+Zantac,Ranitidine Hydrochloride,0,4,Ranitidine,314.41
+Azilect,Rasagiline Mesylate,1,5,Rasagiline,171.24
+Mycobutin,Rifabutin Capsules,3,6,Rifabutin,847.03
+Rifadin,Rifampin Oral,2,1,Rifampin,822.94
+Rilutek,Riluzole Oral,1,4,Riluzole,234.27
+Actonel,Risedronate Sodium,1,5,Risedronate,283.1
+Risperdal,Risperidone Oral,0,3,Risperidone,410.49
+Norvir,Ritonavir Oral,1,4,Ritonavir,720.94
+Exelon,Rivastigmine Oral,2,5,Rivastigmine,250.34
+Maxalt,Rizatriptan Oral,2,5,Rizatriptan,269.37
+Daliresp,Roflumilast Oral,2,2,Roflumilast,403.37
+Requip,Ropinirole Oral,3,4,Ropinirole,260.37
+Avandia,Rosiglitazone Oral,4,5,Rosiglitazone,357.43
+Crestor,Rosuvastatin Calcium,0,6,Rosuvastatin,481.54
+Neupro,Rotigotine Transdermal Patch,1,1,Rotigotine,315.47
+Rulid,Roxithromycin Oral,1,3,Roxithromycin,837.05
+Serevent,Salmeterol Xinafoate,2,4,Salmeterol,415.56
+Onglyza,Saxagliptin Oral,0,5,Saxagliptin,315.37
+Cosentyx,Secukinumab Injection,2,4,Secukinumab,149.21
+Eldepryl,Selegiline Hydrochloride,0,4,Selegiline,187.24
+Viagra,Sildenafil Citrate,1,5,Sildenafil,474.58
+Zocor,Simvastatin Oral,1,4,Simvastatin,418.57
+Januvia,Sitagliptin Oral,1,4,Sitagliptin,407.32
+Baking soda,Sodium Bicarbonate Oral,1,4,Sodium bicarbonate,84.01
+Saline,Sodium Chloride Injection,1,4,Sodium chloride,58.44
+Citras,Sodium Citrate Oral,2,5,Sodium citrate,258.06
+Monobasic Sodium Phosphate,Sodium Phosphate Injection,1,7,Sodium phosphate,119.98
+Vesicare,Solifenacin Succinate,4,1,Solifenacin,480.56
+Betapace,Sotalol Oral,2,6,Sotalol,272.33
+Aldactone,Spironolactone Oral,1,4,Spironolactone,416.58
+Zerit,Stavudine Oral,0,3,Stavudine,224.23
+Streptomycin Sulfate,Streptomycin Injection,0,5,Streptomycin,581.57
+Carafate,Sucralfate Oral,1,7,Sucralfate,398.39
+Azulfidine,Sulfasalazine Oral,2,5,Sulfasalazine,253.28
+Bactrim,Sulfamethoxazole Oral,0,6,Sulfamethoxazole,250.29
+Sulfadiazine,Sulfadiazine Oral,2,4,Sulfadiazine,267.32
+Gantrisin,Sulfisoxazole Oral,0,4,Sulfisoxazole,295.4
+Imitrex,Sumatriptan Oral,0,4,Sumatriptan,804.02
+Prograf,Tacrolimus Oral,1,5,Tacrolimus,389.41
+Cialis,Tadalafil Oral,1,3,Tadalafil,372.39
+Nolvadex,Tamoxifen Citrate,1,5,Tamoxifen,563.64
+Flomax,Tamsulosin Hydrochloride,4,6,Tamsulosin,408.47
+Tazocin,Tazobactam Injection,4,5,Tazobactam,300.41
+Micardis,Telmisartan Oral,0,4,Telmisartan,300.36
+Restoril,Temazepam Oral,3,5,Temazepam,286.4
+Viread,Tenofovir Disoproxil Fumarate,2,6,Tenofovir,438.54
+Lamisil,Terbinafine Oral,0,7,Terbinafine,402.45
+Brethine,Terbutaline Sulfate,1,5,Terbutaline,222.31
+Forteo,Teriparatide Injection,3,4,Teriparatide,411.49
+Sumycin,Tetracycline Oral,2,5,Tetracycline,261.36
+Thalomid,Thalidomide Oral,1,6,Thalidomide,298.34
+Theo-Dur,Theophylline Oral,1,4,Theophylline,240.23
+Tabloid,Thioguanine Oral,0,5,Thioguanine,272.29
+Thiotepa Injection,Thiotepa Capsules,1,4,Thiotepa,358.36
+Pentothal,Thiopental Sodium,2,5,Thiopental,250.3
+Gabitril,Tiagabine Oral,2,4,Tiagabine,444.39
+Brilinta,Ticagrelor Oral,2,5,Ticagrelor,327.29
+Ticarcillin Disodium,Ticarcillin Injection,3,4,Ticarcillin,190.28
+Tygacil,Tigecycline Injection,4,5,Tigecycline,284.31
+Timoptic,Timolol Ophthalmic Solution,0,4,Timolol,220.28
+Spiriva,Tiotropium Bromide,1,5,Tiotropium,242.25
+Zanaflex,Tizanidine Hydrochloride,1,4,Tizanidine,535.67
+Nebcin,Tobramycin Injection,2,5,Tobramycin,352.47
+Detrol,Tolterodine Extended Release,0,2,Tolterodine,291.33
+Topamax,Topiramate Extended Release,2,4,Topiramate,387.36
+Ultram,Tramadol Hydrochloride,0,5,Tramadol,316.27
+Cyklokapron,Tranexamic Acid Oral,1,4,Tranexamic acid,253.31
+Parnate,Tranylcypromine Sulfate,1,3,Tranylcypromine,370.49
+Desyrel,Trazodone Hydrochloride,1,5,Trazodone,259.24
+Kenalog,Triamcinolone Acetonide,1,3,Triamcinolone,522.58
+Dyrenium,Triamterene Hydrochloride,1,5,Triamterene,501.96
+Viroptic,Trifluridine Ophthalmic Solution,2,3,Trifluridine,116.12
+TMP,Trimethoprim-Sulfamethoxazole,1,4,Trimethoprim,296.41
+Surmontil,Trimipramine Oral,4,3,Trimipramine,387.54
+Sanctura,Trospium Chloride,2,4,Trospium,168.19
+Valtrex,Valacyclovir Oral,1,4,Valacyclovir,278.39
+Valcyte,Valganciclovir Oral,0,7,Valganciclovir,253.31
+Depakene,Valproic Acid Oral,0,4,Valproic acid,408.5
+Vancocin,Vancomycin Injection,1,12,Vancomycin,105.09
+Levitra,Vardenafil Oral,2,3,Vardenafil,290.39
+Chantix,Varenicline Oral,0,10,Varenicline,106.12
+Zelboraf,Vemurafenib Oral,2,7,Vemurafenib,146.19
+Calan,Verapamil SR,0,2,Verapamil,524.56
+Viibryd,Vilazodone Oral,0,2,Vilazodone,391.4
+Velban,Vinblastine Sulfate,1,1,Vinblastine,228.3
+Oncovin,Vincristine Sulfate,1,9,Vincristine,313.87
+Navelbine,Vinorelbine Injection,1,5,Vinorelbine,225.32
+Vfend,Voriconazole Oral,4,3,Voriconazole,447.5
+Coumadin,Warfarin Sodium,4,6,Warfarin,1449.25
+Sonata,Zaleplon Oral,0,5,Zaleplon,118.09
+Ambien,Zolpidem Tartrate,3,6,Zolpidem,301.39
+Zonegran,Zonisamide Oral,2,5,Zonisamide,244.23
+Imovane,Zopiclone Oral,0,7,Zopiclone,212.2
+Zytiga,Abiraterone Acetate,1,6,Abiraterone,306.8
+Campral,Acamprosate Calcium,3,5,Acamprosate,336.4
+Zovirax,Acyclovir Sodium,2,7,Acyclovir,226.2
+Humira,Adalimumab Injection,1,8,Adalimumab,225.2
+Fosamax,Alendronate Sodium,1,5,Alendronate,"1,48,000"
+Tekturna,Aliskiren Oral,0,4,Aliskiren,291.1
+Xanax,Alprazolam Extended Release,1,3,Alprazolam,295.4
+Symmetrel,Amantadine Oral,2,6,Amantadine,308.2
+Cordarone,Amiodarone Oral,2,3,Amiodarone,125.2
+Elavil,Amitriptyline Hydrochloride,2,7,Amitriptyline,645
+Norvasc,Amlodipine Besylate,3,2,Amlodipine,277.4
+Amoxil,Amoxicillin Trihydrate,4,5,Amoxicillin,408.9
+Omnipen,Ampicillin Oral,0,6,Ampicillin,365.4
+Arimidex,Anastrozole Oral,1,4,Anastrozole,371.4
+Eliquis,Apixaban Oral,1,5,Apixaban,297.3
+Abilify,Aripiprazole Oral,2,6,Aripiprazole,459.4
+Tenormin,Atenolol Oral,0,1,Atenolol,448.4
+Strattera,Atomoxetine Hydrochloride,2,4,Atomoxetine,266.3
+Lipitor,Atorvastatin Calcium,0,5,Atorvastatin,291.4
+Imuran,Azathioprine Oral,1,3,Azathioprine,558.6
+Zithromax,Azithromycin Oral,1,4,Azithromycin,277.2
+Lioresal,Baclofen Oral,1,5,Baclofen,749
+Qvar,Beclomethasone Dipropionate,1,5,Beclomethasone,213.1
+Lotensin,Benazepril Hydrochloride,1,2,Benazepril,521
+Treanda,Bendamustine Injection,2,4,Bendamustine,336.4
+Casodex,Bicalutamide Oral,1,5,Bicalutamide,314.1
+Zebeta,Bisoprolol Fumarate,4,6,Bisoprolol,433.5
+Parlodel,Bromocriptine Mesylate,2,1,Bromocriptine,325.4
+Pulmicort,Budesonide Oral,1,3,Budesonide,414.3
+Bumex,Bumetanide Oral,0,4,Bumetanide,430.5
+Wellbutrin,Bupropion Hydrochloride,0,5,Bupropion,366.4
+Buspar,Buspirone Oral,1,4,Buspirone,239.7
+Myleran,Busulfan Injection,2,4,Busulfan,372.5
+Miacalcin,Calcitonin Injection,0,5,Calcitonin,222.1
+Rocaltrol,Calcitriol Oral,2,4,Calcitriol,"3,500"
+Atacand,Candesartan Cilexetil,0,4,Candesartan,416.7
+Xeloda,Capecitabine Oral,0,4,Capecitabine,420.5
+Capoten,Captopril Oral,1,4,Captopril,359.3
+Tegretol,Carbamazepine Extended Release,1,5,Carbamazepine,217.3
+Coreg,Carvedilol Extended Release,1,7,Carvedilol,236.2
+Ceclor,Cefaclor Oral,4,1,Cefaclor,406.5
+Duricef,Cefadroxil Oral,4,6,Cefadroxil,359.2
+Ancef,Cefazolin Injection,0,4,Cefazolin,357.4
+Omnicef,Cefdinir Oral,3,3,Cefdinir,454.4
+Maxipime,Cefepime Injection,2,5,Cefepime,365.4
+Suprax,Cefixime Oral,0,7,Cefixime,507.5
+Claforan,Cefotaxime Injection,1,5,Cefotaxime,453.4
+Cefotan,Cefotetan Injection,3,6,Cefotetan,453.4
+Cefotan,Cefoxitin Injection,2,4,Cefoxitin,460.5
+Fortaz,Ceftazidime Injection,1,4,Ceftazidime,374.3
+Rocephin,Ceftriaxone Injection,1,4,Ceftriaxone,636.6
+Ceftin,Cefuroxime Oral,0,5,Cefuroxime,661.6
+Celebrex,Celecoxib Oral,1,3,Celecoxib,414.4
+Keflex,Cephalexin Oral,2,5,Cephalexin,822.9
+Aralen,Chloroquine Phosphate,2,6,Chloroquine,320.8
+Thorazine,Chlorpromazine Oral,2,5,Chlorpromazine,318.9
+Tagamet,Cimetidine Oral,3,4,Cimetidine,252.3
+Cipro,Ciprofloxacin Oral,4,5,Ciprofloxacin,331.3
+Celexa,Citalopram Oral,0,6,Citalopram,314.8
+Biaxin,Clarithromycin Oral,1,7,Clarithromycin,748
+Cleocin,Clindamycin Oral,1,5,Clindamycin,424.9
+Temovate,Clobetasol Propionate,2,4,Clobetasol,521
+Clomid,Clomiphene Citrate,0,5,Clomiphene,405.5
+Klonopin,Clonazepam Oral,2,6,Clonazepam,315.2
+Catapres,Clonidine Hydrochloride,0,4,Clonidine,230.7
+Plavix,Clopidogrel Bisulfate,1,5,Clopidogrel,321.8
+Lotrimin,Clotrimazole Cream,1,4,Clotrimazole,344.2
+Clozaril,Clozapine Oral,1,5,Clozapine,326.8
+Colcrys,Colchicine Oral,1,4,Colchicine,399.4
+Welchol,Colesevelam Hydrochloride,1,5,Colesevelam,1500
+Premarin,Conjugated Estrogens Oral,2,4,Colchicine,2000
+Flexeril,Cyclobenzaprine Oral,1,5,Conjugated estrogens,276.8
+Neoral,Cyclosporine Oral,4,4,Cyclobenzaprine,"1,203.60"
+Pradaxa,Dabigatran Oral,2,5,Cyclosporine,627.6
+Avlosulfon,Dapsone Oral,1,4,Dabigatran,248.3
+Enablex,Darifenacin Oral,0,5,Dapsone,320.2
+Norpramin,Desipramine Oral,0,2,Darifenacin,270.4
+Clarinex,Desloratadine Oral,1,4,Desipramine,310.8
+Dexilant,Dexlansoprazole Extended Release,2,5,Desloratadine,369.3
+Focalin,Dexmethylphenidate Extended Release,0,4,Dexlansoprazole,268.2
+Dexedrine,Dextroamphetamine Sulfate,2,3,Dexmethylphenidate,271.4
+Delsym,Dextromethorphan HBr,0,5,Dextroamphetamine,284.7
+Valium,Diazepam Oral,0,3,Dextromethorphan,296.1
+Voltaren,Diclofenac Sodium,1,5,Diazepam,288.4
+Bentyl,Dicyclomine Hydrochloride,1,3,Diclofenac,780.4
+Lanoxin,Digoxin Oral,1,4,Dicyclomine,414.9
+Cardizem,Diltiazem Extended Release,4,3,Digoxin,255.4
+Benadryl,Diphenhydramine HCl,4,4,Diltiazem,206.3
+Depakote,Divalproex Sodium,0,4,Diphenhydramine,219.3
+Dobutrex,Dobutamine Injection,3,7,Divalproex,153.2
+Intropin,Dopamine Injection,2,4,Dobutamine,412.4
+Cardura,Doxazosin Extended Release,0,12,Dopamine,309.4
+Silenor,Doxepin Oral,1,3,Doxazosin,444.4
+Vibramycin,Doxycycline Hyclate,3,10,Doxepin,297.3
+Cymbalta,Duloxetine Oral,2,7,Doxycycline,315.3
+Sustiva,Efavirenz Oral,1,2,Duloxetine,359.2
+Vasotec,Enalapril Maleate,1,2,Efavirenz,357.4
+Enalaprilat (active metabolite),Ethyl ester (prodrug form),0,1,Enalapril,454.4
+Low Molecular Weight Heparin (LMWH),Ethyl ester (prodrug form),1,9,Enoxaparin,365.4
+Recombinant Human Erythropoietin,Sialic Acid (glycosylation modifications),2,5,Epoetin alfa,507.5
+Desosamine (sugar moiety),Cladinose (sugar moiety),2,3,Erythromycin,453.4
+(S)-Citalopram (enantiomer),Cyclohexane Ring,2,6,Escitalopram,453.4
+(S)-Omeprazole (enantiomer),Sulfoxide Group,3,5,Esomeprazole,460.5
+Phenolic A-ring,Cyclohexane Ring,4,6,Estradiol,374.3
+Estrone (estrogenic steroid),Equilin (estrogenic steroid),0,5,"Estrogens, conjugated",636.6
+Cyclopropyl (part of the structure),Chloride Group (part of the structure),1,7,Eszopiclone,661.6
+Ethylene Diamine (amine group),Butanol (hydroxyl group),1,6,Ethambutol,414.4
+Ethinyl Group (acetylene group),Estradiol (estrogenic steroid),2,5,Ethinyl estradiol,822.9
+Pyrrole (part of the structure),Carboxylic Acid (part of the structure),0,7,Etodolac,320.8
+Triazole Ring (part of the structure),Diphenyl Group (part of the structure),2,8,Etravirine,318.9
+Phenyl Ring,Azetidinone Ring,0,5,Ezetimibe,252.3
+Furan Ring,Thiazole Ring,1,4,Famotidine,331.3
+Dihydropyridine Ring,Ester Group,1,3,Felodipine,314.8
+Phenyl Group,Isobutyric Acid,1,6,Fenofibrate,748
+N-Phenethyl Group,Anilide Group,1,3,Fentanyl,424.9
+Iron (Fe),Sulfate (SO4),1,7,Ferrous sulfate,521
+Diphenyl Ether,Carboxyl Group,2,2,Fexofenadine,405.5
+Triazole Ring,Fluorophenyl Group,1,5,Fluconazole,315.2
+Pyrimidine Ring,Fluorine Atom,4,6,Flucytosine,230.7
+Phenyl Ring,Trifluoromethyl Group,2,4,Fluoxetine,321.8
+Corticosteroid Backbone,Fluorinated Side Chains,1,5,Fluticasone,344.2
+Sulfonamide Group,Furoic Acid,0,6,Furosemide,326.8
+Cyclohexane Ring,Amino Acid,0,1,Gabapentin,399.4
+Phenoxyisobutyric Acid,Aromatic Ring,1,4,Gemfibrozil,1500
+Aminoglycoside Structure,Sugar Moieties,2,5,Gentamicin,2000
+Sulfonylurea Group,Piperidine Ring,0,3,Glimepiride,276.8
+Sulfonylurea Group,Piperazine Ring,2,4,Glipizide,"1,203.60"
+Sulfonylurea Group,Pyrimidine Ring,0,5,Glyburide,627.6
+Benzofurans,Cyclic Dipeptide,0,5,Griseofulvin,248.3
+Piperidine Ring,Butyrophenone Group,1,2,Haloperidol,320.2
+4o mini,Thiazide Ring,1,4,Hydrochlorothiazide,270.4
+Quinoline Ring,Hydroxyl Group,1,5,Hydroxychloroquine,310.8
+Urea Group,Hydroxyl Group,4,6,Hydroxyurea,369.3
+Pyrimidine Ring,Aniline Group,4,1,Imatinib,268.2
+Beta-Lactam Ring,Thiazolidine Ring,0,3,Imipenem,271.4
+Indole Ring,Acetic Acid Group,3,4,Indomethacin,284.7
+Monoclonal Antibody,TNF-alpha Binding Region,2,5,Infliximab,296.1
+Tropane Ring,Quaternary Ammonium Group,0,4,Ipratropium,288.4
+Pyridine Ring,Hydrazide Group,3,4,Isoniazid,780.4
+Nitrate Ester,Isosorbide Group,2,5,Isosorbide dinitrate,414.9
+Retinoid Structure,Isopropyl Group,0,4,Isotretinoin,255.4
+Triazole Ring,Cyclohexane Ring,1,4,Itraconazole,206.3
+Imidazole Ring,Ketone Group,3,4,Ketoconazole,219.3
+Pyrrole Ring,Carboxylic Acid,2,4,Ketorolac,153.2
+Cytosine Analogue,Hydroxymethyl Group,1,5,Lamivudine,412.4
+Phenyltriazine Ring,Amino Group,1,7,Lamotrigine,309.4
+Benzimidazole Ring,Pyridine Ring,0,1,Lansoprazole,444.4
+Prostaglandin Analog,Phenyl Group,1,6,Latanoprost,297.3
+Luteinizing Hormone Analogue,Peptide Structure,2,4,Leuprolide,315.3
+Phenyl Ethylamine,Hydroxybutyl Group,2,3,Levalbuterol,359.2
+Pyrrolidone Ring,Ethyl Group,2,5,Levetiracetam,357.4
+Fluoroquinolone Structure,Carboxyl Group,3,7,Levofloxacin,454.4
+Thyroxine Structure,Iodine Atom,4,5,Levothyroxine,365.4
+Anilide Group,Ethyl Group,0,6,Lidocaine,507.5
+Oxazolidinone Ring,Phenyl Group,1,4,Linezolid,453.4
+Dipeptide Structure,Carboxyl Group,1,4,Lisinopril,453.4
+Lithium Ion,Carboxyl Group,2,4,Lithium,460.5
+Piperidine Ring,Chlorinated Aromatic Ring,0,5,Loratadine,374.3
+Benzodiazepine Ring,Chlorinated Phenyl Ring,2,3,Lorazepam,636.6
+Tetrazole Ring,Biphenyl Group,0,5,Losartan,661.6
+Hydroxyacid,Octahydroindole Ring,1,6,Lovastatin,414.4
+Endothelin Receptor Antagonist,Pyrimidine Ring,1,5,Macitentan,822.9
+Piperazine Ring,Phenyl Ring,1,4,Meclizine,320.8
+Progesterone Derivative,Methyl Group,1,5,Medroxyprogesterone,318.9
+Oxicam Ring,Methyl Group,1,6,Meloxicam,252.3
+Aminoadamantane Ring,Cyclohexane Group,2,7,Memantine,331.3
+Piperidine Ring,Anilide Group,1,5,Meperidine,314.8
+Aminosalicylic Acid,Phenyl Group,4,4,Mesalamine,748
+Biguanide Structure,Dimethyl Group,2,5,Metformin,424.9
+Diphenylpropylamine,Methadone Group,1,6,Methadone,521
+Imidazole Ring,Sulfur Atom,0,4,Methimazole,405.5
+Folate Analog,Amino Group,0,5,Methotrexate,315.2
+Corticosteroid Backbone,Methyl Group,1,4,Methylprednisolone,230.7
+Benzamide Ring,Dimethylamino Group,2,5,Metoclopramide,321.8
+Beta-Adrenergic Blocker,Ethanolamine Group,0,4,Metoprolol,344.2
+Nitroimidazole Ring,Methoxy Group,2,5,Metronidazole,326.8
+Tetracycline Ring,Dimethylamino Group,0,4,Minocycline,399.4
+Tetracyclic Antidepressant,Phenyl Ring,0,5,Mirtazapine,1500
+Prostaglandin Analog,Methyl Ester,1,4,Misoprostol,2000
+Anthracenedione Ring,Dimethylamino Group,1,5,Mitoxantrone,276.8
+Benzhydryl Group,Sulfinyl Group,1,4,Modafinil,"1,203.60"
+Leukotriene Receptor Antagonist,Benzothiazole Ring,4,5,Montelukast,627.6
+Phenanthrene Ring,Hydroxyl Group,4,2,Morphine,248.3
+Fluoroquinolone Structure,Carboxyl Group,0,4,Moxifloxacin,320.2
+Phenyl Group,Cyclic Compound,3,5,Mycophenolate,270.4
+Ketone Group,Aromatic Ring,2,4,Nabumetone,310.8
+Non-selective Beta-Blocker,Carboxyl Group,0,3,Nadolol,369.3
+Napthylpropionic Acid,Carboxyl Group,3,5,Naproxen,268.2
+Beta-Blocker,Phenyl Group,2,3,Nebivolol,271.4
+Pyrimidine Ring,Phenyl Group,0,5,Nelfinavir,284.7
+Aminoglycoside Structure,Sugar Moieties,1,0,Neomycin,296.1
+Non-Nucleoside Reverse Transcriptase Inhibitor,Pyridine Ring,3,3,Nevirapine,288.4
+Dihydropyridine Ring,Ester Group,2,2,Nifedipine,780.4
+Furan Ring,Nitro Group,1,0,Nitrofurantoin,414.9
+Nitrate Ester,Ethanolamine Group,1,1,Nitroglycerin,255.4
+Fluoroquinolone Structure,Carboxyl Group,0,3,Norfloxacin,206.3
+Tricyclic Antidepressant,Phenyl Group,1,2,Nortriptyline,219.3
+Polypeptide Structure,Polyene Ring,2,1,Nystatin,153.2
+Fluoroquinolone Structure,Piperazine Ring,2,1,Ofloxacin,412.4
+Dibenzodiazepine Ring,Phenyl Ring,2,0,Olanzapine,309.4
+Tetrazole Ring,Benzyl Group,3,1,Olmesartan,444.4
+Benzimidazole Ring,Pyridine Ring,4,2,Omeprazole,297.3
+Benzimidazole Ring,Pyrimidine Ring,0,2,Ondansetron,315.3
+Carboxylic Acid,Ethers Group,1,2,Oseltamivir,359.2
+Benzylpenicillin,Thiazolidine Ring,1,3,Oxacillin,357.4
+Methylxanthine,Amide Group,2,4,Oxybutynin,454.4
+Angiotensin II Receptor Antagonist,Biphenyl Group,0,0,Oxycodone,365.4
+Imidazole Ring,Methoxyphenyl Group,2,1,Oxymorphone,507.5
+Piperazine Ring,Piperidine Ring,0,1,Paliperidone,453.4
+Phenylthiazole Ring,Morpholine Group,1,2,Pantoprazole,453.4
+Phenylbutazone,Pyridine Ring,1,0,Paroxetine,460.5
+Penicillin Ring,Beta-Lactam Ring,1,2,Peginterferon,374.3
+Steroid Backbone,Carbonyl Group,1,0,Penicillin,636.6
+Steroid Backbone,Carbonyl Group,1,1,Pentoxifylline,661.6
+Pregnanes,Cyclohexane Ring,2,1,Perindopril,414.4
+Phenylbutylamide,Benzene Ring,1,1,Permethrin,822.9
+Benzodiazepine Ring,Phenyl Group,4,1,Phenobarbital,320.8
+Cyclic Ether,Benzyl Group,2,1,Phenytoin,318.9
+Alkylamine Group,Phenyl Ring,1,2,Pioglitazone,252.3
+Phenyl Group,Piperidine Ring,0,1,Piroxicam,331.3
+Beta-Lactam Ring,Phenyl Group,0,4,Pivmecillinam,314.8
+Aromatic Ring,Piperidine Ring,1,2,Pravastatin,748
+Triazole Ring,Cyclohexane Ring,2,1,Prednisolone,424.9
+N-Phenylpiperazine,Phenyl Group,0,0,Prednisone,521
+Piperidine Ring,Benzyl Group,2,0,Pregabalin,405.5
+Piperidine Ring,Benzyl Group,0,1,Primidone,315.2
+Benzylisoquinoline,Phenyl Ring,0,2,Probenecid,230.7
+Fluoroquinolone Structure,Carboxyl Group,1,0,Prochlorperazine,321.8
+Phenothiazine Ring,Benzyl Group,1,2,Progesterone,344.2
+Piperazine Ring,Phenyl Ring,1,0,Promethazine,326.8
+Alpha-Adrenergic Antagonist,Phenyl Group,4,0,Propafenone,399.4
+Phenyl Group,Carboxyl Group,4,1,Propranolol,1500
+Benzofuran Ring,Phenyl Group,0,1,Pseudoephedrine,2000
+Benzoxazole Ring,Phenyl Group,3,1,Pyrazinamide,276.8
+Imidazole Ring,Pyridine Ring,2,4,Pyridostigmine,"1,203.60"
+Beta-Lactam Ring,Carboxyl Group,0,4,Quetiapine,627.6
+Dibenzothiazepine Ring,Phenyl Ring,3,0,Quinapril,248.3
+Angiotensin II Receptor Antagonist,Piperidine Ring,2,3,Quinine,320.2
+Quinine Ring,Quinolone Group,0,2,Raltegravir,270.4
+Integrase Inhibitor,Pyrimidine Ring,1,0,Ramipril,310.8
+Angiotensin Converting Enzyme Inhibitor,Pyrrolidine Ring,3,3,Ranitidine,369.3
+Imidazole Ring,Dimethylamino Group,2,2,Rasagiline,268.2
+"1-Amino-2,3-dihydro-1H-indole",Phenyl Ring,1,0,Rifabutin,271.4
+Rifamycin Ring,Phenyl Group,1,1,Rifampin,284.7
+Rifamycin Ring,Amino Group,0,3,Riluzole,296.1
+Oxadiazole Ring,Benzyl Group,1,2,Risedronate,288.4
+Hydroxypyrrolidine Ring,Aniline Group,2,1,Risperidone,780.4
+Beta-Adrenergic Agonist,Propyl Group,2,1,Ritonavir,414.9
+Thiazolidinedione Group,Phenyl Group,2,0,Rivastigmine,255.4
+Aromatic Ring,Hydroxyl Group,3,1,Rizatriptan,206.3
+Phenothiazine Ring,Piperidine Ring,4,2,Roflumilast,219.3
+Macrolide Antibiotic,Erythromycin Backbone,0,2,Ropinirole,153.2
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Rosiglitazone,412.4
+Dipeptide Inhibitor,Glucagon-like Peptide,1,3,Rosuvastatin,309.4
+Pyrrolidine Ring,Phenyl Group,2,4,Rotigotine,444.4
+Monoclonal Antibody,Interleukin-17A Binding Region,0,0,Roxithromycin,297.3
+Monoamine Oxidase Inhibitor,Benzyl Group,2,1,Salmeterol,315.3
+Phosphodiesterase-4 Inhibitor,Piperazine Ring,0,1,Saxagliptin,359.2
+Dihydroergotamine Derivative,Benzyl Group,1,2,Secukinumab,357.4
+Imidazole Ring,Phenyl Ring,1,0,Selegiline,454.4
+Dipeptide Analog,Carboxyl Group,1,2,Sildenafil,365.4
+Sodium Salt,Carboxyl Group,1,0,Simvastatin,507.5
+Sodium Salt,Carboxyl Group,1,1,Sitagliptin,453.4
+Sodium Salt,Carboxyl Group,2,1,Sodium bicarbonate,453.4
+Sodium Salt,Carboxyl Group,1,1,Sodium chloride,460.5
+Tertiary Amine Group,Aromatic Ring,4,1,Sodium citrate,374.3
+Aromatic Ring,Aliphatic Group,2,1,Sodium phosphate,636.6
+Aldosterone Antagonist,Steroid Backbone,1,2,Solifenacin,661.6
+Nucleoside Reverse Transcriptase Inhibitor,Thymidine Analog,0,1,Sotalol,414.4
+Aminoglycoside Structure,Sugar Moieties,0,4,Spironolactone,822.9
+Sucralfate Complex,Sulfated Polysaccharide,1,2,Stavudine,320.8
+Sulfapyridine Derivative,Amino Group,2,1,Streptomycin,318.9
+Sulfonamide,Carboxyl Group,0,0,Sucralfate,252.3
+Sulfonamide,Aromatic Ring,2,0,Sulfasalazine,331.3
+Sumatriptan Structure,Indole Group,0,1,Sulfamethoxazole,314.8
+Macrolide Ring,Erythromycin Backbone,0,2,Sulfadiazine,748
+Phosphodiesterase-5 Inhibitor,Pyrazolopyrimidine Group,1,0,Sulfisoxazole,424.9
+Antagonist of Adrenergic Receptors,Benzodiazepine Ring,1,2,Sumatriptan,521
+Angiotensin II Receptor Antagonist,Hydroxyl Group,1,0,Tacrolimus,405.5
+Calcium Channel Blocker,Quinazoline Group,4,0,Tadalafil,315.2
+Antagonist of α1-Adrenergic Receptors,Piperazine Ring,4,1,Tamoxifen,230.7
+Macrolide Antibiotic,Phenyl Group,0,1,Tamsulosin,321.8
+Prostaglandin Analog,Aminoethylpiperidine,3,1,Tazobactam,344.2
+Vasodilator,Aromatic Group,2,4,Telmisartan,326.8
+Thiazide Diuretic,Sulfonamide Group,0,4,Temazepam,399.4
+Vasopressin Receptor Antagonist,Phenyl Ring,3,0,Tenofovir,1500
+Inhibitor of Angiotensin Converting Enzyme,Pyrrolidine Ring,2,3,Terbinafine,2000
+Beta-Blocker,Phenyl Group,0,2,Terbutaline,276.8
+Antifungal,Phenyl Group,1,0,Teriparatide,"1,203.60"
+Acetylcholinesterase Inhibitor,Pyrrolidine Ring,3,3,Tetracycline,627.6
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,2,2,Thalidomide,248.3
+Beta-Blocker,Aromatic Ring,1,0,Theophylline,320.2
+Anticancer Agent,Alkylating Agent,1,1,Thioguanine,270.4
+Antiviral Agent,Pyrimidine Ring,0,3,Thiotepa,310.8
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Thiopental,369.3
+Non-Steroidal Anti-Inflammatory Drug,Phenyl Ring,2,1,Tiagabine,268.2
+Calcium Channel Blocker,Phenyl Group,2,1,Ticagrelor,271.4
+Aminoglycoside,Sugar Moieties,2,0,Ticarcillin,284.7
+Sulfonamide,Phenyl Group,3,1,Tigecycline,296.1
+Sulfonamide,Phenyl Ring,4,2,Timolol,288.4
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,0,2,Tiotropium,780.4
+Immunosuppressant,Macrolide Ring,1,2,Tizanidine,414.9
+Phosphodiesterase-5 Inhibitor,Phenyl Ring,1,3,Tobramycin,255.4
+Phenylthiazine Ring,Piperidine Ring,2,4,Tolterodine,206.3
+Benzodiazepine Ring,Aromatic Ring,0,0,Topiramate,219.3
+Piperazine Ring,Carboxyl Group,2,1,Tramadol,153.2
+Amino Acid Derivative,Carboxylic Acid,0,1,Tranexamic acid,412.4
+Piperidine Ring,Phenyl Ring,1,2,Tranylcypromine,309.4
+Phenylpiperazine Ring,Tetrahydrofuran Ring,1,0,Trazodone,444.4
+Steroid Backbone,Hydroxyl Group,1,2,Triamcinolone,297.3
+Pyrimidine Ring,Diaminopyrimidine Ring,1,0,Triamterene,315.3
+Pyrimidine Ring,Fluoro Group,1,1,Trifluridine,359.2
+Trimethoxybenzene Ring,Dimethylamino Group,2,1,Trimethoprim,357.4
+Piperidine Ring,Phenyl Ring,1,1,Trimipramine,454.4
+Cyclohexane Ring,Benzyl Group,4,1,Trospium,365.4
+Ester Group,Guanine Derivative,2,1,Valacyclovir,507.5
+Guanine Derivative,Ester Group,1,2,Valganciclovir,453.4
+Carboxylic Acid,Amino Group,0,1,Valproic acid,453.4
+Glycopeptide Antibiotic,Amino Sugar Group,0,4,Vancomycin,460.5
+Piperazine Ring,Phenyl Group,1,2,Vardenafil,374.3
+Nicotinamide Ring,Pyrazole Ring,2,1,Varenicline,636.6
+N-Arylpiperazine Ring,Phenyl Ring,0,0,Vemurafenib,661.6
+Piperazine Ring,Morpholine Group,2,0,Verapamil,414.4
+Macrolide Antibiotic,Erythromycin Backbone,0,1,Vilazodone,822.9
+Cyclic Peptide,Argon Group,0,2,Vinblastine,320.8
+Glucagon-like Peptide,Carbonyl Group,1,0,Vincristine,318.9
+Antibody to PCSK9,Human Monoclonal Antibody,1,2,Vinorelbine,252.3
+Monoclonal Antibody,PCSK9 Binding Region,1,0,Voriconazole,331.3
+Proprotein Convertase Subtype 9 Inhibitor,Monoclonal Antibody,4,0,Warfarin,314.8
+Dipeptide Analog,Phenyl Ring,4,1,Zaleplon,748
+Peptide Analog,Aromatic Ring,0,1,Zolpidem,424.9
+Dipeptide Analog,Phenyl Group,3,1,Zonisamide,521
+Glucagon-like Peptide,Carbonyl Group,2,4,Zopiclone,405.5
+Sodium Salt,phenyl ring,0,4,Sacubitril/valsartan,315.2
+Sodium Salt,amino acid,3,0,Alirocumab,230.7
+Sodium Salt,Amide Group,2,3,Evolocumab,321.8
+Sodium Salt,phenyl group,0,2,Inclisiran,344.2
+Insulin Analogue,Glargine Structure,1,0,Ertugliflozin,326.8
+Dipeptide Analog,Carboxyl Group,3,3,Liraglutide,399.4
+Dipeptide Analog,Phenyl Group,2,2,Semaglutide,1500
+Dipeptide Analog,Amino Group,1,0,Dulaglutide,2000
+Dipeptide Analog,Phenyl Ring,1,1,Sitagliptin/metformin,276.8
+Dipeptide Analog,Aromatic Ring,0,3,Linagliptin,"1,203.60"
+Dipeptide Analog,Phenyl Group,1,2,Albiglutide,627.6
+Dipeptide Analog,Phenyl Group,2,1,Canagliflozin,248.3
+Dipeptide Analog,Glucagon-like Peptide,2,1,Dapagliflozin,320.2
+Dipeptide Analog,Carbonyl Group,2,0,Empagliflozin,270.4
+Dipeptide Analog,Carboxyl Group,3,1,Insulin glargine,310.8
+acetic acid,salicyclic acid,1,2,Aspirin,180.16
+4-aminophenol,acetic anhydride,1,1,Acetaminophen,151.16
+p-hydroxyphenyl glycine methyl ester,aminopenicillanic acid,0,2,Amoxicillin,365.4
+erythromycin,methyl-nitrogen,0,2,Azithromycin,748.98
+Isobutylbenzene,Acyl chloride,4,7,Ibuprofen,206.28
+Dimethylbiguanide,Cyanamide,2,3,Metformin,129.16
+Cyclohexanone,Amino acids,2,3,Gabapentin,171.24
+Amoxicillin,Clavulanic Acid,0,2,Augmentin,365
+Hydrocodone,Acetaminophen,1,1,Vicodin,291
+Lisinopril,Hydrochlorothiazide,2,3,Zestoretic,447
+Amlodipine,Benazepril,3,3,Lotrel,408
+Fluticasone,Salmeterol,2,2,Advair,500.57
+Ipratropium,Albuterol,2,2,Combivent,332.38
+Losartan,Hydrochlorothiazide,1,2,Hyzaar,422.91
+Metformin,Sitagliptin,1,3,Janumet,523.32
+Glyburide,Metformin,0,2,Glucovance,493.99
+Vildagliptin,Metformin,0,2,Galvus Met,129.96
+Perindopril,Indapamide,0,2,Preterax,365.84
+Bisoprolol,Hydrochlorothiazide,3,4,Ziac,325.45
+Lamivudine,Zidovudine,1,3,Combivir,229.26
+Carbidopa,Levodopa,3,4,Sinemet,244.24
+Pioglitazone,Metformin,2,3,Actoplus Met,356.44
+Telmisartan,Hydrochlorothiazide,2,5,Micardis HCT,514.63
+Valsartan,Hydrochlorothiazide,2,1,Diovan HCT,433.52
+Lopinavir,Ritonavir,1,1,Kaletra,345.76
+Aliskiren,Hydrochlorothiazide,1,2,Tekturna HCT,609.83
+Amlodipine,Olmesartan,2,2,Azor,408.88
+Amlodipine,Valsartan,2,2,Exforge,408.88
+Amlodipine,Atorvastatin,2,7,Caduet,266.37
+Atenolol,Chlorthalidone,2,4,Tenoretic,505.45
+ 4-chloroaniline,Hexamethylenetetramin,2,2,Chlorhexidine,299.37
+Thebaine ,Hydrogenation Reagents,2,4,Hydrocodone,585.53
+Minocycline ,Glycine,4,4,Tigecycline,424.5
+Benazepril,Hydrochlorothiazide,0,3,Lotensin HCT,408.87
+D-Glucose derivative, Benzyl bromide derivative,0,6,Dapagliflozin ,493.99
+4-chlorobenzenesulfonamide, 5-chloro-2-methoxybenzoic acid,1,1,Glyburide,440.47
+Candesartan,Hydrochlorothiazide,4,6,Atacand HCT,217.29
+Captopril,Hydrochlorothiazide,2,3,Capozide,274.78
+Chlorpheniramine,Hydrocodone,3,4,Tussionex,274.78
+Chlorpheniramine,Phenylephrine,1,3,Chlor-Trimeton,297.23
+Chlorpheniramine,Pseudoephedrine,2,6,Chlor-Trimeton D,274.78
+Ciprofloxacin,Dexamethasone,2,6,Ciprodex,331.34
+Clindamycin,Tretinoin,2,4,Ziana,425.98
+Clotrimazole,Betamethasone,1,3,Lotrisone,344.84
+Codeine,Guaifenesin,0,4,Robitussin AC,198.22
+Codeine,Promethazine,0,3,Phenergan with Codeine,284.41
+Dapagliflozin,Metformin,1,4,Xigduo XR,408.87
+Diclofenac,Misoprostol,3,4,Arthrotec,296.15
+Dorzolamide,Timolol,1,7,Cosopt,324.48
+Ezetimibe,Simvastatin,2,4,Vytorin,409.39
+Fenofibrate,Simvastatin,4,12,Cholib,360.83
+Formoterol,Budesonide,2,3,Symbicort,430.54
+Glyburide,Rosiglitazone,3,10,Avandaryl,357.43
+Ibuprofen,Famotidine,2,7,Duexis,206.28
+Indapamide,Perindopril,0,2,Preterax,368.42
+Lopinavir,Ritonavir,0,2,Kaletra,628.81
+Methyldopa,Hydrochlorothiazide,2,1,Aldoril,211.21
+Metoprolo,Olmesartan,2,9,Azor,408.88
+Pioglitazone,Glimepiride,0,5,Duetact,356.44
+Amlodipine,Perindopril,2,3,Prestalia,777.6
+Amphetamine,Dextroamphetamine,3,6,Adderal,270.4
+Aspirin,Dipyridamole,1,5,Aggrenox,684.7
+Budesonide,Formoterol,0,6,Symbicort,774.9
+Buprenorphine,Naloxone,2,5,Suboxone,795
+Chlorpheniramine,Phenylpropanolamine,0,7,Ornade,426
+Chlorpheniramine,Methscopolamine,2,6,Deconamine SR,759.4
+Chlorpheniramine,Phenylpropanolamine,1,5,Teldrin,426
+Codeine,Acetaminophen,1,7,Tylenol with Codeine,450.6
+Diclofenac,Omeprazole,2,8,Arthrotec,641.6
+Drospirenone,Ethinyl Estradiol,1,5,Yasmin,662.9
+Emtricitabine,Tenofovir,2,4,Truvada,534.5
+Esomeprazole,Naproxen,3,3,Vimovo,575.7
+Ezetimibe,Atorvastatin,3,6,Liptruzet,1618.8
+Fexofenadine,Pseudoephedrine,2,3,Allegra-D,666.9
+Fluticasone,Vilanterol,3,7,Breo Ellipta,948.1
+Glyburide,Metformin,4,2,Glucovance,623.2
+Insulin Degludec,Liraglutide,3,5,Xultophy,9861.2
+Insulin Glargine,Lixisenatide,1,6,Soliqua,10921
+Ipratropium,Albuterol,4,4,Combivent,571.7
+Levodopa,Carbidopa/Entacapone,1,5,Stalevo,728.8
+Liraglutide,Insulin Degludec,1,6,Xultophy,9861.2
+Metformin,Glyburide,1,1,Glucovance,623.2
+Metformin,Saxagliptin,1,4,Kombiglyze XR,444.6
+Metformin,Vildagliptin,0,5,Eucreas,432.6
+Nebivolol,Valsartan,2,3,Byvalson,877.4
+Oxycodone,Acetaminophen,1,4,Percocet,466.6
+Sitagliptin,Metformin,2,5,Janumet,536.5
+Tamsulosin,Dutasteride,0,5,Jalyn,551
+Triamterene,Hydrochlorothiazide,0,2,"Dyazide, Maxzide",550.1
+Atorvastatin,Ezetimibe,2,4,Liptruzet,1618.8
+Amlodipine,Benazepril,3,5,Lotrel,833.6
+Clopidogrel,Aspirin,1,6,Clopidogrel/Aspirin,501.4
+Lisinopril,Hydrochlorothiazide,1,1,Zestoretic,471.5
+Propranolol,Hydrochlorothiazide,1,3,Inderide,557
+Valsartan,Hydrochlorothiazide,3,4,Diovan HCT,433.52
+Telmisartan,Amlodipine,1,5,Twynsta,579.9
+Perindopril,Amlodipine,2,4,Prestalia,777.6
+Spironolactone,Hydrochlorothiazide,1,4,Aldactazide,632.8
+Loratadine,Pseudoephedrine,0,5,Claritin-D,425.98
+Rosuvastatin,Ezetimibe,0,4,Roszet,684.6
+Ezetimibe,Simvastatin,1,4,Vytorin,597.7
+Olmesartan,Amlodipine,2,4,Azor,408.88
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Hydrocodone,Acetaminophen,0,5,Vicodin,291
+Oxycodone,Ibuprofen,1,7,Combunox,586.6
+Ibuprofen,Famotidine,3,1,Duexis,586.6
+Esomeprazole,Naproxen,2,6,Vimovo,575.7
+Sitagliptin,Metformin,1,4,Janumet,536.5
+Glyburide,Metformin,1,3,Glucovance,623.2
+Amlodipine,Olmesartan,0,5,Azor,408.88
+Losartan,Hydrochlorothiazide,1,7,Hyzaar,435.4
+Chlorthalidone,Hydrochlorothiazide,2,5,Clorpres,394.9
+Metformin,Sitagliptin,2,6,Janumet,536.5
+Empagliflozin,Metformin,2,4,Synjardy,587.7
+Rivaroxaban,Aspirin,3,4,Xarelto with Aspirin,638.2
+Sacubitril,Valsartan,4,4,Entresto,603.8
+Ceftazidime,Avibactam,0,5,Avycaz,907.2
+Ampicillin,Sulbactam,1,3,Unasyn,597.6
+Glycopyrrolate,Formoterol,1,5,Bevespi Aerosphere,545.7
+Amlodipine,Perindopril,2,6,Prestalia,777.6
+Bisoprolol,Hydrochlorothiazide,0,5,Ziac,291.1
+Valsartan,Amlodipine,2,4,Exforge,579.9
+Perindopril,Amlodipine,0,5,Prestalia,777.6
+Trandolapril,Verapamil,1,6,Tarka,661.9
+Telmisartan,Hydrochlorothiazide,1,7,Micardis HCT,833.6
+Clopidogrel,Aspirin,1,5,Clopidogrel with Aspirin,481.9
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,478.5
+Olmesartan,Hydrochlorothiazide,1,5,Benicar HCT,636.4
+Propranolol,Hydrochlorothiazide,2,6,Inderide,557
+Atorvastatin,Ezetimibe,1,4,Liptruzet,1618.8
+Fosinopril,Hydrochlorothiazide,4,5,Monopril HCT,502.6
+Methyldopa,Hydrochlorothiazide,2,4,Aldoril,377.8
+Amiloride,Hydrochlorothiazide,1,5,Moduretic,491.5
+Aspirin,Dipyridamole,0,4,Aggrenox,684.7
+Niacin,Simvastatin,0,5,Simcor,797
+Naltrexone,Bupropion,1,4,Contrave,596.7
+Bupropion,Naltrexone,2,5,Contrave,596.7
+Vildagliptin,Metformin,0,4,Galvus Met,129.96
+Empagliflozin,Metformin,2,5,Synjardy,587.7
+Ergotamine,Caffeine,0,4,Cafergot,264.3
+Paracetamol,Codeine,0,5,Co-Codamol,378.4
+Butalbital,Aspirin,1,2,Fiorinal,394.4
+Buprenorphine,Naloxone,1,4,Suboxone,795
+Fentanyl,Droperidol,1,5,Innovar,417.5
+Carisoprodol,Aspirin,4,4,Soma Compound,542.5
+Hydroxychloroquine,Sulfapyridine,4,3,Plaquenil,433.3
+Sulfamethoxazole,Trimethoprim,0,5,Bactrim,249.3
+Trimethoprim,Sulfamethoxazole,3,3,Septra,249.3
+Ciprofloxacin,Dexamethasone,2,5,CiproDex,421.3
+Phenylalanine,Aspartic acid,0,3,Aspartame,294.29
+Dopamine,Tyrosine,1,4,Norepinephrine,169.18
+Paracetamol,Phenylephrine,3,3,Percogesic,448.55
+Codeine,Acetaminophen,2,4,Tylenol with Codeine,500
+Amoxicillin,Clavulanic Acid,1,4,Augmentin,601.51
+Levodopa,Carbidopa,1,7,Sinemet,430.33
+Glimepiride,Metformin Hydrochloride,0,4,Amaryl M,614.76
+Glipizide,Metformin Hydrochloride,1,12,Metaglip,614.76
+Tolmetin Sodium,Magnesium Stearate,2,3,Tolmetin,276.28
+Rosiglitazone,Metformin Hydrochloride,2,10,Avandamet,569.69
+Pioglitazone,Metformin Hydrochloride,2,7,Actoplus Met,551.48
+Sitagliptin,Metformin Hydrochloride,3,2,Janumet,551.48
+Saxagliptin,Metformin,4,2,Kombiglyze XR,551.48
+Linagliptin,Metformin,0,1,Jentadueto,551.48
+Alogliptin,Metformin,1,9,Kazano,572.48
+Alendronate,Cholecalciferol,1,5,Fosamax Plus D,550.51
+Risedronate,Calcium carbonate,2,3,Actonel with Calcium,831.55
+Zoledronic acid,Alendronic acid,0,6,Reclast,355.18
+Ibandronate,Cholecalciferol,2,5,Boniva,270.22
+Atazanavir,Cobicistat,0,6,Evotaz,1182.42
+Darunavir,Ritonavir,1,5,Prezista,527.71
+Efavirenz,Tenofovir,1,7,Atripla,751.85
+Nevirapine,Emtricitabine,1,6,Viramune,266.25
+Etravirine,Tenofovir,1,5,Intelence,553.24
+Rilpivirine,Tenofovir,1,7,Edurant,540.69
+Elvitegravir,Cobicistat,2,8,Stribild,1049.36
+Dolutegravir,Abacavir,1,5,Triumeq,772.73
+Raltegravir,Emtricitabine,4,4,Isentress,472.43
+Emtricitabine,Tenofovir,2,3,Truvada,487.48
+Tenofovir,Tenofovir,1,6,Descovy,554.55
+Lamivudine,Emtricitabine,0,3,Epivir,229.21
+Stavudine,Lamivudine,0,7,Zerit,227.23
+Zidovudine,Lamivudine,1,2,Retrovir,227.23
+Abacavir,Lamivudine,2,5,Ziagen,285.28
+Didanosine,Lamivudine,0,6,Videx,268.23
+Enalapril,Hydrochlorothiazide,2,4,Vaseretic,613.76
+Lisinopril,Hydrochlorothiazide,0,5,Zestoretic,613.76
+Quinapril,Hydrochlorothiazide,0,6,Accuretic,613.76
+Perindopril,Hydrochlorothiazide,1,1,Prestalia,613.76
+Ramipril,Hydrochlorothiazide,1,4,Altace HCT,613.76
+Telmisartan,Amlodipine,1,5,Twynsta,613.76
+Eprosartan,Hydrochlorothiazide,4,3,Teveten HCT,613.76
+Irbesartan,Hydrochlorothiazide,4,4,Avalide,613.76
+Candesartan,Hydrochlorothiazide,0,5,Atacand HCT,277.73
+Valsartan,Hydrochlorothiazide,3,5,Diovan HCT,317.37
+Olmesartan,Hydrochlorothiazide,2,2,Benicar HCT,222.71
+Clonidine,Chlorthalidone,0,4,Clorpres,344.94
+Methyldopa,Hydrochlorothiazide,1,5,Aldoril,
+Guanfacine,Hydrochlorothiazide,3,6,Tenex,
+Hydralazine,Hydrochlorothiazide,2,1,Apresoline HCT,
+Ethinyl estradiol,Norethindrone,1,3,Ortho-Novum,345.39
+Levonorgestrel,Ethinyl estradiol,1,4,Alesse,295.39
+Drospirenone,Ethinyl estradiol,0,5,Yasmin,335.43
+Norgestimate,Ethinyl estradiol,1,4,Ortho Tri-Cyclen,529.5
+Desogestrel,Ethinyl estradiol,2,4,Mircette,367.44
+Medroxyprogesterone,Ethinyl estradiol,2,5,Depo-Provera,447.51
+Estradiol,Norethindrone,2,4,Estrace,272.38
+Progesterone,Norethindrone,3,4,Prometrium,316.43
+Testosterone,Estradiol,4,4,AndroGel,286.42
+Finasteride,Dutasteride,0,4,Propecia,489.7
+Dutasteride,Finasteride,1,5,Avodart,528.5
+Sildenafil,Tadalafil,1,7,sildenafil ,474.55
+Tadalafil,Sildenafil,2,1,Cialis,389.34
+Vardenafil,Sildenafil,0,6,Levitra,474.55
+Avanafil,Sildenafil,2,4,Stendra,389.37
+Rivaroxaban,Apixaban,0,3,Xarelto,430.9
+Apixaban,Rivaroxaban,1,5,Eliquis,459.38
+Edoxaban,Rivaroxaban,1,7,Savaysa,501.56
+Betrixaban,Rivaroxaban,1,5,Bevyxxa,472.57
+Dabigatran,Rivaroxaban,1,6,Pradaxa,427.37
+Warfarin,Enoxaparin,1,4,Coumadin,308.31
+Enoxaparin,Warfarin,2,4,Lovenox,1750
+Dalteparin,Warfarin,1,4,Fragmin,5500
+Fondaparinux,Warfarin,4,5,Arixtra,2000
+Anastrozole,Tamoxifen,2,3,Arimidex,262.28
+Letrozole,Tamoxifen,1,5,Femara,297.31
+Exemestane,Tamoxifen,0,6,Aromasin,293.31
+Tamoxifen,Letrozole,0,5,Nolvadex,263.27
+Raloxifene,Letrozole,1,4,Evista,473.58
+Fulvestrant,Letrozole,2,5,Faslodex,1027.29
+Ibandronate,Zoledronic acid,0,6,Boniva,270.22
+Zoledronic acid,Ibandronate,2,7,Reclast,355.18
+Alendronic acid,Risedronate,0,5,Fosamax,550.51
+Risedronate,Alendronic acid,0,4,Actonel,831.55
+Teriparatide,Abaloparatide,1,5,Forteo,3271.72
+Abaloparatide,Teriparatide,1,6,Tymlos,2475.66
+Denosumab,Teriparatide,1,4,Prolia,1480.72
+Romosozumab,Denosumab,4,5,Evenity,1346.82
+Calcitonin,Denosumab,4,4,Miacalcin,1740.19
+Strontium ranelate,Denosumab,0,5,Protelos,2078.27
+Insulin glargine,Insulin aspart,3,4,Lantus,6061.12
+Insulin detemir,Insulin glargine,2,5,Levemir,6075.37
+Insulin aspart,Insulin glulisine,0,4,NovoLog,1156.62
+Insulin lispro,Insulin lispro,1,5,Humalog,730.83
+Insulin glulisine,Insulin aspart,3,4,Apidra,670.75
+Insulin degludec,Insulin glargine,2,5,Tresiba,5517.5
+Exenatide,Liraglutide,1,4,Byetta,4182.56
+Liraglutide,Exenatide,1,5,Victoza,3750.45
+Dulaglutide,Exenatide,0,2,Trulicity,2882.54
+Semaglutide,Exenatide,1,4,Ozempic,1742.93
+Albiglutide,Exenatide,2,5,Tanzeum,67000
+Pramlintide,Liraglutide,2,4,Symlin,3949.4
+Acarbose,Miglitol,2,3,Precose,645.6
+Miglitol,Acarbose,3,5,Glyset,207.2
+Saxagliptin,Sitagliptin,4,3,Onglyza,315.4
+Sitagliptin,Saxagliptin,0,5,Januvia,407.32
+Linagliptin,Saxagliptin,1,3,Tradjenta,472.54
+Alogliptin,Saxagliptin,1,4,Nesina,339.39
+Canagliflozin,Dapagliflozin,2,3,Invokana,444.52
+Dapagliflozin,Canagliflozin,0,4,Farxiga,408.87
+Empagliflozin,Canagliflozin,2,4,Jardiance,450.91
+Ertugliflozin,Canagliflozin,0,7,Steglatro,436.54
+Colesevelam,Ezetimibe,1,4,Welchol,400
+Ezetimibe,Colesevelam,1,12,Zetia,409.36
+Alirocumab,Colesevelam,1,3,Praluent,146000
+Evolocumab,Colesevelam,1,10,Repatha,143000
+Inclisiran,Colesevelam,1,7,Leqvio,145.18
+Lomitapide,Colesevelam,2,2,Juxtapid,693.9
+Mipomersen,Colesevelam,1,2,Kynamro,7596.91
+Bezafibrate,Fenofibrate,4,1,Bezalip,361.83
+Fenofibrate,Gemfibrozil,2,9,TriCor,360.83
+Gemfibrozil,Fenofibrate,1,5,Lopid,250.34
+Bempedoic acid,Fenofibrate,0,3,Nexletol,344.24
+Omega-3-acid ethyl esters,Fenofibrate,0,6,Lovaza,200
+Niacin,Fenofibrate,1,5,Niaspan,123.11
+Acetylcysteine,Guaifenesin,2,6,Mucomyst,163.19
+Carbocysteine,Guaifenesin,0,5,Mucodyne,179.22
+Guaifenesin,Dextromethorphan,2,7,Mucinex,198.22
+Dextromethorphan,Guaifenesin,0,6,Delsym,271.4
+Benzonatate,Guaifenesin,0,5,Tessalon Perles,603.7
+Phenylephrine,Guaifenesin,1,7,Sudafed,165.23
+Pseudoephedrine,Guaifenesin,1,8,Sudafed PE,167.21
+Oxymetazoline,Guaifenesin,1,5,Afrin,305.35
+Xylometazoline,Guaifenesin,4,4,Otrivin,264.4
+Ipratropium,Albuterol,4,3,Atrovent,332.46
+Tiotropium,Albuterol,0,6,Spiriva,472.56
+Glycopyrrolate,Albuterol,3,3,Seebri,398.46
+Aclidinium,Albuterol,0,7,Tudorza,484.98
+Umeclidinium,Albuterol,1,2,Incruse,428.98
+Indacaterol,Tiotropium,3,5,Arcapta,392.5
+Olodaterol,Tiotropium,2,6,Striverdi,386.48
+Vilanterol,Tiotropium,1,4,Anoro Ellipta,902.58
+Formoterol,Tiotropium,1,5,Symbicort,774.94
+Salmeterol,Tiotropium,0,6,Advair,916.1
+Fluticasone,Salmeterol,1,1,Flovent,500.6
+Budesonide,Salmeterol,2,4,Pulmicort,430.54
+Mometasone,Salmeterol,2,5,Asmanex,521.44
+Ciclesonide,Salmeterol,2,3,Alvesco,540.69
+Beclometasone,Salmeterol,3,4,Qvar,408.9
+Triamcinolone,Propylene Glycol,4,5,Azmacort,434.5
+Rivaroxaban,Microcrystalline Cellulose,0,5,Rivaroxaban,435.89
+"Dabigatran Etexilate Mesylate
+",Tartaric Acid,1,2,Dabigatran,627.75
+Edoxaban Tosylate Monohydrate,Mannitol,1,4,Edoxaban,548.06
+"Betrixaban
+","
+Hydroxypropyl Methylcellulose
+",2,5,Betrixaban,456.38
+Albiglutide,Sodium Phosphate,0,6,Albiglutide,67000
+Ertugliflozin,Magnesium Stearate,2,1,Ertugliflozin,436.54
+Semaglutide,Sodium Chloride,0,3,Semaglutide,4113.58
+Liraglutide,"
+Disodium Phosphate Dihydrate",1,4,Liraglutide,3751.2
+Empagliflozin,Colloidal Silicon Dioxide,1,5,Empagliflozin,450.91
+Dulaglutide,Citric Acid Monohydrate,1,4,Dulaglutide,59000
+Ticagrelor,Mannitol,1,4,Ticagrelor,522.57
+Vorapaxar Sulfate,Microcrystalline Cellulose,1,5,Vorapaxar,492.63
+Cangrelor,Sodium Chloride,2,4,Cangrelor,774.73
+Sacubitril,Valsartan,1,4,Sacubitril/valsartan,908.04
+Ivabradine Hydrochloride,Colloidal Silicon Dioxide,4,4,Ivabradine,468.6
+Secukinumab,Sucrose,2,4,Secukinumab,147000
+Ustekinumab,L-Histidine,1,5,Ustekinumab,148000
+Ixekizumab,Polysorbate 80,0,7,Ixekizumab,146000
+Guselkumab,L-Histidine Monohydrochloride,0,1,Guselkumab,149000
+Brodalumab,Acetate,1,6,Brodalumab,150000
+Evolocumab,Proline,2,4,Evolocumab,143000
+Alirocumab,Sucrose,0,3,Alirocumab,146000
+Bempedoic Acid,Microcrystalline Cellulose,2,5,Bempedoic acid,344.24
+Inclisiran,Sodium Chloride,0,7,Inclisiran,145.18
+Lomitapide,Microsomal Triglyceride Transfer Protein Inhibitor,0,5,Lomitapide,693.9
+Mipomersen,Antisense Oligonucleotide,1,6,Mipomersen,7596.91
+Belatacept,Fusion Protein,1,4,Belatacept,82000
+Belimumab,Monoclonal Antibody,1,4,Belimumab,147000
+Dupilumab,Monoclonal Antibody,4,4,Dupilumab,147000
+Omalizumab,Monoclonal Antibody,4,5,Omalizumab,149000
+Mepolizumab,Monoclonal Antibody,0,3,Mepolizumab,149000
+Reslizumab,Monoclonal Antibody,3,5,Reslizumab,144000
+Benralizumab,Monoclonal Antibody,2,6,Benralizumab,149000
+Tezepelumab,Monoclonal Antibody,0,5,Tezepelumab,149000
+Aflibercept,Recombinant Protein,1,4,Aflibercept,115000
+Ranibizumab,Recombinant Protein,3,5,Ranibizumab,48000
+Brolucizumab,Recombinant Protein,2,6,Brolucizumab,26000
+Faricimab,Recombinant Protein,1,7,Faricimab,144000
+Conbercept,Recombinant Protein,1,5,Conbercept,50000
+Apremilast,Phosphodiesterase 4 Inhibitor,0,4,Apremilast,460.51
+Tofacitinib,Janus Kinase Inhibitor,1,5,Tofacitinib,312.37
+Baricitinib,Janus Kinase Inhibitor,2,6,Baricitinib,371.43
+Upadacitinib,Janus Kinase Inhibitor,2,4,Upadacitinib,440.51
+Filgotinib,Janus Kinase Inhibitor,2,5,Filgotinib,300.34
+Leflunomide,Disease-Modifying Antirheumatic Drug,3,4,Leflunomide,270.2
+Tozinameran,mRNA Vaccine,4,5,Tozinameran,100000
+Elasomeran,mRNA Vaccine,0,4,Elasomeran,100000
+ChAdOx1 nCoV-19,Viral Vector Vaccine,1,5,ChAdOx1 nCoV-19,100000
+Ad26.COV2.S,Antiviral Combination,1,4,Ad26.COV2.S,100000
+Nirmatrelvir,Antiviral Combination,2,5,Paxlovid,921.9
+N-hydroxycytidine,Molnupiravir,0,4,Molnupiravir,329.3
+Triphosphate,Remdesivir,2,5,Remdesivir,602.6
+Pyrazinecarboxamide,Favipiravir,0,4,Favipiravir,157.1
+Monoclonal Antibody,Recombinant Antibody,1,5,Sotrovimab,149000
+Monoclonal Antibody,Recombinant Antibody,1,2,Casirivimab/imdevimab,292000
+Monoclonal Antibody,Recombinant Antibody,1,4,Bamlanivimab/etesevimab,292000
+Janus Kinase Inhibitor,Baricitinib,1,5,Baricitinib,371.43
+Interleukin-6 Inhibitor,Tocilizumab,1,4,Tocilizumab,148000
+Interleukin-1 Inhibitor,Anakinra,2,3,Anakinra,17300
+Interleukin-6 Inhibitor,Sarilumab,1,5,Sarilumab,150000
+CCR5 Antagonist,Leronlimab,4,3,Leronlimab,149000
+Antiviral Agent,Ivermectin,2,5,Ivermectin,875.1
+Antimalarial Agent,Hydroxychloroquine,1,3,Hydroxychloroquine,335.87
+Antimalarial Agent,Chloroquine,0,4,Chloroquine,319.87
+Antimalarial Agent,Nitazoxanide,0,3,Nitazoxanide,307.28
+Nucleoside Analog,Azvudine,1,4,Azvudine,267.27
+Antibiotic,Lefamulin,2,4,Lefamulin,586.7
+Antibiotic,Omadacycline,0,7,Omadacycline,713.85
+Antibiotic,Eravacycline,2,4,Eravacycline,492.55
+Antibiotic,Plazomicin,0,12,Plazomicin,908
+Antibiotic,Cefiderocol,0,3,Cefiderocol,749.72
+Antibiotic,Delafloxacin,1,10,Delafloxacin,440.85
+Antibiotic,Solithromycin,1,7,Solithromycin,845.05
+Antibiotic,Finafloxacin,1,2,Finafloxacin,370.79
+Antibiotic,Zoliflodacin,4,2,Zoliflodacin,438.4
+Beta-lactamase Inhibitor,Avibactam,4,1,Ceftazidime/avibactam,986
+Beta-lactam Antibiotic,Vaborbactam,0,9,Meropenem/vaborbactam,680.76
+Beta-lactam Antibiotic,Relebactam,3,5,Imipenem/relebactam,848.95
+Beta-lactam Antibiotic,Zidebactam,2,3,Cefepime/zidebactam,790.78
+Beta-lactam Antibiotic,Taniborbactam,0,6,Cefepime/taniborbactam,790.78
+Oxazolidinone Antibiotic,Tedizolid,1,5,Tedizolid,450.5
+Glycopeptide Antibiotic,Oritavancin,3,6,Oritavancin,1793.64
+Glycopeptide Antibiotic,Dalbavancin,2,5,Dalbavancin,1816.71
+Glycopeptide Antibiotic,Telavancin,1,7,Telavancin,1755.63
+Diarylquinoline Antibiotic,lefamulin,1,6,Lefamulin,586.7
+Diarylquinoline Antibiotic,pretomanid,0,5,Pretomanid,359.27
+Diarylquinoline Antibiotic,bedaquiline,1,7,Bedaquiline,555.5
+Diarylquinoline Antibiotic,Delamanid,2,8,Delamanid,534.5
+Oxazolidinone Antibiotic,Sutezolid,2,5,Sutezolid,453.5
+Triazole Antifungal,Linezolid,2,4,Linezolid,337.35
+Triazole Antifungal,Posaconazole,3,3,Tedizolid,450.5
+Triazole Antifungal,Isavuconazonium sulfate,4,6,Posaconazole,700.8
+Echinocandin Antifungal,Voriconazole,0,3,Isavuconazonium sulfate,814.79
+Azole Antifungal,Echinocandins,1,7,Voriconazole,349.31
+Oxaborole Antifungal,Luliconazole,1,2,Echinocandins,50000
+Azole Antifungal,Tavaborole,2,5,Luliconazole,354.27
+Monoclonal Antibody,Efinaconazole,0,6,Tavaborole,201.05
+Monoclonal Antibody,Omalizumab,2,4,Efinaconazole,348.3
+Monoclonal Antibody,Dupilumab,0,5,Omalizumab,149000
+Monoclonal Antibody,dupilumab,1,6,Dupilumab,147000
+Tylenol,Paracetamol,1,1,Acetaminophen,151.16
+Zovirax,Acyclovir,1,4,Acyclovir,225.21
+"Ventolin, Proventil",Albuterol,1,5,Albuterol,239.31
+Zyloprim,Allopurinol,1,3,Allopurinol,136.11
+Xanax,Alprazolam,2,4,Alprazolam,308.77
+Amikin,Amikacin,1,5,Amikacin,585.6
+"Cordarone, Pacerone",Amiodarone,4,5,Amiodarone,645.32
+Elavil,Amitriptyline,2,2,Amitriptyline,277.4
+Norvasc,Amlodipine,1,4,Amlodipine,408.87
+Amoxil,Amoxicillin,0,5,Amoxicillin,365.41
+Fungizone,Amphotericin B,0,6,Amphotericin B,924.1
+Omnipen,Ampicillin,1,1,Ampicillin,349.41
+Kineret,Anakinra,2,3,Anakinra,17300
+Tenormin,Atenolol,0,4,Atenolol,266.34
+Strattera,Atomoxetine,2,5,Atomoxetine,255.36
+Lipitor,Atorvastatin,0,4,Atorvastatin,558.64
+Zithromax,Azithromycin,0,4,Azithromycin,748.98
+Lioresal,Baclofen,1,5,Baclofen,213.66
+Qvar,Beclometasone,1,4,Beclometasone,408.91
+Lotensin,Benazepril,1,4,Benazepril,424.5
+Casodex,Bicalutamide,4,4,Bicalutamide,430.37
+Zebeta,Bisoprolol,4,4,Bisoprolol,325.44
+"Pulmicort, Entocort",Budesonide,0,5,Budesonide,430.54
+"Wellbutrin, Zyban",Bupropion,3,7,Bupropion,239.74
+Myleran,Busulfan,2,1,Busulfan,246.31
+Capoten,Captopril,0,6,Captopril,217.29
+Tegretol,Carbamazepine,1,4,Carbamazepine,236.27
+Coreg,Carvedilol,3,3,Carvedilol,406.48
+Ceclor,Cefaclor,2,5,Cefaclor,367.81
+Duricef,Cefadroxil,1,7,Cefadroxil,381.37
+Ancef,Cefazolin,1,5,Cefazolin,454.5
+Omnicef,Cefdinir,0,6,Cefdinir,395.41
+Maxipime,Cefepime,1,4,Cefepime,480.5
+Suprax,Cefixime,2,4,Cefixime,453.45
+Claforan,Cefotaxime,2,4,Cefotaxime,455.5
+Cefotan,Cefotetan,2,5,Cefotetan,575.61
+Mefoxin,Cefoxitin,3,3,Cefoxitin,427.45
+Fortaz,Ceftazidime,4,5,Ceftazidime,636.6
+Rocephin,Ceftriaxone,0,6,Ceftriaxone,554.58
+Ceftin,Cefuroxime,1,5,Cefuroxime,424.38
+Celebrex,Celecoxib,1,4,Celecoxib,381.37
+Keflex,Cephalexin,2,5,Cephalexin,347.39
+Leukeran,Chlorambucil,0,6,Chlorambucil,304.24
+Aralen,Chloroquine,2,7,Chloroquine,319.87
+Thorazine,Chlorpromazine,0,5,Chlorpromazine,355.33
+Cipro,Ciprofloxacin,1,4,Ciprofloxacin,331.34
+Celexa,Citalopram,1,5,Citalopram,324.39
+Cleocin,Clindamycin,1,6,Clindamycin,424.98
+Anafranil,Clomipramine,1,4,Clomipramine,314.84
+Klonopin,Clonazepam,1,5,Clonazepam,315.72
+Plavix,Clopidogrel,2,4,Clopidogrel,321.82
+Clozaril,Clozapine,1,5,Clozapine,326.83
+Flexeril,Cyclobenzaprine,4,4,Cyclobenzaprine,311.87
+"Neoral, Sandimmune",Cyclosporine,2,5,Cyclosporine,1202.61
+Pradaxa,Dabigatran,1,4,Dabigatran,627.75
+Aczone,Dapsone,0,5,Dapsone,248.3
+Norpramin,Desipramine,0,4,Desipramine,266.39
+Dexilant,Dexlansoprazole,1,5,Dexlansoprazole,369.4
+Dexedrine,Dextroamphetamine,2,4,Dextroamphetamine,135.21
+Valium,Diazepam,0,5,Diazepam,284.74
+Voltaren,Diclofenac,2,2,Diclofenac,296.15
+Bentyl,Dicyclomine,0,4,Dicyclomine,309.46
+Lanoxin,Digoxin,0,5,Digoxin,780.94
+Cardizem,Diltiazem,1,4,Diltiazem,414.53
+Benadryl,Diphenhydramine,1,3,Diphenhydramine,255.34
+Depakote,Divalproex,1,5,Divalproex,310.4
+Dobutrex,Dobutamine,4,3,Dobutamine,301.38
+Intropin,Dopamine,4,5,Dopamine,153.18
+Cardura,Doxazosin,0,3,Doxazosin,451.48
+Vibramycin,Doxycycline,3,4,Doxycycline,444.43
+Cymbalta,Duloxetine,2,3,Duloxetine,297.41
+Vasotec,Enalapril,0,4,Enalapril,376.45
+Lovenox,Enoxaparin,1,4,Enoxaparin,~4500
+Erythrocin,Erythromycin,3,7,Erythromycin,733.94
+Lexapro,Escitalopram,2,4,Escitalopram,324.39
+Nexium,Esomeprazole,1,12,Esomeprazole,345.42
+Estrace,Estradiol,1,3,Estradiol,272.39
+"Various (e.g., Premarin)",Estrogen,0,10,Estrogen,~272.38
+Lunesta,Eszopiclone,1,7,Eszopiclone,388.91
+Myambutol,Ethambutol,2,2,Ethambutol,204.31
+"Various (e.g., in birth control pills)",Ethinyl estradiol,2,2,Ethinyl estradiol,296.4
+Lodine,Etodolac,2,1,Etodolac,287.36
+Zetia,Ezetimibe,3,9,Ezetimibe,409.41
+Pepcid,Pepcid AC,4,5,Famotidine,337.42
+Plendil,Felodipine ER,0,3,Felodipine,384.26
+Sublimaze,Actiq,1,6,Fentanyl,336.47
+Allegra,Allegra Allergy,1,5,Fexofenadine,501.66
+Diflucan,Fluconazole Oral,2,6,Fluconazole,306.27
+Ancobon,Flucytosine Injection,0,5,Flucytosine,119.1
+Prozac,Prozac Weekly,2,7,Fluoxetine,309.33
+Flonase,Flovent,0,6,Fluticasone,500.56
+Lasix,Furosemide Oral,1,5,Furosemide,330.74
+Neurontin,Gralise,1,7,Gabapentin,171.24
+Lopid,Gemfibrozil Oral,1,8,Gemfibrozil,250.35
+Garamycin,Gentamicin Injection,1,5,Gentamicin,477.6
+Glucotrol,Glucotrol XL,1,4,Glipizide,445.55
+DiaBeta,Glyburide Oral,2,3,Glyburide,493.99
+Gris-PEG,Griseofulvin Oral,1,6,Griseofulvin,352.77
+Haldol,Haloperidol Injection,4,3,Haloperidol,375.86
+Hydrodiuril,HCTZ,2,7,Hydrochlorothiazide,297.74
+Plaquenil,Hydroxychloroquine Sulfate,1,2,Hydroxychloroquine,335.87
+Hydrea,Hydroxyurea Capsules,0,5,Hydroxyurea,76.05
+Advil,Motrin,0,6,Ibuprofen,206.28
+Gleevec,Imatinib Mesylate,1,4,Imatinib,493.6
+Primaxin,Imipenem/Cilastatin,2,5,Imipenem,299.34
+Indocin,Indomethacin Extended Release,0,6,Indomethacin,357.79
+Remicade,Infliximab Injection,2,1,Infliximab,144190
+INH,Isoniazid Oral,0,4,Isoniazid,137.14
+Imdur,Isosorbide Mononitrate Extended,0,5,Isosorbide mononitrate,191.14
+Accutane,Claravis,1,3,Isotretinoin,300.44
+Sporanox,Itraconazole Oral,1,4,Itraconazole,705.64
+Nizoral,Ketoconazole Cream,1,5,Ketoconazole,531.44
+Toradol,Ketorolac Injection,4,5,Ketorolac,376.41
+Lamictal,Lamictal XR,4,2,Lamotrigine,256.09
+Prevacid,Prevacid 24HR,0,4,Lansoprazole,369.36
+Lupron,Eligard,3,5,Leuprolide,1209.41
+Xopenex,Levalbuterol Inhalation Solution,2,6,Levalbuterol,275.37
+Keppra,Keppra XR,0,1,Levetiracetam,170.21
+Levaquin,Levofloxacin Oral,1,3,Levofloxacin,361.37
+Plan B,Mirena,3,4,Levonorgestrel,312.45
+Synthroid,Levoxyl,2,5,Levothyroxine,776.87
+Xylocaine,Lidoderm,1,4,Lidocaine,234.34
+Zyvox,Linezolid Oral,1,4,Linezolid,337.35
+Prinivil,Zestril,0,5,Lisinopril,405.49
+Lithobid,Lithonate,1,4,Lithium,6.94
+Claritin,Loratadine Oral,2,4,Loratadine,382.87
+Ativan,Lorazepam Oral,2,4,Lorazepam,321.16
+Cozaar,Losartan Potassium,2,4,Losartan,422.91
+Mevacor,Altoprev,3,5,Lovastatin,422.56
+Opsumit,Macitentan Oral,4,7,Macitentan,588.65
+Antivert,Meclizine Oral,0,1,Meclizine,429.94
+Depo-Provera,Provera,1,6,Medroxyprogesterone,386.47
+Mobic,Meloxicam Oral,1,4,Meloxicam,354.4
+Namenda,Memantine Oral,2,3,Memantine,179.23
+Demerol,Meperidine Injection,0,5,Meperidine,247.35
+Asacol,Lialda,2,7,Mesalamine,153.13
+Glucophage,Glucophage XR,0,5,Metformin,309.45
+Dolophine,Methadose,1,6,Methadone,114.17
+Tapazole,Methimazole Oral,1,4,Methimazole,454.44
+Rheumatrex,Trexall,1,4,Methotrexate,374.48
+Medrol,Depo-Medrol,1,4,Methylprednisolone,168.5
+Reglan,Metoclopramide Oral,1,5,Metoclopramide,267.37
+Lopressor,Toprol XL,2,3,Metoprolol,344.41
+Flagyl,Metrogel,1,5,Metronidazole,457.48
+Minocin,Solodyn,4,6,Minocycline,264.4
+Remeron,Mirtazapine Oral,2,5,Mirtazapine,368.5
+Cytotec,Misoprostol Oral,1,4,Misoprostol,444.43
+Novantrone,Mitoxantrone Injection,0,5,Mitoxantrone,342.4
+Provigil,Modafinil Oral,0,6,Modafinil,517.47
+Singulair,Montelukast Oral,1,7,Montelukast,273.35
+MS Contin,Kadian,2,5,Morphine,770.88
+Avelox,Moxifloxacin Oral,0,4,Moxifloxacin,260.3
+CellCept,Mycophenolate Mofetil,2,5,Mycophenolate,367.37
+Relafen,Nabumetone Oral,0,6,Nabumetone,228.28
+Corgard,Nadolol Oral,0,4,Nadolol,230.31
+Aleve,Naprosyn,1,5,Naproxen,185.22
+Bystolic,Nebivolol Oral,1,4,Nebivolol,606.84
+Viracept,Nelfinavir Oral,1,5,Nelfinavir,614.64
+Neo-Fradin,Neomycin Oral,4,4,Neomycin,308.75
+Viramune,Nevirapine Oral,4,5,Nevirapine,346.27
+Adalat,Procardia,0,4,Nifedipine,302.27
+Macrobid,Nitrofurantoin Oral,3,5,Nitrofurantoin,255.23
+Nitrostat,Nitroglycerin Oral,2,4,Nitroglycerin,238.31
+Noroxin,Norfloxacin Oral,0,5,Norfloxacin,303.4
+Pamelor,Nortriptyline Oral,1,4,Nortriptyline,215.24
+Mycostatin,Nystatin Oral,3,5,Nystatin,923.05
+Floxin,Ofloxacin Oral,2,2,Ofloxacin,281.35
+Zyprexa,Olanzapine Oral,1,4,Olanzapine,383.36
+Benicar,Olmesartan Oral,1,5,Olmesartan,329.82
+Prilosec,Omeprazole Oral,0,4,Omeprazole,410.37
+Zofran,Ondansetron Oral,1,3,Ondansetron,312.4
+Tamiflu,Oseltamivir Oral,2,5,Oseltamivir,285.33
+Bactocill,Oxacillin Oral,2,3,Oxacillin,403.45
+Ditropan XL,Oxybutynin Oral,2,5,Oxybutynin,372.41
+OxyContin,Roxicodone,3,3,Oxycodone,511.56
+Opana,Oxymorphone Oral,4,4,Oxymorphone,336.43
+Taxol,Paclitaxel Injection,0,3,Paclitaxel,232.27
+Invega,Paliperidone Oral,1,4,Paliperidone,502.07
+Protonix,Pantoprazole Oral,1,4,Pantoprazole,492.55
+Paxil,Paroxetine Oral,2,7,Paroxetine,218.27
+Pegasys,Peginterferon Alfa,0,4,Peginterferon,183.18
+Penicillin V,Penicillin Oral,2,12,Penicillin,100.12
+Trental,Pentoxifylline Oral,0,3,Pentoxifylline,250.33
+Coversyl,Perindopril Oral,1,10,Perindopril,197.22
+Nix,Permethrin Cream,1,7,Permethrin,356.43
+Luminal,Phenobarbital Oral,1,2,Phenobarbital,331.35
+Dilantin,Phenytoin Oral,1,2,Phenytoin,274.36
+Actos,Pioglitazone Oral,1,1,Pioglitazone,298.4
+Feldene,Piroxicam Oral,2,9,Piroxicam,586.59
+Selexid,Pivmecillinam Oral,1,5,Pivmecillinam,258.31
+Pravachol,Pravastatin Oral,4,3,Pravastatin,228.28
+Orapred,Prednisolone Oral,2,6,Prednisolone,159.23
+Deltasone,Prednisone Oral,1,5,Prednisone,339.44
+Lyrica,Pregabalin Oral,0,6,Pregabalin,228.3
+Mysoline,Primidone Oral,0,5,Primidone,314.44
+Benemid,Probenecid Oral,1,7,Probenecid,244.3
+Compazine,Prochlorperazine Oral,2,6,Prochlorperazine,252.3
+Prometrium,Progesterone Oral,0,5,Progesterone,474.58
+Phenergan,Promethazine Oral,2,7,Promethazine,84.4
+Rythmol,Propafenone Hydrochloride,0,8,Propafenone,341.43
+Inderal,Propranolol Hydrochloride,0,5,Propranolol,259.34
+Sudafed,Pseudoephedrine HCl,1,4,Pseudoephedrine,165.24
+PZA,Pyrazinamide Oral,1,3,Pyrazinamide,123.11
+Mestinon,Pyridostigmine Bromide,1,6,Pyridostigmine,181.21
+Seroquel,Quetiapine Fumarate,4,3,Quetiapine,383.49
+Accupril,Quinapril Hydrochloride,4,7,Quinapril,438.53
+Qualaquin,Quinine Sulfate,0,2,Quinine,324.43
+Isentress,Raltegravir Oral,3,5,Raltegravir,444.34
+Altace,Ramipril Oral,2,6,Ramipril,416.51
+Zantac,Ranitidine Hydrochloride,0,4,Ranitidine,314.41
+Azilect,Rasagiline Mesylate,1,5,Rasagiline,171.24
+Mycobutin,Rifabutin Capsules,3,6,Rifabutin,847.03
+Rifadin,Rifampin Oral,2,1,Rifampin,822.94
+Rilutek,Riluzole Oral,1,4,Riluzole,234.27
+Actonel,Risedronate Sodium,1,5,Risedronate,283.1
+Risperdal,Risperidone Oral,0,3,Risperidone,410.49
+Norvir,Ritonavir Oral,1,4,Ritonavir,720.94
+Exelon,Rivastigmine Oral,2,5,Rivastigmine,250.34
+Maxalt,Rizatriptan Oral,2,5,Rizatriptan,269.37
+Daliresp,Roflumilast Oral,2,2,Roflumilast,403.37
+Requip,Ropinirole Oral,3,4,Ropinirole,260.37
+Avandia,Rosiglitazone Oral,4,5,Rosiglitazone,357.43
+Crestor,Rosuvastatin Calcium,0,6,Rosuvastatin,481.54
+Neupro,Rotigotine Transdermal Patch,1,1,Rotigotine,315.47
+Rulid,Roxithromycin Oral,1,3,Roxithromycin,837.05
+Serevent,Salmeterol Xinafoate,2,4,Salmeterol,415.56
+Onglyza,Saxagliptin Oral,0,5,Saxagliptin,315.37
+Cosentyx,Secukinumab Injection,2,4,Secukinumab,149.21
+Eldepryl,Selegiline Hydrochloride,0,4,Selegiline,187.24
+Viagra,Sildenafil Citrate,1,5,Sildenafil,474.58
+Zocor,Simvastatin Oral,1,4,Simvastatin,418.57
+Januvia,Sitagliptin Oral,1,4,Sitagliptin,407.32
+Baking soda,Sodium Bicarbonate Oral,1,4,Sodium bicarbonate,84.01
+Saline,Sodium Chloride Injection,1,4,Sodium chloride,58.44
+Citras,Sodium Citrate Oral,2,5,Sodium citrate,258.06
+Monobasic Sodium Phosphate,Sodium Phosphate Injection,1,7,Sodium phosphate,119.98
+Vesicare,Solifenacin Succinate,4,1,Solifenacin,480.56
+Betapace,Sotalol Oral,2,6,Sotalol,272.33
+Aldactone,Spironolactone Oral,1,4,Spironolactone,416.58
+Zerit,Stavudine Oral,0,3,Stavudine,224.23
+Streptomycin Sulfate,Streptomycin Injection,0,5,Streptomycin,581.57
+Carafate,Sucralfate Oral,1,7,Sucralfate,398.39
+Azulfidine,Sulfasalazine Oral,2,5,Sulfasalazine,253.28
+Bactrim,Sulfamethoxazole Oral,0,6,Sulfamethoxazole,250.29
+Sulfadiazine,Sulfadiazine Oral,2,4,Sulfadiazine,267.32
+Gantrisin,Sulfisoxazole Oral,0,4,Sulfisoxazole,295.4
+Imitrex,Sumatriptan Oral,0,4,Sumatriptan,804.02
+Prograf,Tacrolimus Oral,1,5,Tacrolimus,389.41
+Cialis,Tadalafil Oral,1,3,Tadalafil,372.39
+Nolvadex,Tamoxifen Citrate,1,5,Tamoxifen,563.64
+Flomax,Tamsulosin Hydrochloride,4,6,Tamsulosin,408.47
+Tazocin,Tazobactam Injection,4,5,Tazobactam,300.41
+Micardis,Telmisartan Oral,0,4,Telmisartan,300.36
+Restoril,Temazepam Oral,3,5,Temazepam,286.4
+Viread,Tenofovir Disoproxil Fumarate,2,6,Tenofovir,438.54
+Lamisil,Terbinafine Oral,0,7,Terbinafine,402.45
+Brethine,Terbutaline Sulfate,1,5,Terbutaline,222.31
+Forteo,Teriparatide Injection,3,4,Teriparatide,411.49
+Sumycin,Tetracycline Oral,2,5,Tetracycline,261.36
+Thalomid,Thalidomide Oral,1,6,Thalidomide,298.34
+Theo-Dur,Theophylline Oral,1,4,Theophylline,240.23
+Tabloid,Thioguanine Oral,0,5,Thioguanine,272.29
+Thiotepa Injection,Thiotepa Capsules,1,4,Thiotepa,358.36
+Pentothal,Thiopental Sodium,2,5,Thiopental,250.3
+Gabitril,Tiagabine Oral,2,4,Tiagabine,444.39
+Brilinta,Ticagrelor Oral,2,5,Ticagrelor,327.29
+Ticarcillin Disodium,Ticarcillin Injection,3,4,Ticarcillin,190.28
+Tygacil,Tigecycline Injection,4,5,Tigecycline,284.31
+Timoptic,Timolol Ophthalmic Solution,0,4,Timolol,220.28
+Spiriva,Tiotropium Bromide,1,5,Tiotropium,242.25
+Zanaflex,Tizanidine Hydrochloride,1,4,Tizanidine,535.67
+Nebcin,Tobramycin Injection,2,5,Tobramycin,352.47
+Detrol,Tolterodine Extended Release,0,2,Tolterodine,291.33
+Topamax,Topiramate Extended Release,2,4,Topiramate,387.36
+Ultram,Tramadol Hydrochloride,0,5,Tramadol,316.27
+Cyklokapron,Tranexamic Acid Oral,1,4,Tranexamic acid,253.31
+Parnate,Tranylcypromine Sulfate,1,3,Tranylcypromine,370.49
+Desyrel,Trazodone Hydrochloride,1,5,Trazodone,259.24
+Kenalog,Triamcinolone Acetonide,1,3,Triamcinolone,522.58
+Dyrenium,Triamterene Hydrochloride,1,5,Triamterene,501.96
+Viroptic,Trifluridine Ophthalmic Solution,2,3,Trifluridine,116.12
+TMP,Trimethoprim-Sulfamethoxazole,1,4,Trimethoprim,296.41
+Surmontil,Trimipramine Oral,4,3,Trimipramine,387.54
+Sanctura,Trospium Chloride,2,4,Trospium,168.19
+Valtrex,Valacyclovir Oral,1,4,Valacyclovir,278.39
+Valcyte,Valganciclovir Oral,0,7,Valganciclovir,253.31
+Depakene,Valproic Acid Oral,0,4,Valproic acid,408.5
+Vancocin,Vancomycin Injection,1,12,Vancomycin,105.09
+Levitra,Vardenafil Oral,2,3,Vardenafil,290.39
+Chantix,Varenicline Oral,0,10,Varenicline,106.12
+Zelboraf,Vemurafenib Oral,2,7,Vemurafenib,146.19
+Calan,Verapamil SR,0,2,Verapamil,524.56
+Viibryd,Vilazodone Oral,0,2,Vilazodone,391.4
+Velban,Vinblastine Sulfate,1,1,Vinblastine,228.3
+Oncovin,Vincristine Sulfate,1,9,Vincristine,313.87
+Navelbine,Vinorelbine Injection,1,5,Vinorelbine,225.32
+Vfend,Voriconazole Oral,4,3,Voriconazole,447.5
+Coumadin,Warfarin Sodium,4,6,Warfarin,1449.25
+Sonata,Zaleplon Oral,0,5,Zaleplon,118.09
+Ambien,Zolpidem Tartrate,3,6,Zolpidem,301.39
+Zonegran,Zonisamide Oral,2,5,Zonisamide,244.23
+Imovane,Zopiclone Oral,0,7,Zopiclone,212.2
+Zytiga,Abiraterone Acetate,1,6,Abiraterone,306.8
+Campral,Acamprosate Calcium,3,5,Acamprosate,336.4
+Zovirax,Acyclovir Sodium,2,7,Acyclovir,226.2
+Humira,Adalimumab Injection,1,8,Adalimumab,225.2
+Fosamax,Alendronate Sodium,1,5,Alendronate,"1,48,000"
+Tekturna,Aliskiren Oral,0,4,Aliskiren,291.1
+Xanax,Alprazolam Extended Release,1,3,Alprazolam,295.4
+Symmetrel,Amantadine Oral,2,6,Amantadine,308.2
+Cordarone,Amiodarone Oral,2,3,Amiodarone,125.2
+Elavil,Amitriptyline Hydrochloride,2,7,Amitriptyline,645
+Norvasc,Amlodipine Besylate,3,2,Amlodipine,277.4
+Amoxil,Amoxicillin Trihydrate,4,5,Amoxicillin,408.9
+Omnipen,Ampicillin Oral,0,6,Ampicillin,365.4
+Arimidex,Anastrozole Oral,1,4,Anastrozole,371.4
+Eliquis,Apixaban Oral,1,5,Apixaban,297.3
+Abilify,Aripiprazole Oral,2,6,Aripiprazole,459.4
+Tenormin,Atenolol Oral,0,1,Atenolol,448.4
+Strattera,Atomoxetine Hydrochloride,2,4,Atomoxetine,266.3
+Lipitor,Atorvastatin Calcium,0,5,Atorvastatin,291.4
+Imuran,Azathioprine Oral,1,3,Azathioprine,558.6
+Zithromax,Azithromycin Oral,1,4,Azithromycin,277.2
+Lioresal,Baclofen Oral,1,5,Baclofen,749
+Qvar,Beclomethasone Dipropionate,1,5,Beclomethasone,213.1
+Lotensin,Benazepril Hydrochloride,1,2,Benazepril,521
+Treanda,Bendamustine Injection,2,4,Bendamustine,336.4
+Casodex,Bicalutamide Oral,1,5,Bicalutamide,314.1
+Zebeta,Bisoprolol Fumarate,4,6,Bisoprolol,433.5
+Parlodel,Bromocriptine Mesylate,2,1,Bromocriptine,325.4
+Pulmicort,Budesonide Oral,1,3,Budesonide,414.3
+Bumex,Bumetanide Oral,0,4,Bumetanide,430.5
+Wellbutrin,Bupropion Hydrochloride,0,5,Bupropion,366.4
+Buspar,Buspirone Oral,1,4,Buspirone,239.7
+Myleran,Busulfan Injection,2,4,Busulfan,372.5
+Miacalcin,Calcitonin Injection,0,5,Calcitonin,222.1
+Rocaltrol,Calcitriol Oral,2,4,Calcitriol,"3,500"
+Atacand,Candesartan Cilexetil,0,4,Candesartan,416.7
+Xeloda,Capecitabine Oral,0,4,Capecitabine,420.5
+Capoten,Captopril Oral,1,4,Captopril,359.3
+Tegretol,Carbamazepine Extended Release,1,5,Carbamazepine,217.3
+Coreg,Carvedilol Extended Release,1,7,Carvedilol,236.2
+Ceclor,Cefaclor Oral,4,1,Cefaclor,406.5
+Duricef,Cefadroxil Oral,4,6,Cefadroxil,359.2
+Ancef,Cefazolin Injection,0,4,Cefazolin,357.4
+Omnicef,Cefdinir Oral,3,3,Cefdinir,454.4
+Maxipime,Cefepime Injection,2,5,Cefepime,365.4
+Suprax,Cefixime Oral,0,7,Cefixime,507.5
+Claforan,Cefotaxime Injection,1,5,Cefotaxime,453.4
+Cefotan,Cefotetan Injection,3,6,Cefotetan,453.4
+Cefotan,Cefoxitin Injection,2,4,Cefoxitin,460.5
+Fortaz,Ceftazidime Injection,1,4,Ceftazidime,374.3
+Rocephin,Ceftriaxone Injection,1,4,Ceftriaxone,636.6
+Ceftin,Cefuroxime Oral,0,5,Cefuroxime,661.6
+Celebrex,Celecoxib Oral,1,3,Celecoxib,414.4
+Keflex,Cephalexin Oral,2,5,Cephalexin,822.9
+Aralen,Chloroquine Phosphate,2,6,Chloroquine,320.8
+Thorazine,Chlorpromazine Oral,2,5,Chlorpromazine,318.9
+Tagamet,Cimetidine Oral,3,4,Cimetidine,252.3
+Cipro,Ciprofloxacin Oral,4,5,Ciprofloxacin,331.3
+Celexa,Citalopram Oral,0,6,Citalopram,314.8
+Biaxin,Clarithromycin Oral,1,7,Clarithromycin,748
+Cleocin,Clindamycin Oral,1,5,Clindamycin,424.9
+Temovate,Clobetasol Propionate,2,4,Clobetasol,521
+Clomid,Clomiphene Citrate,0,5,Clomiphene,405.5
+Klonopin,Clonazepam Oral,2,6,Clonazepam,315.2
+Catapres,Clonidine Hydrochloride,0,4,Clonidine,230.7
+Plavix,Clopidogrel Bisulfate,1,5,Clopidogrel,321.8
+Lotrimin,Clotrimazole Cream,1,4,Clotrimazole,344.2
+Clozaril,Clozapine Oral,1,5,Clozapine,326.8
+Colcrys,Colchicine Oral,1,4,Colchicine,399.4
+Welchol,Colesevelam Hydrochloride,1,5,Colesevelam,1500
+Premarin,Conjugated Estrogens Oral,2,4,Colchicine,2000
+Flexeril,Cyclobenzaprine Oral,1,5,Conjugated estrogens,276.8
+Neoral,Cyclosporine Oral,4,4,Cyclobenzaprine,"1,203.60"
+Pradaxa,Dabigatran Oral,2,5,Cyclosporine,627.6
+Avlosulfon,Dapsone Oral,1,4,Dabigatran,248.3
+Enablex,Darifenacin Oral,0,5,Dapsone,320.2
+Norpramin,Desipramine Oral,0,2,Darifenacin,270.4
+Clarinex,Desloratadine Oral,1,4,Desipramine,310.8
+Dexilant,Dexlansoprazole Extended Release,2,5,Desloratadine,369.3
+Focalin,Dexmethylphenidate Extended Release,0,4,Dexlansoprazole,268.2
+Dexedrine,Dextroamphetamine Sulfate,2,3,Dexmethylphenidate,271.4
+Delsym,Dextromethorphan HBr,0,5,Dextroamphetamine,284.7
+Valium,Diazepam Oral,0,3,Dextromethorphan,296.1
+Voltaren,Diclofenac Sodium,1,5,Diazepam,288.4
+Bentyl,Dicyclomine Hydrochloride,1,3,Diclofenac,780.4
+Lanoxin,Digoxin Oral,1,4,Dicyclomine,414.9
+Cardizem,Diltiazem Extended Release,4,3,Digoxin,255.4
+Benadryl,Diphenhydramine HCl,4,4,Diltiazem,206.3
+Depakote,Divalproex Sodium,0,4,Diphenhydramine,219.3
+Dobutrex,Dobutamine Injection,3,7,Divalproex,153.2
+Intropin,Dopamine Injection,2,4,Dobutamine,412.4
+Cardura,Doxazosin Extended Release,0,12,Dopamine,309.4
+Silenor,Doxepin Oral,1,3,Doxazosin,444.4
+Vibramycin,Doxycycline Hyclate,3,10,Doxepin,297.3
+Cymbalta,Duloxetine Oral,2,7,Doxycycline,315.3
+Sustiva,Efavirenz Oral,1,2,Duloxetine,359.2
+Vasotec,Enalapril Maleate,1,2,Efavirenz,357.4
+Enalaprilat (active metabolite),Ethyl ester (prodrug form),0,1,Enalapril,454.4
+Low Molecular Weight Heparin (LMWH),Ethyl ester (prodrug form),1,9,Enoxaparin,365.4
+Recombinant Human Erythropoietin,Sialic Acid (glycosylation modifications),2,5,Epoetin alfa,507.5
+Desosamine (sugar moiety),Cladinose (sugar moiety),2,3,Erythromycin,453.4
+(S)-Citalopram (enantiomer),Cyclohexane Ring,2,6,Escitalopram,453.4
+(S)-Omeprazole (enantiomer),Sulfoxide Group,3,5,Esomeprazole,460.5
+Phenolic A-ring,Cyclohexane Ring,4,6,Estradiol,374.3
+Estrone (estrogenic steroid),Equilin (estrogenic steroid),0,5,"Estrogens, conjugated",636.6
+Cyclopropyl (part of the structure),Chloride Group (part of the structure),1,7,Eszopiclone,661.6
+Ethylene Diamine (amine group),Butanol (hydroxyl group),1,6,Ethambutol,414.4
+Ethinyl Group (acetylene group),Estradiol (estrogenic steroid),2,5,Ethinyl estradiol,822.9
+Pyrrole (part of the structure),Carboxylic Acid (part of the structure),0,7,Etodolac,320.8
+Triazole Ring (part of the structure),Diphenyl Group (part of the structure),2,8,Etravirine,318.9
+Phenyl Ring,Azetidinone Ring,0,5,Ezetimibe,252.3
+Furan Ring,Thiazole Ring,1,4,Famotidine,331.3
+Dihydropyridine Ring,Ester Group,1,3,Felodipine,314.8
+Phenyl Group,Isobutyric Acid,1,6,Fenofibrate,748
+N-Phenethyl Group,Anilide Group,1,3,Fentanyl,424.9
+Iron (Fe),Sulfate (SO4),1,7,Ferrous sulfate,521
+Diphenyl Ether,Carboxyl Group,2,2,Fexofenadine,405.5
+Triazole Ring,Fluorophenyl Group,1,5,Fluconazole,315.2
+Pyrimidine Ring,Fluorine Atom,4,6,Flucytosine,230.7
+Phenyl Ring,Trifluoromethyl Group,2,4,Fluoxetine,321.8
+Corticosteroid Backbone,Fluorinated Side Chains,1,5,Fluticasone,344.2
+Sulfonamide Group,Furoic Acid,0,6,Furosemide,326.8
+Cyclohexane Ring,Amino Acid,0,1,Gabapentin,399.4
+Phenoxyisobutyric Acid,Aromatic Ring,1,4,Gemfibrozil,1500
+Aminoglycoside Structure,Sugar Moieties,2,5,Gentamicin,2000
+Sulfonylurea Group,Piperidine Ring,0,3,Glimepiride,276.8
+Sulfonylurea Group,Piperazine Ring,2,4,Glipizide,"1,203.60"
+Sulfonylurea Group,Pyrimidine Ring,0,5,Glyburide,627.6
+Benzofurans,Cyclic Dipeptide,0,5,Griseofulvin,248.3
+Piperidine Ring,Butyrophenone Group,1,2,Haloperidol,320.2
+4o mini,Thiazide Ring,1,4,Hydrochlorothiazide,270.4
+Quinoline Ring,Hydroxyl Group,1,5,Hydroxychloroquine,310.8
+Urea Group,Hydroxyl Group,4,6,Hydroxyurea,369.3
+Pyrimidine Ring,Aniline Group,4,1,Imatinib,268.2
+Beta-Lactam Ring,Thiazolidine Ring,0,3,Imipenem,271.4
+Indole Ring,Acetic Acid Group,3,4,Indomethacin,284.7
+Monoclonal Antibody,TNF-alpha Binding Region,2,5,Infliximab,296.1
+Tropane Ring,Quaternary Ammonium Group,0,4,Ipratropium,288.4
+Pyridine Ring,Hydrazide Group,3,4,Isoniazid,780.4
+Nitrate Ester,Isosorbide Group,2,5,Isosorbide dinitrate,414.9
+Retinoid Structure,Isopropyl Group,0,4,Isotretinoin,255.4
+Triazole Ring,Cyclohexane Ring,1,4,Itraconazole,206.3
+Imidazole Ring,Ketone Group,3,4,Ketoconazole,219.3
+Pyrrole Ring,Carboxylic Acid,2,4,Ketorolac,153.2
+Cytosine Analogue,Hydroxymethyl Group,1,5,Lamivudine,412.4
+Phenyltriazine Ring,Amino Group,1,7,Lamotrigine,309.4
+Benzimidazole Ring,Pyridine Ring,0,1,Lansoprazole,444.4
+Prostaglandin Analog,Phenyl Group,1,6,Latanoprost,297.3
+Luteinizing Hormone Analogue,Peptide Structure,2,4,Leuprolide,315.3
+Phenyl Ethylamine,Hydroxybutyl Group,2,3,Levalbuterol,359.2
+Pyrrolidone Ring,Ethyl Group,2,5,Levetiracetam,357.4
+Fluoroquinolone Structure,Carboxyl Group,3,7,Levofloxacin,454.4
+Thyroxine Structure,Iodine Atom,4,5,Levothyroxine,365.4
+Anilide Group,Ethyl Group,0,6,Lidocaine,507.5
+Oxazolidinone Ring,Phenyl Group,1,4,Linezolid,453.4
+Dipeptide Structure,Carboxyl Group,1,4,Lisinopril,453.4
+Lithium Ion,Carboxyl Group,2,4,Lithium,460.5
+Piperidine Ring,Chlorinated Aromatic Ring,0,5,Loratadine,374.3
+Benzodiazepine Ring,Chlorinated Phenyl Ring,2,3,Lorazepam,636.6
+Tetrazole Ring,Biphenyl Group,0,5,Losartan,661.6
+Hydroxyacid,Octahydroindole Ring,1,6,Lovastatin,414.4
+Endothelin Receptor Antagonist,Pyrimidine Ring,1,5,Macitentan,822.9
+Piperazine Ring,Phenyl Ring,1,4,Meclizine,320.8
+Progesterone Derivative,Methyl Group,1,5,Medroxyprogesterone,318.9
+Oxicam Ring,Methyl Group,1,6,Meloxicam,252.3
+Aminoadamantane Ring,Cyclohexane Group,2,7,Memantine,331.3
+Piperidine Ring,Anilide Group,1,5,Meperidine,314.8
+Aminosalicylic Acid,Phenyl Group,4,4,Mesalamine,748
+Biguanide Structure,Dimethyl Group,2,5,Metformin,424.9
+Diphenylpropylamine,Methadone Group,1,6,Methadone,521
+Imidazole Ring,Sulfur Atom,0,4,Methimazole,405.5
+Folate Analog,Amino Group,0,5,Methotrexate,315.2
+Corticosteroid Backbone,Methyl Group,1,4,Methylprednisolone,230.7
+Benzamide Ring,Dimethylamino Group,2,5,Metoclopramide,321.8
+Beta-Adrenergic Blocker,Ethanolamine Group,0,4,Metoprolol,344.2
+Nitroimidazole Ring,Methoxy Group,2,5,Metronidazole,326.8
+Tetracycline Ring,Dimethylamino Group,0,4,Minocycline,399.4
+Tetracyclic Antidepressant,Phenyl Ring,0,5,Mirtazapine,1500
+Prostaglandin Analog,Methyl Ester,1,4,Misoprostol,2000
+Anthracenedione Ring,Dimethylamino Group,1,5,Mitoxantrone,276.8
+Benzhydryl Group,Sulfinyl Group,1,4,Modafinil,"1,203.60"
+Leukotriene Receptor Antagonist,Benzothiazole Ring,4,5,Montelukast,627.6
+Phenanthrene Ring,Hydroxyl Group,4,2,Morphine,248.3
+Fluoroquinolone Structure,Carboxyl Group,0,4,Moxifloxacin,320.2
+Phenyl Group,Cyclic Compound,3,5,Mycophenolate,270.4
+Ketone Group,Aromatic Ring,2,4,Nabumetone,310.8
+Non-selective Beta-Blocker,Carboxyl Group,0,3,Nadolol,369.3
+Napthylpropionic Acid,Carboxyl Group,3,5,Naproxen,268.2
+Beta-Blocker,Phenyl Group,2,3,Nebivolol,271.4
+Pyrimidine Ring,Phenyl Group,0,5,Nelfinavir,284.7
+Aminoglycoside Structure,Sugar Moieties,1,0,Neomycin,296.1
+Non-Nucleoside Reverse Transcriptase Inhibitor,Pyridine Ring,3,3,Nevirapine,288.4
+Dihydropyridine Ring,Ester Group,2,2,Nifedipine,780.4
+Furan Ring,Nitro Group,1,0,Nitrofurantoin,414.9
+Nitrate Ester,Ethanolamine Group,1,1,Nitroglycerin,255.4
+Fluoroquinolone Structure,Carboxyl Group,0,3,Norfloxacin,206.3
+Tricyclic Antidepressant,Phenyl Group,1,2,Nortriptyline,219.3
+Polypeptide Structure,Polyene Ring,2,1,Nystatin,153.2
+Fluoroquinolone Structure,Piperazine Ring,2,1,Ofloxacin,412.4
+Dibenzodiazepine Ring,Phenyl Ring,2,0,Olanzapine,309.4
+Tetrazole Ring,Benzyl Group,3,1,Olmesartan,444.4
+Benzimidazole Ring,Pyridine Ring,4,2,Omeprazole,297.3
+Benzimidazole Ring,Pyrimidine Ring,0,2,Ondansetron,315.3
+Carboxylic Acid,Ethers Group,1,2,Oseltamivir,359.2
+Benzylpenicillin,Thiazolidine Ring,1,3,Oxacillin,357.4
+Methylxanthine,Amide Group,2,4,Oxybutynin,454.4
+Angiotensin II Receptor Antagonist,Biphenyl Group,0,0,Oxycodone,365.4
+Imidazole Ring,Methoxyphenyl Group,2,1,Oxymorphone,507.5
+Piperazine Ring,Piperidine Ring,0,1,Paliperidone,453.4
+Phenylthiazole Ring,Morpholine Group,1,2,Pantoprazole,453.4
+Phenylbutazone,Pyridine Ring,1,0,Paroxetine,460.5
+Penicillin Ring,Beta-Lactam Ring,1,2,Peginterferon,374.3
+Steroid Backbone,Carbonyl Group,1,0,Penicillin,636.6
+Steroid Backbone,Carbonyl Group,1,1,Pentoxifylline,661.6
+Pregnanes,Cyclohexane Ring,2,1,Perindopril,414.4
+Phenylbutylamide,Benzene Ring,1,1,Permethrin,822.9
+Benzodiazepine Ring,Phenyl Group,4,1,Phenobarbital,320.8
+Cyclic Ether,Benzyl Group,2,1,Phenytoin,318.9
+Alkylamine Group,Phenyl Ring,1,2,Pioglitazone,252.3
+Phenyl Group,Piperidine Ring,0,1,Piroxicam,331.3
+Beta-Lactam Ring,Phenyl Group,0,4,Pivmecillinam,314.8
+Aromatic Ring,Piperidine Ring,1,2,Pravastatin,748
+Triazole Ring,Cyclohexane Ring,2,1,Prednisolone,424.9
+N-Phenylpiperazine,Phenyl Group,0,0,Prednisone,521
+Piperidine Ring,Benzyl Group,2,0,Pregabalin,405.5
+Piperidine Ring,Benzyl Group,0,1,Primidone,315.2
+Benzylisoquinoline,Phenyl Ring,0,2,Probenecid,230.7
+Fluoroquinolone Structure,Carboxyl Group,1,0,Prochlorperazine,321.8
+Phenothiazine Ring,Benzyl Group,1,2,Progesterone,344.2
+Piperazine Ring,Phenyl Ring,1,0,Promethazine,326.8
+Alpha-Adrenergic Antagonist,Phenyl Group,4,0,Propafenone,399.4
+Phenyl Group,Carboxyl Group,4,1,Propranolol,1500
+Benzofuran Ring,Phenyl Group,0,1,Pseudoephedrine,2000
+Benzoxazole Ring,Phenyl Group,3,1,Pyrazinamide,276.8
+Imidazole Ring,Pyridine Ring,2,4,Pyridostigmine,"1,203.60"
+Beta-Lactam Ring,Carboxyl Group,0,4,Quetiapine,627.6
+Dibenzothiazepine Ring,Phenyl Ring,3,0,Quinapril,248.3
+Angiotensin II Receptor Antagonist,Piperidine Ring,2,3,Quinine,320.2
+Quinine Ring,Quinolone Group,0,2,Raltegravir,270.4
+Integrase Inhibitor,Pyrimidine Ring,1,0,Ramipril,310.8
+Angiotensin Converting Enzyme Inhibitor,Pyrrolidine Ring,3,3,Ranitidine,369.3
+Imidazole Ring,Dimethylamino Group,2,2,Rasagiline,268.2
+"1-Amino-2,3-dihydro-1H-indole",Phenyl Ring,1,0,Rifabutin,271.4
+Rifamycin Ring,Phenyl Group,1,1,Rifampin,284.7
+Rifamycin Ring,Amino Group,0,3,Riluzole,296.1
+Oxadiazole Ring,Benzyl Group,1,2,Risedronate,288.4
+Hydroxypyrrolidine Ring,Aniline Group,2,1,Risperidone,780.4
+Beta-Adrenergic Agonist,Propyl Group,2,1,Ritonavir,414.9
+Thiazolidinedione Group,Phenyl Group,2,0,Rivastigmine,255.4
+Aromatic Ring,Hydroxyl Group,3,1,Rizatriptan,206.3
+Phenothiazine Ring,Piperidine Ring,4,2,Roflumilast,219.3
+Macrolide Antibiotic,Erythromycin Backbone,0,2,Ropinirole,153.2
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Rosiglitazone,412.4
+Dipeptide Inhibitor,Glucagon-like Peptide,1,3,Rosuvastatin,309.4
+Pyrrolidine Ring,Phenyl Group,2,4,Rotigotine,444.4
+Monoclonal Antibody,Interleukin-17A Binding Region,0,0,Roxithromycin,297.3
+Monoamine Oxidase Inhibitor,Benzyl Group,2,1,Salmeterol,315.3
+Phosphodiesterase-4 Inhibitor,Piperazine Ring,0,1,Saxagliptin,359.2
+Dihydroergotamine Derivative,Benzyl Group,1,2,Secukinumab,357.4
+Imidazole Ring,Phenyl Ring,1,0,Selegiline,454.4
+Dipeptide Analog,Carboxyl Group,1,2,Sildenafil,365.4
+Sodium Salt,Carboxyl Group,1,0,Simvastatin,507.5
+Sodium Salt,Carboxyl Group,1,1,Sitagliptin,453.4
+Sodium Salt,Carboxyl Group,2,1,Sodium bicarbonate,453.4
+Sodium Salt,Carboxyl Group,1,1,Sodium chloride,460.5
+Tertiary Amine Group,Aromatic Ring,4,1,Sodium citrate,374.3
+Aromatic Ring,Aliphatic Group,2,1,Sodium phosphate,636.6
+Aldosterone Antagonist,Steroid Backbone,1,2,Solifenacin,661.6
+Nucleoside Reverse Transcriptase Inhibitor,Thymidine Analog,0,1,Sotalol,414.4
+Aminoglycoside Structure,Sugar Moieties,0,4,Spironolactone,822.9
+Sucralfate Complex,Sulfated Polysaccharide,1,2,Stavudine,320.8
+Sulfapyridine Derivative,Amino Group,2,1,Streptomycin,318.9
+Sulfonamide,Carboxyl Group,0,0,Sucralfate,252.3
+Sulfonamide,Aromatic Ring,2,0,Sulfasalazine,331.3
+Sumatriptan Structure,Indole Group,0,1,Sulfamethoxazole,314.8
+Macrolide Ring,Erythromycin Backbone,0,2,Sulfadiazine,748
+Phosphodiesterase-5 Inhibitor,Pyrazolopyrimidine Group,1,0,Sulfisoxazole,424.9
+Antagonist of Adrenergic Receptors,Benzodiazepine Ring,1,2,Sumatriptan,521
+Angiotensin II Receptor Antagonist,Hydroxyl Group,1,0,Tacrolimus,405.5
+Calcium Channel Blocker,Quinazoline Group,4,0,Tadalafil,315.2
+Antagonist of α1-Adrenergic Receptors,Piperazine Ring,4,1,Tamoxifen,230.7
+Macrolide Antibiotic,Phenyl Group,0,1,Tamsulosin,321.8
+Prostaglandin Analog,Aminoethylpiperidine,3,1,Tazobactam,344.2
+Vasodilator,Aromatic Group,2,4,Telmisartan,326.8
+Thiazide Diuretic,Sulfonamide Group,0,4,Temazepam,399.4
+Vasopressin Receptor Antagonist,Phenyl Ring,3,0,Tenofovir,1500
+Inhibitor of Angiotensin Converting Enzyme,Pyrrolidine Ring,2,3,Terbinafine,2000
+Beta-Blocker,Phenyl Group,0,2,Terbutaline,276.8
+Antifungal,Phenyl Group,1,0,Teriparatide,"1,203.60"
+Acetylcholinesterase Inhibitor,Pyrrolidine Ring,3,3,Tetracycline,627.6
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,2,2,Thalidomide,248.3
+Beta-Blocker,Aromatic Ring,1,0,Theophylline,320.2
+Anticancer Agent,Alkylating Agent,1,1,Thioguanine,270.4
+Antiviral Agent,Pyrimidine Ring,0,3,Thiotepa,310.8
+Beta-Adrenergic Agonist,Phenyl Ring,1,2,Thiopental,369.3
+Non-Steroidal Anti-Inflammatory Drug,Phenyl Ring,2,1,Tiagabine,268.2
+Calcium Channel Blocker,Phenyl Group,2,1,Ticagrelor,271.4
+Aminoglycoside,Sugar Moieties,2,0,Ticarcillin,284.7
+Sulfonamide,Phenyl Group,3,1,Tigecycline,296.1
+Sulfonamide,Phenyl Ring,4,2,Timolol,288.4
+Selective Serotonin Reuptake Inhibitor,Phenyl Ring,0,2,Tiotropium,780.4
+Immunosuppressant,Macrolide Ring,1,2,Tizanidine,414.9
+Phosphodiesterase-5 Inhibitor,Phenyl Ring,1,3,Tobramycin,255.4
+Phenylthiazine Ring,Piperidine Ring,2,4,Tolterodine,206.3
+Benzodiazepine Ring,Aromatic Ring,0,0,Topiramate,219.3
+Piperazine Ring,Carboxyl Group,2,1,Tramadol,153.2
+Amino Acid Derivative,Carboxylic Acid,0,1,Tranexamic acid,412.4
+Piperidine Ring,Phenyl Ring,1,2,Tranylcypromine,309.4
+Phenylpiperazine Ring,Tetrahydrofuran Ring,1,0,Trazodone,444.4
+Steroid Backbone,Hydroxyl Group,1,2,Triamcinolone,297.3
+Pyrimidine Ring,Diaminopyrimidine Ring,1,0,Triamterene,315.3
+Pyrimidine Ring,Fluoro Group,1,1,Trifluridine,359.2
+Trimethoxybenzene Ring,Dimethylamino Group,2,1,Trimethoprim,357.4
+Piperidine Ring,Phenyl Ring,1,1,Trimipramine,454.4
+Cyclohexane Ring,Benzyl Group,4,1,Trospium,365.4
+Ester Group,Guanine Derivative,2,1,Valacyclovir,507.5
+Guanine Derivative,Ester Group,1,2,Valganciclovir,453.4
+Carboxylic Acid,Amino Group,0,1,Valproic acid,453.4
+Glycopeptide Antibiotic,Amino Sugar Group,0,4,Vancomycin,460.5
+Piperazine Ring,Phenyl Group,1,2,Vardenafil,374.3
+Nicotinamide Ring,Pyrazole Ring,2,1,Varenicline,636.6
+N-Arylpiperazine Ring,Phenyl Ring,0,0,Vemurafenib,661.6
+Piperazine Ring,Morpholine Group,2,0,Verapamil,414.4
+Macrolide Antibiotic,Erythromycin Backbone,0,1,Vilazodone,822.9
+Cyclic Peptide,Argon Group,0,2,Vinblastine,320.8
+Glucagon-like Peptide,Carbonyl Group,1,0,Vincristine,318.9
+Antibody to PCSK9,Human Monoclonal Antibody,1,2,Vinorelbine,252.3
+Monoclonal Antibody,PCSK9 Binding Region,1,0,Voriconazole,331.3
+Proprotein Convertase Subtype 9 Inhibitor,Monoclonal Antibody,4,0,Warfarin,314.8
+Dipeptide Analog,Phenyl Ring,4,1,Zaleplon,748
+Peptide Analog,Aromatic Ring,0,1,Zolpidem,424.9
+Dipeptide Analog,Phenyl Group,3,1,Zonisamide,521
+Glucagon-like Peptide,Carbonyl Group,2,4,Zopiclone,405.5
+Sodium Salt,phenyl ring,0,4,Sacubitril/valsartan,315.2
+Sodium Salt,amino acid,3,0,Alirocumab,230.7
+Sodium Salt,Amide Group,2,3,Evolocumab,321.8
+Sodium Salt,phenyl group,0,2,Inclisiran,344.2
+Insulin Analogue,Glargine Structure,1,0,Ertugliflozin,326.8
+Dipeptide Analog,Carboxyl Group,3,3,Liraglutide,399.4
+Dipeptide Analog,Phenyl Group,2,2,Semaglutide,1500
+Dipeptide Analog,Amino Group,1,0,Dulaglutide,2000
+Dipeptide Analog,Phenyl Ring,1,1,Sitagliptin/metformin,276.8
+Dipeptide Analog,Aromatic Ring,0,3,Linagliptin,"1,203.60"
+Dipeptide Analog,Phenyl Group,1,2,Albiglutide,627.6
+Dipeptide Analog,Phenyl Group,2,1,Canagliflozin,248.3
+Dipeptide Analog,Glucagon-like Peptide,2,1,Dapagliflozin,320.2
+Dipeptide Analog,Carbonyl Group,2,0,Empagliflozin,270.4
+Dipeptide Analog,Carboxyl Group,3,1,Insulin glargine,310.8
