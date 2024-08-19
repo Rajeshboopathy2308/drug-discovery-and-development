@@ -120,7 +120,6 @@ sniffio
 sqlparse
 stack-data
 starlette
-streamlit
 tenacity
 threadpoolctl
 toml
